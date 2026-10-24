@@ -1,549 +1,573 @@
 {
-  "meta": {
-    "titre": "Veille couvre-feux : données vérifiées",
-    "verifie_le": "2026-10-24T16:55:00+02:00",
-    "fuseau": "Europe/Paris",
-    "avertissement": "Site indépendant et non officiel. Les arrêtés changent d'un jour à l'autre : vérifier sur le site de la préfecture. Les heures de publication et de mise à jour sont celles affichées par la source (heure de Paris), null quand la source n'en donne pas.",
-    "legende_statut": {
-      "confirmé": "Info relevée dans une source citée, cohérente avec les autres sources lues.",
-      "à confirmer": "Info incomplète, ancienne, contradictoire entre sources, ou lue seulement dans un titre ou un agrégateur."
-    },
-    "contexte": [
-      {
-        "texte": "Journée nationale de mobilisation du samedi 24 octobre 2026, après les violences et pillages du week-end du 17 octobre. 70 000 policiers et gendarmes annoncés (titre d'un direct ICI, contenu non lisible).",
-        "statut": "à confirmer",
-        "source": {"titre": "ICI (France Bleu) : direct mobilisation du 24 octobre", "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021", "publie_le": null, "maj_le": null},
-        "verifie_le": "2026-10-24T16:55:00+02:00"
+  "updatedAt": "2026-10-24T16:00:00+02:00",
+  "events": [
+    {
+      "date": "2026-10-24",
+      "time": "16 h",
+      "city": "Paris",
+      "title": "Manifestation autorisée : porte d’Italie → porte de Vincennes",
+      "details": "Le parcours Bastille–place Félix-Éboué–Nation initialement annoncé n’est plus le parcours retenu. Le parcours validé pour ce samedi va de la porte d’Italie à la porte de Vincennes. Vérifier les consignes de la Préfecture de police avant le déplacement.",
+      "status": "authorized",
+      "source": {
+        "label": "Le Parisien, 24 octobre 2026 — parcours confirmé après recours",
+        "url": "https://www.leparisien.fr/politique/mobilisation-du-24-octobre-paris-lyon-marseille-bordeaux-la-justice-valide-ou-invalide-les-interdictions-de-manifester-24-10-2026-GKJFVNJAYBAU5E4KD3KDORDOGM.php"
       },
-      {
-        "texte": "Prochaine journée syndicale nationale annoncée le 5 novembre.",
-        "statut": "confirmé",
-        "source": {"titre": "Bordeaux Gazette : ce qui attend Bordeaux samedi", "url": "https://www.bordeaux-gazette.com/manifestation-du-24-octobre-ce-qui-attend-bordeaux-samedi.html", "publie_le": "2026-10-22T12:28:00+02:00", "maj_le": "2026-10-24T01:08:00+02:00"},
-        "verifie_le": "2026-10-24T16:55:00+02:00"
-      }
-    ]
-  },
-  "villes": [
-    {
-      "ville": "Grenoble",
-      "departement": "38",
-      "communes_concernees": ["Grenoble", "Échirolles", "Saint-Martin-d'Hères"],
-      "rassemblements": [
-        {
-          "texte": "Interdiction de tout rassemblement dans plusieurs secteurs du centre-ville de Grenoble, du jeudi 22 octobre 06h00 au dimanche 25 octobre 06h00. Le tribunal administratif a rejeté le référé le 23 octobre : l'arrêté reste en vigueur.",
-          "statut": "confirmé",
-          "source": {"titre": "Préfecture de l'Isère : Manifestations du samedi 24 octobre 2026", "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026", "publie_le": null, "maj_le": "2026-10-24 (heure non indiquée)"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Deux événements déclarés : un rassemblement statique étudiant (UNEF, Solidaires Étudiants) et la manifestation « Convergence des revendications pour une vie digne » (Gilets jaunes, rejoints par la CGT). Parcours modifié à la demande de la préfète pour éviter le périmètre interdit. Heures et lieux de départ non précisés par la préfecture.",
-          "statut": "à confirmer",
-          "source": {"titre": "Préfecture de l'Isère : Manifestations du samedi 24 octobre 2026", "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026", "publie_le": null, "maj_le": "2026-10-24 (heure non indiquée)"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Des titres de presse parlent de milliers de manifestants, de vandalisme, d'affrontements en marge du cortège et d'un premier rassemblement dispersé (mairie et rectorat barricadés). Seuls les titres sont lisibles : contenu et horaires non vérifiés.",
-          "statut": "à confirmer",
-          "source": {"titre": "France 3 Auvergne-Rhône-Alpes : direct du 24 octobre à Grenoble (titre vu dans les résultats de recherche)", "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/direct-manifestations-du-24-octobre-a-grenoble-un-premier-rassemblement-disperse-mairie-et-rectorat-barricades-suivez-la-situation-en-temps-reel-3437826.html", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu du samedi 24 octobre 18h00 au dimanche 25 octobre 06h00 dans 4 périmètres : hypercentre de Grenoble (place de Verdun, bd Jean-Pain, vers le parc Paul-Mistral et la caserne de Bonne), zone commerciale Grand Place (Grenoble/Échirolles), Comboire (Échirolles), Neyrpic (Saint-Martin-d'Hères).",
-          "statut": "confirmé",
-          "source": {"titre": "Place Gre'net : interdiction de manifester et couvre-feu le soir", "url": "https://www.placegrenet.fr/2026/10/23/grenoble-interdiction-de-manifester-dans-plusieurs-secteurs-du-centre-ville-samedi-et-un-couvre-feu-le-soir/692508", "publie_le": "2026-10-23T21:13:00+02:00", "maj_le": "2026-10-24T10:07:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Personnes concernées, exceptions et sanctions : non précisées dans les sources lues (le détail est dans le PDF de l'arrêté, que je n'ai pas pu ouvrir). Les mentions du site actuel (contravention de 4e classe, traversée en voiture autorisée) n'ont donc pas pu être revérifiées.",
-          "statut": "à confirmer",
-          "source": {"titre": "Préfecture de l'Isère : Manifestations du samedi 24 octobre 2026", "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026", "publie_le": null, "maj_le": "2026-10-24 (heure non indiquée)"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Aucun tramway ne circule dans l'agglomération grenobloise le samedi 24 octobre (décision prise vendredi matin entre l'intersyndicale M Tag et le SMMAG). Heures de l'arrêt non précisées.",
-          "statut": "confirmé",
-          "source": {"titre": "Grenoble Mag : les tramways à l'arrêt samedi 24 octobre", "url": "https://www.grenoblemag.com/article/3514/grenoble-les-tramways-a-l-arret-samedi-24-octobre-bras-de-fer-autour-des-bus", "publie_le": "2026-10-23T14:51:00+02:00", "maj_le": "2026-10-24T10:06:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Bus : la décision de maintenir ou non le service n'était pas tranchée dans l'article (réunion prévue vendredi 17h, résultat non retrouvé). La préfecture parle de fortes perturbations des trams et bus sur toute l'agglomération. Agences fermées samedi : M Réso Alsace-Lorraine, Joseph-Vallier, Grand-Place.",
-          "statut": "à confirmer",
-          "source": {"titre": "Grenoble Mag : les tramways à l'arrêt samedi 24 octobre", "url": "https://www.grenoblemag.com/article/3514/grenoble-les-tramways-a-l-arret-samedi-24-octobre-bras-de-fer-autour-des-bus", "publie_le": "2026-10-23T14:51:00+02:00", "maj_le": "2026-10-24T10:06:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Paris",
-      "departement": "75",
-      "rassemblements": [
-        {
-          "texte": "Seule manifestation syndicale (CGT) autorisée. Parcours le plus récent : porte d'Italie vers porte de Vincennes par les boulevards des Maréchaux, départ 14h (autorisée de 13h à 19h), après rejet du recours par le tribunal administratif samedi matin. Une source de la veille indiquait Bastille vers Nation : parcours à confirmer.",
-          "statut": "à confirmer",
-          "source": {"titre": "Sortiraparis : October 24 protest in Paris", "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-protest-in-paris-route-approved-metro-traffic-what-you-need-to-know", "publie_le": null, "maj_le": "2026-10-24T14:09:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Parcours Gilets jaunes Bastille vers Opéra interdit. Arrêté n° 2026-01415 : trois rassemblements statiques interdits près de l'Élysée (35 av. Gabriel) les 23 octobre, 24 octobre (dès 6h30) et 25 octobre (dès 16h30). Les autres manifestations sont interdites à Paris. Rejoindre un rassemblement non déclaré peut valoir une amende.",
-          "statut": "confirmé",
-          "source": {"titre": "Sortiraparis : October 24 protest in Paris", "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-protest-in-paris-route-approved-metro-traffic-what-you-need-to-know", "publie_le": null, "maj_le": "2026-10-24T14:09:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Interdiction de laisser du mobilier sur la voie publique pouvant servir d'arme, du samedi 6h au lundi 6h.",
-          "statut": "confirmé",
-          "source": {"titre": "Mairie du 15e : bulletin spécial manifestations du 24 octobre", "url": "https://mairie15.paris.fr/pages/bulletin-special-manifestations-du-24-octobre-36993", "publie_le": null, "maj_le": "2026-10-23 (heure non indiquée)"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu partiel de 23h à 6h chaque nuit, secteurs République et Châtelet-Les Halles, jusqu'au lundi 26 octobre 6h (arrêté n° 2026-01407 du 22 octobre). Concerne donc la nuit de ce samedi.",
-          "statut": "confirmé",
-          "source": {"titre": "Sortiraparis : October 24 protest in Paris", "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-protest-in-paris-route-approved-metro-traffic-what-you-need-to-know", "publie_le": null, "maj_le": "2026-10-24T14:09:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Métro : stations fermées à partir de 9h entre les Champs-Élysées et le Quartier latin, sans heure de réouverture annoncée. Nombre de stations contradictoire selon les sources (24 ou 28). Lignes coupées : ligne 2 entre Barbès-Rochechouart et Nation ; ligne 6 entre Kléber et Charles de Gaulle-Étoile ; ligne 12 entre Madeleine et Notre-Dame-des-Champs.",
-          "statut": "à confirmer",
-          "source": {"titre": "Sortiraparis (24 stations) et Journal du Geek (28 stations)", "url": "https://www.journaldugeek.com/2026/10/23/manifestation-du-24-octobre-a-paris-voici-la-liste-des-stations-de-metro-fermees-et-les-lieux-a-eviter/", "publie_le": "2026-10-23T19:31:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Tramway : T3a suspendu entre Montsouris et Porte de Vincennes ; T3b suspendu entre Porte de Montreuil et Porte de Vincennes, de 10h au dimanche 6h.",
-          "statut": "confirmé",
-          "source": {"titre": "Sortiraparis : October 24 protest in Paris", "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-protest-in-paris-route-approved-metro-traffic-what-you-need-to-know", "publie_le": null, "maj_le": "2026-10-24T14:09:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Bus : 14 lignes déviées ou limitées vers midi (21, 24, 29, 46, 56, 57, 64, 67, 77, 86, 87, 109, 202, 215). Bus 27 dévié de 22h30 à 3h (arrêts non desservis entre Palais Royal et Pont Neuf).",
-          "statut": "confirmé",
-          "source": {"titre": "Sortiraparis : October 24 protest in Paris", "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-protest-in-paris-route-approved-metro-traffic-what-you-need-to-know", "publie_le": null, "maj_le": "2026-10-24T14:09:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "10 h – 23 h",
+      "city": "Lyon",
+      "title": "Manifestations et rassemblements revendicatifs interdits dans un périmètre du centre",
+      "details": "L’interdiction concerne un périmètre défini par arrêté préfectoral, comprenant notamment la Presqu’île et d’autres secteurs du centre. Ne pas étendre cette interdiction à toute la ville. Elle est distincte du couvre-feu nocturne, dont la prolongation doit être vérifiée séparément.",
+      "status": "banned",
+      "source": {
+        "label": "Ville de Lyon — mesures de sécurisation du 24 octobre",
+        "url": "https://www.lyon.fr/actualite/action-municipale/24-octobre-la-ville-prend-des-mesures-de-securisation"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Lyon",
-      "departement": "69",
-      "rassemblements": [
-        {
-          "texte": "Manifestations, cortèges et rassemblements revendicatifs interdits de 10h à 23h le samedi 24 octobre. Périmètre : Presqu'île (des Terreaux au cours Charlemagne), une partie du Vieux-Lyon, et rive gauche : Brotteaux, Part-Dieu, Guillotière jusqu'au cours Gambetta.",
-          "statut": "confirmé",
-          "source": {"titre": "Ville de Lyon : 24 octobre, la Ville prend des mesures de sécurisation", "url": "https://www.lyon.fr/actualite/action-municipale/24-octobre-la-ville-prend-des-mesures-de-securisation", "publie_le": "2026-10-23 (heure non indiquée)", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Artifices, carburant en jerrican interdits dans tout le Rhône du vendredi 23 octobre 20h au lundi 26 octobre 6h. Musées des Beaux-Arts et Gadagne fermés samedi ; plusieurs bibliothèques fermées ; seuls les mariages maintenus dans les mairies des 1er, 3e et 7e.",
-          "statut": "confirmé",
-          "source": {"titre": "Préfecture du Rhône : Mobilisation du 24 octobre, des mesures de sécurité renforcées", "url": "https://www.rhone.gouv.fr/Actualites/Mobilisation-du-24-octobre-des-mesures-de-securite-renforcees", "publie_le": null, "maj_le": "2026-10-24 (heure non indiquée)"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu (circulation des personnes interdite) du samedi 24 octobre 23h au dimanche 25 octobre 6h, sur la zone de la Presqu'île. Exceptions non précisées.",
-          "statut": "confirmé",
-          "source": {"titre": "Préfecture du Rhône : Mobilisation du 24 octobre, des mesures de sécurité renforcées", "url": "https://www.rhone.gouv.fr/Actualites/Mobilisation-du-24-octobre-des-mesures-de-securite-renforcees", "publie_le": null, "maj_le": "2026-10-24 (heure non indiquée)"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Etat relevé à 12h30 : métro D arrêté (reprise annoncée vers 15h), métro B sans desserte à Part-Dieu à Vivier-Merle (reprise vers 13h), tram T4 arrêté (reprise vers 22h), Trambus TB11 sans desserte de Saint-Paul à Cordeliers jusqu'à nouvel ordre (vers 22h), bus 37, 38 et 40 perturbés. Info vieille de plus de 4 heures : l'état actuel est inconnu.",
-          "statut": "à confirmer",
-          "source": {"titre": "Lyon Capitale : plusieurs lignes TCL déjà perturbées ce samedi", "url": "https://www.lyoncapitale.fr/actualite/manifestations-a-lyon-plusieurs-lignes-tcl-deja-perturbees-ce-samedi", "publie_le": "2026-10-24T12:58:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Grenoble",
+      "title": "Restrictions de rassemblements — périmètre à confirmer",
+      "details": "Le détail du périmètre doit être confirmé à partir de l’arrêté préfectoral original. Tant que l’arrêté n’est pas relié directement à la fiche, ne pas présenter les limites exactes comme vérifiées.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de l’Isère — site officiel",
+        "url": "https://www.isere.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Marseille",
-      "departement": "13",
-      "rassemblements": [
-        {
-          "texte": "Toutes les manifestations, déclarées ou non, sont interdites dans tout le département des Bouches-du-Rhône le samedi 24 octobre (arrêté du préfet). Un agrégateur indique pourtant une marche syndicale autorisée à 14h depuis Les Réformés : contradiction non résolue.",
-          "statut": "à confirmer",
-          "source": {"titre": "Made in Marseille : interdiction de manifester et couvre-feu", "url": "https://madeinmarseille.net/a-la-une-marseille/213309-marseille-interdiction-de-manifester-et-couvre-feu-pour-les-majeurs-samedi-24-octobre/", "publie_le": "2026-10-22T17:53:00+02:00", "maj_le": "2026-10-22T18:23:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Interdits : équipements de protection (casques, gants, lunettes), transport de carburant, armes par destination.",
-          "statut": "confirmé",
-          "source": {"titre": "Made in Marseille : interdiction de manifester et couvre-feu", "url": "https://madeinmarseille.net/a-la-une-marseille/213309-marseille-interdiction-de-manifester-et-couvre-feu-pour-les-majeurs-samedi-24-octobre/", "publie_le": "2026-10-22T17:53:00+02:00", "maj_le": "2026-10-22T18:23:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu de 23h à 5h, prolongé les nuits du samedi au dimanche et du dimanche au lundi, désormais pour tous les habitants (majeurs et mineurs). Centre de Marseille, rues commerçantes, centres commerciaux, et abords des bâtiments publics (mairie, préfecture, palais de justice). Exceptions non précisées.",
-          "statut": "confirmé",
-          "source": {"titre": "Made in Marseille : interdiction de manifester et couvre-feu", "url": "https://madeinmarseille.net/a-la-une-marseille/213309-marseille-interdiction-de-manifester-et-couvre-feu-pour-les-majeurs-samedi-24-octobre/", "publie_le": "2026-10-22T17:53:00+02:00", "maj_le": "2026-10-22T18:23:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Aucune info sur le réseau RTM (métro, tram, bus) dans les sources lues.",
-          "statut": "à confirmer",
-          "source": {"titre": "Made in Marseille", "url": "https://madeinmarseille.net/a-la-une-marseille/213309-marseille-interdiction-de-manifester-et-couvre-feu-pour-les-majeurs-samedi-24-octobre/", "publie_le": "2026-10-22T17:53:00+02:00", "maj_le": "2026-10-22T18:23:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Drôme",
+      "title": "Rassemblements : à confirmer",
+      "details": "Aucune annonce confirmée n’a été établie lors du contrôle. Cela ne prouve pas qu’aucun rassemblement n’existe : consulter les derniers communiqués et arrêtés de la préfecture.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de la Drôme — site officiel",
+        "url": "https://www.drome.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Montpellier",
-      "departement": "34",
-      "rassemblements": [
-        {
-          "texte": "Manifestation déclarée par FO interdite. Tout attroupement interdit de 8h à 22h le samedi 24 octobre : Écusson, boulevards périphériques, Polygone, place de la Comédie, secteur gare Saint-Roch.",
-          "statut": "confirmé",
-          "source": {"titre": "34infos : Montpellier, sécurité renforcée et restrictions dures", "url": "https://34infos.fr/2026/10/22/montpellier-securite-renforcee-et-restrictions-dures-pour-le-samedi-24-octobre/", "publie_le": "2026-10-22T18:38:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Port et transport d'équipements de protection interdits le samedi de 5h à 22h. Artifices, carburant en jerrican, acide et produits inflammables interdits dans tout le département du vendredi 23 (6h) au dimanche 25 octobre (23h). Drones et patrouilles Sentinelle déployés.",
-          "statut": "confirmé",
-          "source": {"titre": "34infos : Montpellier, sécurité renforcée et restrictions dures", "url": "https://34infos.fr/2026/10/22/montpellier-securite-renforcee-et-restrictions-dures-pour-le-samedi-24-octobre/", "publie_le": "2026-10-22T18:38:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour les mineurs non accompagnés dans les centres-villes de Montpellier et Béziers : nuit du vendredi 23 au samedi 24 dès 22h, nuit du samedi 24 au dimanche 25 dès 20h, jusqu'à 6h.",
-          "statut": "confirmé",
-          "source": {"titre": "Tout Montpellier : mobilisation du 24 octobre", "url": "https://toutmontpellier.fr/news/mobilisation-du-24-octobre-manifestation-interdite-couvre-feu-et-tramw", "publie_le": "2026-10-22T20:19:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Tramway suspendu toute la journée du samedi 24 octobre (mesure préventive décidée avec la métropole et la CCI).",
-          "statut": "confirmé",
-          "source": {"titre": "Tout Montpellier : mobilisation du 24 octobre", "url": "https://toutmontpellier.fr/news/mobilisation-du-24-octobre-manifestation-interdite-couvre-feu-et-tramw", "publie_le": "2026-10-22T20:19:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Marseille",
+      "title": "Cortège syndical : détails à confirmer",
+      "details": "Un article national rapporte qu’un cortège syndical a été autorisé à titre dérogatoire. Avant de publier le parcours et les conditions comme confirmés, vérifier l’arrêté ou le communiqué préfectoral correspondant.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture des Bouches-du-Rhône — site officiel",
+        "url": "https://www.bouches-du-rhone.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Béziers",
-      "departement": "34",
-      "rassemblements": [
-        {
-          "texte": "Aucun périmètre d'interdiction de rassemblement précisé pour Béziers dans les sources lues.",
-          "statut": "à confirmer",
-          "source": {"titre": "Tout Montpellier : mobilisation du 24 octobre", "url": "https://toutmontpellier.fr/news/mobilisation-du-24-octobre-manifestation-interdite-couvre-feu-et-tramw", "publie_le": "2026-10-22T20:19:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour les mineurs non accompagnés au centre-ville : samedi 24 dès 20h jusqu'au dimanche 6h (même arrêté que Montpellier).",
-          "statut": "confirmé",
-          "source": {"titre": "Tout Montpellier : mobilisation du 24 octobre", "url": "https://toutmontpellier.fr/news/mobilisation-du-24-octobre-manifestation-interdite-couvre-feu-et-tramw", "publie_le": "2026-10-22T20:19:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Le titre de l'article évoque un tramway à l'arrêt à Béziers, mais le texte lu ne détaille que Montpellier. Béziers n'a pas de tramway : à confirmer.",
-          "statut": "à confirmer",
-          "source": {"titre": "Tout Montpellier : mobilisation du 24 octobre", "url": "https://toutmontpellier.fr/news/mobilisation-du-24-octobre-manifestation-interdite-couvre-feu-et-tramw", "publie_le": "2026-10-22T20:19:00+02:00", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Nice",
+      "title": "Rassemblements : à confirmer",
+      "details": "Le périmètre exact et les horaires de l’interdiction n’ont pas été confirmés dans un arrêté officiel consulté. Conserver le statut « À confirmer » jusqu’à vérification.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture des Alpes-Maritimes — site officiel",
+        "url": "https://www.alpes-maritimes.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Bordeaux",
-      "departement": "33",
-      "rassemblements": [
-        {
-          "texte": "Manifestation interdite du samedi 24 octobre 8h au dimanche 25 octobre 8h dans une large partie du centre (quais, Bourse, Pey-Berland, Victoire, Mériadeck, une partie des Chartrons). Amende de 135 euros. Le défilé CGT-FO-FSU prévu à 14h place de la Bourse est interdit ; recours en référé annoncé, décision non retrouvée.",
-          "statut": "confirmé",
-          "source": {"titre": "Bordeaux Gazette : ce qui attend Bordeaux samedi", "url": "https://www.bordeaux-gazette.com/manifestation-du-24-octobre-ce-qui-attend-bordeaux-samedi.html", "publie_le": "2026-10-22T12:28:00+02:00", "maj_le": "2026-10-24T01:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        },
-        {
-          "texte": "Images par drones autorisées dans plusieurs secteurs du samedi 8h au dimanche 4h. Match Girondins-Stade Montois reporté au dimanche 25 octobre 15h.",
-          "statut": "confirmé",
-          "source": {"titre": "Bordeaux Gazette : ce qui attend Bordeaux samedi", "url": "https://www.bordeaux-gazette.com/manifestation-du-24-octobre-ce-qui-attend-bordeaux-samedi.html", "publie_le": "2026-10-22T12:28:00+02:00", "maj_le": "2026-10-24T01:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour les mineurs non accompagnés dès 20h (avancé depuis 22h), du vendredi 23 au lundi 26 octobre, dans les zones centrales désignées. Amende de 375 euros.",
-          "statut": "confirmé",
-          "source": {"titre": "Bordeaux Gazette : ce qui attend Bordeaux samedi", "url": "https://www.bordeaux-gazette.com/manifestation-du-24-octobre-ce-qui-attend-bordeaux-samedi.html", "publie_le": "2026-10-22T12:28:00+02:00", "maj_le": "2026-10-24T01:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "TBM : perturbations possibles (tram interrompu, bus déviés) dans les secteurs Victor-Hugo, Pey-Berland, Gambetta, Mériadeck, Bourse, quais, Victoire, Bordeaux-Lac. Aucune ligne précise annoncée. Info trafic : infotbm.com, Allô TBM 05 57 57 88 88.",
-          "statut": "à confirmer",
-          "source": {"titre": "Bordeaux Gazette : ce qui attend Bordeaux samedi", "url": "https://www.bordeaux-gazette.com/manifestation-du-24-octobre-ce-qui-attend-bordeaux-samedi.html", "publie_le": "2026-10-22T12:28:00+02:00", "maj_le": "2026-10-24T01:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "7 h – 22 h",
+      "city": "Lille",
+      "title": "Interdiction de rassemblements dans une partie du centre — tracé à confirmer",
+      "details": "Une source nationale rapporte une interdiction dans le centre de Lille de 7 h à 22 h. Le tracé précis du cortège autorisé et le périmètre interdit doivent être contrôlés sur l’arrêté préfectoral avant de détailler la carte.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture du Nord — site officiel",
+        "url": "https://www.nord.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Nantes",
-      "departement": "44",
-      "rassemblements": [
-        {
-          "texte": "« Acte II » à 13h depuis 4 points (place du Bouffay, place Bretagne, Croisée des trams, place Viarme), convergence à la Croisée des trams à 20h. Ailleurs : Saint-Nazaire 10h (place de l'Amérique-Latine), Châteaubriant 9h30. Manifestations non déclarées interdites dans le centre (selon un agrégateur).",
-          "statut": "à confirmer",
-          "source": {"titre": "Sorties à Nantes : manifestation du samedi 24 octobre", "url": "https://sortiesanantes.fr/manifestation-du-samedi-24-octobre-a-nantes-lieux-horaires-et-mesures/", "publie_le": "2026-10-23 (heure non indiquée)", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "L'arrêté du 20 octobre interdit les attroupements de 21h à 6h chaque nuit jusqu'au samedi 24 octobre 6h (centre-ville borné par place Bretagne, rue de Strasbourg, cours John-Kennedy, rues Franklin, Piron, Fourcroy). Un titre ICI parle d'un couvre-feu pour les mineurs à Nantes et Saint-Nazaire de 21h à 6h. Reste à savoir si la nuit de ce samedi est couverte : à confirmer.",
-          "statut": "à confirmer",
-          "source": {"titre": "Sorties à Nantes + ICI (titre)", "url": "https://sortiesanantes.fr/manifestation-du-samedi-24-octobre-a-nantes-lieux-horaires-et-mesures/", "publie_le": "2026-10-23 (heure non indiquée)", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "TAN : perturbations possibles dans le centre-ville, aucune précision. Consulter l'info trafic TAN.",
-          "statut": "à confirmer",
-          "source": {"titre": "Sorties à Nantes : manifestation du samedi 24 octobre", "url": "https://sortiesanantes.fr/manifestation-du-samedi-24-octobre-a-nantes-lieux-horaires-et-mesures/", "publie_le": "2026-10-23 (heure non indiquée)", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Rennes",
+      "title": "Restrictions de rassemblements : périmètre à confirmer",
+      "details": "Ne pas publier le détail du périmètre comme confirmé tant que l’arrêté préfectoral exact n’est pas directement lié à la fiche.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture d’Ille-et-Vilaine — site officiel",
+        "url": "https://www.ille-et-vilaine.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Toulouse",
-      "departement": "31",
-      "rassemblements": [
-        {
-          "texte": "Départ des Arènes, itinéraire hors du centre, rassemblement place du Capitole à 14h (selon un agrégateur). Non confirmé par une source officielle.",
-          "statut": "à confirmer",
-          "source": {"titre": "Manifs en direct : manifestation 24 octobre 2026", "url": "https://www.manifsendirect.fr/manifestation/24-octobre-2026/", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour tous du jeudi 22 au dimanche 25 octobre, chaque nuit de 23h59 à 5h, hypercentre (rue de Rémusat, place du Capitole, rue Saint-Rome, rue des Changes, place Esquirol, rue d'Alsace-Lorraine). Exceptions : trajet domicile-travail justifié, urgences de santé (vétérinaires compris), agents et missions d'intérêt général. Amende de 750 euros. Peut être adapté ou levé.",
-          "statut": "confirmé",
-          "source": {"titre": "Toulouse Métropole : couvre-feu dans l'hypercentre après minuit", "url": "https://metropole.toulouse.fr/actualites/couvre-feu-dans-lhypercentre-apres-minuit", "publie_le": null, "maj_le": "2026-10-21T16:26:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Aucune modification Tisséo propre au 24 octobre trouvée. La seule page lue date du 19 octobre (horaires de vacances). Info stale : à confirmer sur tisseo.fr.",
-          "statut": "à confirmer",
-          "source": {"titre": "Toulouse Evous : grèves et manifestations (infos arrêtées au 19/10)", "url": "https://toulouse.evous.fr/citoyen/manifestations-greves-et-rassemblements/", "publie_le": null, "maj_le": "2026-10-19T08:51:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "8 h – 22 h",
+      "city": "Montpellier",
+      "title": "Interdiction de manifestation : détails à confirmer",
+      "details": "Le détail du périmètre et les mesures concernant les transports doivent être distingués et confirmés séparément par les sources officielles.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de l’Hérault — site officiel",
+        "url": "https://www.herault.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Nice",
-      "departement": "06",
-      "rassemblements": [
-        {
-          "texte": "Manifestations et cortèges interdits de 8h à minuit le samedi 24 octobre dans une grande partie du centre (gare, Carré d'Or, place Masséna, avenue Gambetta, Vieux-Nice, port). Commerces ouverts.",
-          "statut": "confirmé",
-          "source": {"titre": "Nice Premium : 450 policiers mobilisés et rassemblements interdits", "url": "https://www.nicepremium.fr/actualites/manifestation-du-24-octobre-a-nice-450-policiers-mobilises-et-rassemblements-interdits/", "publie_le": "2026-10-23T15:02:00+02:00", "maj_le": "2026-10-23T15:02:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour les mineurs de 21h le samedi 24 octobre à 6h le dimanche, secteurs Centre-Ville, Vieux-Nice, Trachel-Gare du Sud ; maintenu jusqu'au lundi 26 octobre 6h.",
-          "statut": "confirmé",
-          "source": {"titre": "Nice Premium : 450 policiers mobilisés et rassemblements interdits", "url": "https://www.nicepremium.fr/actualites/manifestation-du-24-octobre-a-nice-450-policiers-mobilises-et-rassemblements-interdits/", "publie_le": "2026-10-23T15:02:00+02:00", "maj_le": "2026-10-23T15:02:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Un titre évoque des perturbations Lignes d'Azur (grève) du 23 au 25 octobre, sans détail lisible. À confirmer.",
-          "statut": "à confirmer",
-          "source": {"titre": "Nice Premium (bandeau de la page)", "url": "https://www.nicepremium.fr/actualites/manifestation-du-24-octobre-a-nice-450-policiers-mobilises-et-rassemblements-interdits/", "publie_le": "2026-10-23T15:02:00+02:00", "maj_le": "2026-10-23T15:02:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "9 h – 22 h",
+      "city": "Caen",
+      "title": "Restrictions de rassemblements : périmètre à confirmer",
+      "details": "La préfecture a publié une page relative au renforcement des mesures de sécurité. Vérifier l’arrêté joint et ses limites exactes avant de présenter les secteurs comme confirmés.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture du Calvados — mesures de sécurité à Caen",
+        "url": "https://www.calvados.gouv.fr/Actualites/Securite-Risques-Securite-Routiere-Justice/Arretes-prefectoraux-Renforcement-des-mesures-de-securite-a-Caen"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Annecy",
-      "departement": "74",
-      "rassemblements": [
-        {
-          "texte": "Interdiction de manifester annoncée à Annecy et Annemasse (titre ICI) ; périmètre et horaires non lus. La mairie avait demandé à la préfecture d'interdire les rassemblements dans l'hypercentre. Un agrégateur indique un rassemblement à 19h au Pâquier.",
-          "statut": "à confirmer",
-          "source": {"titre": "ICI : il y aura aussi des interdictions de manifester à Annecy et Annemasse (titre)", "url": "https://www.ici.fr/auvergne-rhone-alpes/haute-savoie-74/mobilisation-du-24-octobre-il-y-aura-aussi-des-interdiction-de-manifester-a-annecy-et-annemasse-5009349", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour les mineurs du samedi 19h au dimanche 6h, quartier Novel-Teppes et hypercentre (décision de la Ville).",
-          "statut": "confirmé",
-          "source": {"titre": "ODS Radio : Annecy, couvre-feu, bus adaptés", "url": "https://www.odsradio.com/news/locales/111081/annecy-couvre-feu-bus-adaptes-la-ville-renforce-la-securite", "publie_le": "2026-10-23T08:59:00+02:00", "maj_le": "2026-10-23T09:13:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Itinéraires de bus adaptés pour des raisons de sécurité ; lignes et tracés non précisés.",
-          "statut": "à confirmer",
-          "source": {"titre": "ODS Radio : Annecy, couvre-feu, bus adaptés", "url": "https://www.odsradio.com/news/locales/111081/annecy-couvre-feu-bus-adaptes-la-ville-renforce-la-securite", "publie_le": "2026-10-23T08:59:00+02:00", "maj_le": "2026-10-23T09:13:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-24",
+      "time": "9 h – 20 h",
+      "city": "Rouen et Le Havre",
+      "title": "Restrictions de rassemblements : à confirmer",
+      "details": "Le détail des zones et des horaires doit être vérifié sur l’arrêté de la préfecture de Seine-Maritime. À défaut, conserver le statut « À confirmer ».",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de la Seine-Maritime — site officiel",
+        "url": "https://www.seine-maritime.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Annemasse",
-      "departement": "74",
-      "rassemblements": [
-        {
-          "texte": "Interdiction de manifester annoncée (titre ICI), détails non lus.",
-          "statut": "à confirmer",
-          "source": {"titre": "ICI : interdictions de manifester à Annecy et Annemasse (titre)", "url": "https://www.ici.fr/auvergne-rhone-alpes/haute-savoie-74/mobilisation-du-24-octobre-il-y-aura-aussi-des-interdiction-de-manifester-a-annecy-et-annemasse-5009349", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Le maire annonce un couvre-feu pour les mineurs samedi et dimanche soir (titre ICI). Heures et périmètre non lus.",
-          "statut": "à confirmer",
-          "source": {"titre": "ICI : le maire d'Annemasse annonce un couvre-feu pour les mineurs (titre)", "url": "https://www.ici.fr/auvergne-rhone-alpes/haute-savoie-74/annemasse/le-maire-d-annemasse-annonce-un-couvre-feu-pour-les-mineurs-samedi-et-dimanche-soir-2016781", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": []
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Limoges",
+      "title": "Restrictions de rassemblements : détails à confirmer",
+      "details": "Le seuil de personnes, les objets concernés et le périmètre doivent être repris de l’arrêté officiel. Ne pas les présenter comme confirmés sans ce document.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de la Haute-Vienne — site officiel",
+        "url": "https://www.haute-vienne.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Chambéry",
-      "departement": "73",
-      "rassemblements": [
-        {
-          "texte": "Manifestations et rassemblements interdits le samedi 24 octobre de 8h à 22h, de la poste Verney à la préfecture en passant par le square du Mont-Blanc. Port de lunettes de ski, cagoules et masques à gaz interdit jusqu'au lundi 2 novembre.",
-          "statut": "confirmé",
-          "source": {"titre": "ODS Radio : Chambéry, la préfecture interdit les manifestations samedi", "url": "https://www.odsradio.com/news/locales/111062/chambery-la-prefecture-interdit-les-manifestations-samedi-dans-le-centre-historique", "publie_le": "2026-10-22T08:06:00+02:00", "maj_le": "2026-10-23T09:13:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Aucun couvre-feu mentionné pour Chambéry. L'article cite des couvre-feux à Annecy et Albertville (Albertville : détails non lus).",
-          "statut": "à confirmer",
-          "source": {"titre": "ODS Radio : Chambéry, la préfecture interdit les manifestations samedi", "url": "https://www.odsradio.com/news/locales/111062/chambery-la-prefecture-interdit-les-manifestations-samedi-dans-le-centre-historique", "publie_le": "2026-10-22T08:06:00+02:00", "maj_le": "2026-10-23T09:13:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": []
+      "date": "2026-10-24",
+      "time": "",
+      "city": "France entière",
+      "title": "Mobilisations du 24 octobre : situation nationale",
+      "details": "Des rassemblements sont signalés dans plusieurs villes. Les autorisations et interdictions varient selon les arrêtés locaux ; consulter la fiche de chaque ville et les communications officielles. Ne pas interpréter cette fiche nationale comme une autorisation générale de manifester.",
+      "status": "announced",
+      "source": {
+        "label": "Sud Radio / AFP — point national du 23 octobre 2026",
+        "url": "https://www.sudradio.fr/societe/mobilisation-du-24-octobre-ce-qui-est-prevu"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "La Rochelle",
-      "departement": "17",
-      "rassemblements": [
-        {
-          "texte": "Arrêté du préfet interdisant rassemblements et attroupements à La Rochelle et Puilboreau (risque sur la rocade et la zone commerciale de Beaulieu). Deux rassemblements annoncés : place de Verdun dès 10h30, parvis de la gare à 14h. Périmètre exact et horaires de l'interdiction non précisés. Port d'équipements de protection et détention de mortiers d'artifice interdits.",
-          "statut": "à confirmer",
-          "source": {"titre": "INF-info : La Rochelle, deux manifestations annoncées, le préfet interdit les rassemblements", "url": "https://inf-info.fr/la-rochelle-deux-manifestations-annoncees-ce-samedi-24-octobre-le-prefet-interdit-les-rassemblements/", "publie_le": "2026-10-23T21:06:00+02:00", "maj_le": "2026-10-23T21:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Aucun couvre-feu mentionné.",
-          "statut": "à confirmer",
-          "source": {"titre": "INF-info : La Rochelle", "url": "https://inf-info.fr/la-rochelle-deux-manifestations-annoncees-ce-samedi-24-octobre-le-prefet-interdit-les-rassemblements/", "publie_le": "2026-10-23T21:06:00+02:00", "maj_le": "2026-10-23T21:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": [
-        {
-          "texte": "Bus déviés place de Verdun dès 8h30, parkings proches fermés dès 6h30, navette Cœur de Ville suspendue, plusieurs stations de vélos fermées, marché non alimentaire annulé (mesures de la Ville).",
-          "statut": "confirmé",
-          "source": {"titre": "INF-info : La Rochelle", "url": "https://inf-info.fr/la-rochelle-deux-manifestations-annoncees-ce-samedi-24-octobre-le-prefet-interdit-les-rassemblements/", "publie_le": "2026-10-23T21:06:00+02:00", "maj_le": "2026-10-23T21:08:00+02:00"},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ]
+      "date": "2026-10-31",
+      "time": "",
+      "city": "France entière",
+      "title": "Appel à rassemblement du 31 octobre : à confirmer",
+      "details": "Les lieux, horaires et organisateurs n’ont pas été confirmés par une source officielle ou un média national de référence dans ce contrôle. Ne pas présenter cet appel comme établi tant qu’une annonce fiable n’est pas disponible.",
+      "status": "verify",
+      "source": {
+        "label": "Ministère de l’Intérieur — communiqués officiels",
+        "url": "https://www.interieur.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     },
     {
-      "ville": "Poitiers",
-      "departement": "86",
-      "rassemblements": [
-        {
-          "texte": "Pas d'interdiction à Poitiers. Manifestation non déclarée à la préfecture (donc illégale par nature selon la préfecture), départ à 14h du centre commercial Auchan Poitiers-Sud. Un agrégateur indique plutôt 14h devant la préfecture : contradiction, lieu de départ à confirmer.",
-          "statut": "à confirmer",
-          "source": {"titre": "Le 7 : manifestation du 24 octobre, pas d'interdiction à Poitiers", "url": "https://www.le7.info/article/27938-manifestation-du-24-octobre-pas-dinterdiction-a-poitiers", "publie_le": "2026-10-24 (« aujourd'hui », heure non indiquée)", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Aucun couvre-feu mentionné.",
-          "statut": "à confirmer",
-          "source": {"titre": "Le 7", "url": "https://www.le7.info/article/27938-manifestation-du-24-octobre-pas-dinterdiction-a-poitiers", "publie_le": "2026-10-24 (« aujourd'hui », heure non indiquée)", "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": []
-    },
-    {
-      "ville": "Valence, Romans-sur-Isère, Montélimar (Drôme)",
-      "departement": "26",
-      "rassemblements": [
-        {
-          "texte": "Manifestations interdites dans les centres-villes samedi en Drôme (titre ICI). Un agrégateur cite Valence, Romans et Montélimar et un rassemblement à 19h à Valence. Périmètres et horaires non lus.",
-          "statut": "à confirmer",
-          "source": {"titre": "ICI : Drôme, manifestations interdites dans les centres-villes (titre)", "url": "https://www.ici.fr/auvergne-rhone-alpes/drome-26/valence/drome-manifestations-interdites-dans-les-centres-villes-samedi-un-couvre-feu-pour-les-mineurs-a-valence-1707980", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "couvre_feux": [
-        {
-          "texte": "Couvre-feu pour les mineurs à Valence (titre ICI). Heures et zone non lues. Rien trouvé pour Romans-sur-Isère.",
-          "statut": "à confirmer",
-          "source": {"titre": "ICI : Drôme, couvre-feu pour les mineurs à Valence (titre)", "url": "https://www.ici.fr/auvergne-rhone-alpes/drome-26/valence/drome-manifestations-interdites-dans-les-centres-villes-samedi-un-couvre-feu-pour-les-mineurs-a-valence-1707980", "publie_le": null, "maj_le": null},
-          "verifie_le": "2026-10-24T16:55:00+02:00"
-        }
-      ],
-      "transports": []
+      "date": "2026-11-05",
+      "time": "",
+      "city": "France entière",
+      "title": "Grève interprofessionnelle du 5 novembre : à confirmer",
+      "details": "La date et les organisations participantes doivent être confirmées par les organisations syndicales concernées ou une source nationale fiable. Ne pas présenter la grève comme confirmée sans cet appui.",
+      "status": "verify",
+      "source": {
+        "label": "CFDT — site officiel",
+        "url": "https://www.cfdt.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     }
   ],
-  "villes_non_verifiees": [
+  "curfews": [
     {
-      "statut": "à confirmer",
-      "note": "Villes vues seulement dans un agrégateur aux données parfois contradictoires (il le signale lui-même). Ne pas publier telles quelles sans source officielle.",
-      "source": {"titre": "Manifs en direct : manifestation 24 octobre 2026", "url": "https://www.manifsendirect.fr/manifestation/24-octobre-2026/", "publie_le": null, "maj_le": null},
-      "verifie_le": "2026-10-24T16:55:00+02:00",
-      "villes": [
-        {"ville": "Lille", "info": "Rassemblements interdits dans le centre, départ vers 7h (gares, Vieux-Lille, place de la République). Un titre France 3 mentionne une fin de manifestation près du parc Lebas, la préfecture appelant les participants à quitter les lieux. Couvre-feu mineurs 20h-6h déjà vu les 19-21 octobre (expiré)."},
-        {"ville": "Strasbourg", "info": "Marche CGT autorisée à 14h, place Kléber, en bord d'hypercentre."},
-        {"ville": "Rennes", "info": "Manifestation interdite à 14h place de la République, centre verrouillé."},
-        {"ville": "Saint-Nazaire", "info": "Rassemblement à 8h à la sous-préfecture ; centre interdit aux cortèges ; couvre-feu mineurs 21h-6h (titre ICI)."},
-        {"ville": "Niort", "info": "Interdiction et couvre-feu cités, sans détail."},
-        {"ville": "Perpignan, Toulon, Le Mans", "info": "Centre interdit et couvre-feu mineurs cités ; à Perpignan bus du centre suspendus."},
-        {"ville": "Autres (Caen, Dijon, Nancy, Orléans, Reims, Tours, Besançon, Saint-Étienne, Avignon, Brest, Quimper...)", "info": "Interdictions de centre-ville et marches syndicales citées, détails et horaires non vérifiés."}
-      ]
+      "city": "Paris",
+      "status": "verify",
+      "hours": "À confirmer",
+      "who": "À confirmer",
+      "area": "Place de la République et secteur des Halles — périmètre à confirmer",
+      "until": "À confirmer par arrêté préfectoral",
+      "note": "Ne pas afficher la mesure comme active sans retrouver l’arrêté officiel qui confirme les horaires, les personnes concernées et les dérogations.",
+      "source": {
+        "label": "Préfecture de police de Paris — site officiel",
+        "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Grenoble",
+      "status": "active",
+      "hours": "18 h – 6 h",
+      "who": "Personnes dans les secteurs définis par l’arrêté, sous réserve des dérogations prévues",
+      "area": "Centre-ville de Grenoble et zones commerciales Grand’Place, Comboire et Neyrpic — vérifier le périmètre exact sur l’arrêté",
+      "until": "Dimanche 25 octobre 2026 à 6 h",
+      "endsAt": "2026-10-25T06:00:00+01:00",
+      "note": "La mesure est relayée pour la nuit du 24 au 25 octobre. Conserver un lien direct vers l’arrêté officiel dès qu’il est disponible.",
+      "source": {
+        "label": "Préfecture de l’Isère — site officiel",
+        "url": "https://www.isere.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Toulouse",
+      "status": "active",
+      "hours": "23 h 59 – 5 h",
+      "who": "Personnes circulant dans le périmètre, sauf dérogations mentionnées dans la décision",
+      "area": "Hypercentre délimité notamment par la rue de Rémusat, place du Capitole, rue Saint-Rome, rue des Changes, place Esquirol et rue d’Alsace-Lorraine",
+      "until": "Dimanche 25 octobre 2026 à 5 h",
+      "endsAt": "2026-10-25T05:00:00+01:00",
+      "note": "La page officielle indique une mesure chaque nuit du 22 au 25 octobre, de 23 h 59 à 5 h.",
+      "source": {
+        "label": "Toulouse Métropole — couvre-feu dans l’hypercentre",
+        "url": "https://metropole.toulouse.fr/actualites/couvre-feu-dans-lhypercentre-apres-minuit"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Bordeaux",
+      "status": "active",
+      "hours": "22 h – 7 h",
+      "who": "Mineurs non accompagnés d’un représentant légal ; les majeurs ne sont pas concernés",
+      "area": "Secteurs précis du centre de Bordeaux indiqués par la préfecture",
+      "until": "Lundi 26 octobre 2026 au matin",
+      "endsAt": "2026-10-26T07:00:00+01:00",
+      "note": "Conserver la portée exacte : mesure concernant les mineurs non accompagnés, pas un couvre-feu général.",
+      "source": {
+        "label": "Préfecture de la Gironde — communiqué officiel",
+        "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/Bordeaux-instauration-d-un-couvre-feu-pour-les-mineurs-non-accompagnes-de-22h-a-7h"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Nice",
+      "status": "verify",
+      "hours": "21 h – 6 h — à confirmer",
+      "who": "Mineurs — à confirmer",
+      "area": "Centre-ville, Vieux-Nice et gare — périmètre à confirmer",
+      "until": "À confirmer par arrêté officiel",
+      "note": "Une source secondaire rapporte une mesure jusqu’au 25 octobre, mais l’arrêté municipal ou préfectoral exact n’a pas été confirmé dans ce contrôle.",
+      "source": {
+        "label": "Préfecture des Alpes-Maritimes — site officiel",
+        "url": "https://www.alpes-maritimes.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Marseille",
+      "status": "verify",
+      "hours": "22 h – 5 h — à confirmer",
+      "who": "Mineurs — à confirmer",
+      "area": "Secteurs du centre, dont la Canebière et la place de Rome — à confirmer",
+      "until": "Échéance annoncée le 24 octobre ; prolongation non confirmée",
+      "note": "Ne pas afficher comme active après son échéance sans nouvel arrêté officiel.",
+      "source": {
+        "label": "Préfecture des Bouches-du-Rhône — site officiel",
+        "url": "https://www.bouches-du-rhone.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Lyon",
+      "status": "verify",
+      "hours": "À confirmer",
+      "who": "À confirmer",
+      "area": "Hypercentre et Presqu’île — périmètre à confirmer",
+      "until": "La dernière échéance enregistrée (22 octobre) est passée ; aucune prolongation confirmée ici",
+      "note": "Ne pas confondre le couvre-feu nocturne avec l’interdiction de manifestations de 10 h à 23 h le 24 octobre.",
+      "source": {
+        "label": "Préfecture du Rhône — site officiel",
+        "url": "https://www.rhone.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Perpignan",
+      "status": "verify",
+      "hours": "19 h 30 – 6 h — à confirmer",
+      "who": "Mineurs — à confirmer",
+      "area": "Centre-ville — périmètre à confirmer",
+      "until": "Date exacte à confirmer par arrêté",
+      "note": "La fiche précédente contenait une date incohérente. Ne pas afficher une nuit précise comme confirmée sans retrouver l’arrêté.",
+      "source": {
+        "label": "Préfecture des Pyrénées-Orientales — site officiel",
+        "url": "https://www.pyrenees-orientales.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Coulaines (Sarthe)",
+      "status": "verify",
+      "hours": "À partir de 23 h — à confirmer",
+      "who": "Mineurs sortant seuls — à confirmer",
+      "area": "Commune — à confirmer",
+      "until": "Durée à confirmer",
+      "note": "La durée et le maintien de l’arrêté municipal n’ont pas été confirmés.",
+      "source": {
+        "label": "Ville de Coulaines — site officiel",
+        "url": "https://www.coulaines.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Pointe-à-Pitre et Les Abymes (Guadeloupe)",
+      "status": "verify",
+      "hours": "À confirmer",
+      "who": "Mineurs — à confirmer",
+      "area": "Deux communes — périmètre à confirmer",
+      "until": "Prolongation non confirmée",
+      "note": "Ne pas présenter la mesure du 18 octobre comme toujours en vigueur sans nouvel arrêté.",
+      "source": {
+        "label": "Préfecture de Guadeloupe — site officiel",
+        "url": "https://www.guadeloupe.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Lille, Douai, Wattignies, Denain",
+      "status": "ended",
+      "hours": "20 h – 6 h",
+      "who": "Selon l’arrêté de chaque commune",
+      "area": "Périmètres prévus dans les arrêtés",
+      "until": "La fiche précédente indiquait une fin le 21 octobre 2026 à 6 h",
+      "endsAt": "2026-10-21T06:00:00+02:00",
+      "note": "Aucune prolongation officielle n’a été confirmée dans ce contrôle. Statut terminé sauf nouvel arrêté.",
+      "source": {
+        "label": "Préfecture du Nord — site officiel",
+        "url": "https://www.nord.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Limoges",
+      "status": "verify",
+      "hours": "22 h – 5 h — à confirmer",
+      "who": "À confirmer par arrêté",
+      "area": "Centre-ville — périmètre à confirmer",
+      "until": "Durée à confirmer",
+      "note": "Ne pas présenter les horaires comme confirmés sans retrouver l’arrêté officiel.",
+      "source": {
+        "label": "Préfecture de la Haute-Vienne — site officiel",
+        "url": "https://www.haute-vienne.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
     }
   ],
-  "points_prioritaires_a_confirmer": [
-    "Grenoble : qui est concerné par le couvre-feu, exceptions et sanctions (PDF de l'arrêté de la préfecture de l'Isère).",
-    "Grenoble : bus en service ou non (décision de la réunion de vendredi 17h non retrouvée).",
-    "Paris : parcours exact de la manifestation (Maréchaux ou Bastille-Nation) et nombre de stations de métro fermées.",
-    "Lyon : état actuel du métro B, D et des trams (dernier relevé 12h30).",
-    "Marseille : manifestation syndicale autorisée ou interdiction totale.",
-    "Nantes : couvre-feu en vigueur cette nuit ou non.",
-    "Drôme (Valence, Romans, Montélimar) : périmètres et heures.",
-    "Toulouse : parcours et transports du jour.",
-    "Annecy / Annemasse : arrêtés d'interdiction et heures du couvre-feu d'Annemasse."
+  "prefectures": [
+    {
+      "name": "Préfecture de la Drôme",
+      "dept": "Drôme (26)",
+      "cities": "Drôme, en général",
+      "url": "https://www.drome.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de l'Isère",
+      "dept": "Isère (38)",
+      "cities": "Grenoble, Échirolles, Saint-Martin-d'Hères",
+      "url": "https://www.isere.gouv.fr/"
+    },
+    {
+      "name": "Préfecture du Rhône",
+      "dept": "Rhône (69)",
+      "cities": "Lyon",
+      "url": "https://www.rhone.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de police de Paris",
+      "dept": "Paris (75)",
+      "cities": "Paris",
+      "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
+    },
+    {
+      "name": "Préfecture des Bouches-du-Rhône",
+      "dept": "Bouches-du-Rhône (13)",
+      "cities": "Marseille",
+      "url": "https://www.bouches-du-rhone.gouv.fr/"
+    },
+    {
+      "name": "Préfecture des Alpes-Maritimes",
+      "dept": "Alpes-Maritimes (06)",
+      "cities": "Nice",
+      "url": "https://www.alpes-maritimes.gouv.fr/"
+    },
+    {
+      "name": "Préfecture du Nord",
+      "dept": "Nord (59)",
+      "cities": "Lille, Douai, Wattignies, Denain",
+      "url": "https://www.nord.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Gironde",
+      "dept": "Gironde (33)",
+      "cities": "Bordeaux",
+      "url": "https://www.gironde.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Haute-Garonne",
+      "dept": "Haute-Garonne (31)",
+      "cities": "Toulouse",
+      "url": "https://www.haute-garonne.gouv.fr/"
+    },
+    {
+      "name": "Préfecture des Pyrénées-Orientales",
+      "dept": "Pyrénées-Orientales (66)",
+      "cities": "Perpignan",
+      "url": "https://www.pyrenees-orientales.gouv.fr/"
+    },
+    {
+      "name": "Préfecture d'Ille-et-Vilaine",
+      "dept": "Ille-et-Vilaine (35)",
+      "cities": "Rennes",
+      "url": "https://www.ille-et-vilaine.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de l'Hérault",
+      "dept": "Hérault (34)",
+      "cities": "Montpellier",
+      "url": "https://www.herault.gouv.fr/"
+    },
+    {
+      "name": "Préfecture du Calvados",
+      "dept": "Calvados (14)",
+      "cities": "Caen",
+      "url": "https://www.calvados.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Seine-Maritime",
+      "dept": "Seine-Maritime (76)",
+      "cities": "Rouen, Le Havre",
+      "url": "https://www.seine-maritime.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Haute-Vienne",
+      "dept": "Haute-Vienne (87)",
+      "cities": "Limoges",
+      "url": "https://www.haute-vienne.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Sarthe",
+      "dept": "Sarthe (72)",
+      "cities": "Coulaines",
+      "url": "https://www.sarthe.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Guadeloupe",
+      "dept": "Guadeloupe (971)",
+      "cities": "Pointe-à-Pitre, Les Abymes",
+      "url": "https://www.guadeloupe.gouv.fr/"
+    },
+    {
+      "name": "Ministère de l'Intérieur",
+      "dept": "National",
+      "cities": "Communiqués nationaux",
+      "url": "https://www.interieur.gouv.fr/"
+    }
+  ],
+  "transport": [
+    {
+      "city": "Paris",
+      "status": "active",
+      "title": "Fermetures de stations et interruptions de trafic liées aux mesures du 24 octobre",
+      "details": "La RATP a annoncé des fermetures de stations à partir de 9 h. La liste et les horaires pouvant évoluer, consulter la page trafic officielle avant le déplacement.",
+      "source": {
+        "label": "RATP — informations trafic",
+        "url": "https://www.ratp.fr/infos-trafic"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Grenoble",
+      "status": "active",
+      "title": "Ligne 24 très perturbée du 24 octobre 4 h 30 au 25 octobre 2 h",
+      "details": "M réso annonce une perturbation de la ligne 24 avec une partie du trajet non desservie et des arrêts supprimés. Consulter la fiche de trafic opérateur pour les arrêts et déviations à jour.",
+      "source": {
+        "label": "M réso — info trafic ligne 24",
+        "url": "https://www.reso-m.fr/info_trafic_evenement/1469088454965563149/55-infotrafic.htm"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Lyon",
+      "status": "info",
+      "title": "Trafic à vérifier auprès de TCL",
+      "details": "Aucune conclusion générale sur l’absence de perturbations n’est affichée. Consulter l’infotrafic officiel TCL pour les lignes et horaires concernés.",
+      "source": {
+        "label": "TCL — site officiel",
+        "url": "https://www.tcl.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Marseille",
+      "status": "info",
+      "title": "Trafic à vérifier auprès de RTM",
+      "details": "Aucune conclusion générale sur l’absence de perturbations n’est affichée. Consulter l’infotrafic officiel RTM avant le déplacement.",
+      "source": {
+        "label": "RTM — site officiel",
+        "url": "https://www.rtm.fr/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    },
+    {
+      "city": "Montpellier",
+      "status": "verify",
+      "title": "Perturbations liées aux mesures de sécurité : à confirmer auprès de TaM",
+      "details": "Ne pas publier d’arrêt complet du réseau sans confirmation sur la page officielle de TaM ou un communiqué préfectoral.",
+      "source": {
+        "label": "TaM — site officiel",
+        "url": "https://www.tam-voyages.com/"
+      },
+      "checkedAt": "2026-10-24T14:30:00+02:00"
+    }
+  ],
+  "transportLinks": [
+    {
+      "name": "Île-de-France Mobilités",
+      "note": "Métro, RER, tram, bus d'Île-de-France",
+      "url": "https://www.iledefrance-mobilites.fr/"
+    },
+    {
+      "name": "RATP",
+      "note": "Info trafic Paris",
+      "url": "https://www.ratp.fr/"
+    },
+    {
+      "name": "TCL",
+      "note": "Lyon",
+      "url": "https://www.tcl.fr/"
+    },
+    {
+      "name": "TAG",
+      "note": "Grenoble",
+      "url": "https://www.tag.fr/"
+    },
+    {
+      "name": "RTM",
+      "note": "Marseille",
+      "url": "https://www.rtm.fr/"
+    },
+    {
+      "name": "SNCF Connect",
+      "note": "Trains",
+      "url": "https://www.sncf-connect.com/"
+    }
   ]
 }
