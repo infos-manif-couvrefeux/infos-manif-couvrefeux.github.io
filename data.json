@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-10-24T16:00:00+02:00",
+  "updatedAt": "2026-10-24T19:06:24+02:00",
   "events": [
     {
       "date": "2026-10-24",
-      "time": "14 h",
+      "time": "13 h – 19 h",
       "city": "Paris",
       "title": "Manifestation autorisée : porte d’Italie → porte de Vincennes",
-      "details": "Le parcours Bastille–place Félix-Éboué–Nation initialement annoncé n’est plus le parcours retenu. Le parcours validé pour ce samedi va de la porte d’Italie à la porte de Vincennes. Vérifier les consignes de la Préfecture de police avant le déplacement.",
+      "details": "Le parcours Bastille–Nation initialement discuté n’est pas celui validé. Le parcours autorisé annoncé est porte d’Italie → porte de Vincennes, de 13 h à 19 h. Vérifier les consignes de la Préfecture de police et les conditions de circulation avant tout déplacement.",
       "status": "authorized",
       "source": {
-        "label": "Le Parisien, 24 octobre 2026 — parcours confirmé après recours",
-        "url": "https://www.leparisien.fr/politique/mobilisation-du-24-octobre-paris-lyon-marseille-bordeaux-la-justice-valide-ou-invalide-les-interdictions-de-manifester-24-10-2026-GKJFVNJAYBAU5E4KD3KDORDOGM.php"
+        "label": "Le Monde — direct du 24 octobre 2026, parcours confirmé après recours",
+        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "10 h – 23 h",
       "city": "Lyon",
       "title": "Manifestations et rassemblements revendicatifs interdits dans un périmètre du centre",
-      "details": "L’interdiction concerne un périmètre défini par arrêté préfectoral, comprenant notamment la Presqu’île et d’autres secteurs du centre. Ne pas étendre cette interdiction à toute la ville. Elle est distincte du couvre-feu nocturne, dont la prolongation doit être vérifiée séparément.",
+      "details": "La Ville de Lyon confirme l’interdiction des manifestations, cortèges et rassemblements revendicatifs sur la voie publique le 24 octobre, de 10 h à 23 h, dans un périmètre défini comprenant la Presqu’île, une partie du Vieux-Lyon, les Brotteaux, la Part-Dieu et la Guillotière jusqu’au cours Gambetta. Ce n’est pas une interdiction générale sur toute la métropole.",
       "status": "banned",
       "source": {
-        "label": "Ville de Lyon — mesures de sécurisation du 24 octobre",
+        "label": "Ville de Lyon — mesures de sécurisation du 24 octobre (23 octobre 2026)",
         "url": "https://www.lyon.fr/actualite/action-municipale/24-octobre-la-ville-prend-des-mesures-de-securisation"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "",
       "city": "Grenoble",
-      "title": "Restrictions de rassemblements — périmètre à confirmer",
-      "details": "Le détail du périmètre doit être confirmé à partir de l’arrêté préfectoral original. Tant que l’arrêté n’est pas relié directement à la fiche, ne pas présenter les limites exactes comme vérifiées.",
-      "status": "verify",
+      "title": "Interdiction de rassemblements dans plusieurs secteurs — mesure maintenue",
+      "details": "La préfecture de l’Isère indique que le tribunal administratif a rejeté le recours contre l’arrêté d’interdiction. La mesure reste en vigueur jusqu’au dimanche 25 octobre à 6 h dans les secteurs définis par arrêté. Consulter le communiqué préfectoral pour le périmètre exact.",
+      "status": "banned",
       "source": {
-        "label": "Préfecture de l’Isère — site officiel",
-        "url": "https://www.isere.gouv.fr/"
+        "label": "Préfecture de l’Isère — Sécurité publique : manifestations du samedi 24 octobre 2026",
+        "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
@@ -57,118 +57,118 @@
       "date": "2026-10-24",
       "time": "",
       "city": "Marseille",
-      "title": "Cortège syndical : détails à confirmer",
-      "details": "Un article national rapporte qu’un cortège syndical a été autorisé à titre dérogatoire. Avant de publier le parcours et les conditions comme confirmés, vérifier l’arrêté ou le communiqué préfectoral correspondant.",
+      "title": "Manifestation : autorisation dérogatoire, parcours strictement défini",
+      "details": "Les informations publiées le 24 octobre indiquent qu’une manifestation a été autorisée à titre dérogatoire à Marseille, malgré une interdiction générale annoncée dans le département. Le parcours et les éventuelles décisions de justice complémentaires doivent être vérifiés auprès de la préfecture avant publication de détails plus précis.",
       "status": "verify",
       "source": {
-        "label": "Préfecture des Bouches-du-Rhône — site officiel",
-        "url": "https://www.bouches-du-rhone.gouv.fr/"
+        "label": "Le Parisien — Marseille aura le droit de manifester de façon très limitée (24 octobre 2026)",
+        "url": "https://www.leparisien.fr/faits-divers/mobilisations-du-24-octobre-marseille-aura-le-droit-de-manifester-de-facon-tres-limitee-23-10-2026-5EOGZLHKPBBYFJKQ7AHNMGWIDU.php"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "",
       "city": "Nice",
-      "title": "Rassemblements : à confirmer",
-      "details": "Le périmètre exact et les horaires de l’interdiction n’ont pas été confirmés dans un arrêté officiel consulté. Conserver le statut « À confirmer » jusqu’à vérification.",
+      "title": "Manifestations revendicatives interdites dans plusieurs secteurs",
+      "details": "Une source locale rapporte un arrêté préfectoral interdisant les regroupements, cortèges et manifestations revendicatives de 8 h à minuit le 24 octobre dans plusieurs secteurs de Nice. Le périmètre exact doit être repris de l’arrêté officiel ; cette fiche ne vaut pas interdiction générale dans toute la ville.",
       "status": "verify",
       "source": {
-        "label": "Préfecture des Alpes-Maritimes — site officiel",
-        "url": "https://www.alpes-maritimes.gouv.fr/"
+        "label": "Nice-Premium — manifestation du 24 octobre à Nice, rassemblements interdits",
+        "url": "https://www.nicepremium.fr/actualites/manifestation-du-24-octobre-a-nice-450-policiers-mobilises-et-rassemblements-interdits/"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "7 h – 22 h",
       "city": "Lille",
-      "title": "Interdiction de rassemblements dans une partie du centre — tracé à confirmer",
-      "details": "Une source nationale rapporte une interdiction dans le centre de Lille de 7 h à 22 h. Le tracé précis du cortège autorisé et le périmètre interdit doivent être contrôlés sur l’arrêté préfectoral avant de détailler la carte.",
+      "title": "Manifestations interdites dans un périmètre central de 7 h à 22 h",
+      "details": "Une actualité mise à jour le 24 octobre rapporte une interdiction des manifestations et rassemblements de 7 h à 22 h dans un périmètre central défini par arrêté préfectoral. Le périmètre ne concerne pas toute la métropole. L’arrêté officiel reste à privilégier pour la carte et les rues exactes.",
       "status": "verify",
       "source": {
-        "label": "Préfecture du Nord — site officiel",
-        "url": "https://www.nord.gouv.fr/"
+        "label": "Lille.eVous — point actualisé sur les manifestations et restrictions du 24 octobre 2026",
+        "url": "https://lille.evous.fr/citoyen/manifestations-greves-et-rassemblements/"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "",
       "city": "Rennes",
-      "title": "Restrictions de rassemblements : périmètre à confirmer",
-      "details": "Ne pas publier le détail du périmètre comme confirmé tant que l’arrêté préfectoral exact n’est pas directement lié à la fiche.",
-      "status": "verify",
+      "title": "Manifestations interdites dans le centre-ville — interdiction maintenue",
+      "details": "La préfecture a interdit les manifestations dans une large partie du centre-ville. Selon les informations publiées le 24 octobre, le tribunal administratif a rejeté le recours contre l’interdiction. Le périmètre exact doit être consulté dans l’arrêté préfectoral.",
+      "status": "banned",
       "source": {
-        "label": "Préfecture d’Ille-et-Vilaine — site officiel",
-        "url": "https://www.ille-et-vilaine.gouv.fr/"
+        "label": "Préfecture d’Ille-et-Vilaine — risques de troubles à l’ordre public le 24 octobre 2026",
+        "url": "https://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/2026/SECURITE-Risques-de-troubles-a-l-ordre-public-le-samedi-24-octobre-2026"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "8 h – 22 h",
       "city": "Montpellier",
-      "title": "Interdiction de manifestation : détails à confirmer",
-      "details": "Le détail du périmètre et les mesures concernant les transports doivent être distingués et confirmés séparément par les sources officielles.",
+      "title": "Manifestation déclarée interdite — restrictions distinctes à vérifier",
+      "details": "La préfecture a annoncé l’interdiction de la manifestation déclarée pour le 24 octobre et des restrictions de rassemblements dans une partie du centre-ville. Une source secondaire rapporte que des recours ont été examinés ; la décision finale et les périmètres exacts doivent être vérifiés dans les documents préfectoraux et judiciaires. Ne pas confondre ces mesures avec les transports.",
       "status": "verify",
       "source": {
-        "label": "Préfecture de l’Hérault — site officiel",
+        "label": "Préfecture de l’Hérault — site officiel, actualités et communiqués",
         "url": "https://www.herault.gouv.fr/"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "9 h – 22 h",
       "city": "Caen",
-      "title": "Restrictions de rassemblements : périmètre à confirmer",
-      "details": "La préfecture a publié une page relative au renforcement des mesures de sécurité. Vérifier l’arrêté joint et ses limites exactes avant de présenter les secteurs comme confirmés.",
+      "title": "Mesures de sécurité : arrêté et périmètre à consulter",
+      "details": "La préfecture du Calvados a publié une page dédiée au renforcement des mesures de sécurité à Caen. Les horaires et périmètres précis doivent être repris des arrêtés associés ; ne pas présenter les détails comme confirmés sans lecture de l’arrêté.",
       "status": "verify",
       "source": {
-        "label": "Préfecture du Calvados — mesures de sécurité à Caen",
+        "label": "Préfecture du Calvados — arrêtés préfectoraux, renforcement des mesures de sécurité à Caen",
         "url": "https://www.calvados.gouv.fr/Actualites/Securite-Risques-Securite-Routiere-Justice/Arretes-prefectoraux-Renforcement-des-mesures-de-securite-a-Caen"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "9 h – 20 h",
       "city": "Rouen et Le Havre",
-      "title": "Restrictions de rassemblements : à confirmer",
-      "details": "Le détail des zones et des horaires doit être vérifié sur l’arrêté de la préfecture de Seine-Maritime. À défaut, conserver le statut « À confirmer ».",
+      "title": "Rouen : interdictions confirmées ; Le Havre : détail à vérifier",
+      "details": "La Ville de Rouen confirme des interdictions de manifestations et rassemblements le 24 octobre de 9 h à 20 h dans plusieurs secteurs (Pasteur, Saint-Sever et hypercentre), avec périmètres étendus. Les informations pour Le Havre n’ont pas été vérifiées séparément dans ce contrôle ; ne pas appliquer automatiquement les mêmes horaires aux deux villes.",
       "status": "verify",
       "source": {
-        "label": "Préfecture de la Seine-Maritime — site officiel",
-        "url": "https://www.seine-maritime.gouv.fr/"
+        "label": "Ville de Rouen — manifestations interdites en centre-ville le 24 octobre 2026",
+        "url": "https://www.rouen.fr/index.php/fr/breve/20261022/manifestations-interdites-en-centre-ville-samedi-24-octobre-2026"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "",
       "city": "Limoges",
-      "title": "Restrictions de rassemblements : détails à confirmer",
-      "details": "Le seuil de personnes, les objets concernés et le périmètre doivent être repris de l’arrêté officiel. Ne pas les présenter comme confirmés sans ce document.",
+      "title": "Rassemblements de plus de 10 personnes interdits dans le centre-ville",
+      "details": "Une source secondaire reprenant les arrêtés préfectoraux indique que les rassemblements de plus de 10 personnes sont interdits dans un vaste périmètre du centre-ville du samedi 24 octobre à 7 h au dimanche 25 octobre à 5 h. Elle rapporte aussi un couvre-feu de 22 h à 5 h dans plusieurs rues et des restrictions sur certains objets. Les détails doivent être confirmés par les arrêtés de la préfecture.",
       "status": "verify",
       "source": {
-        "label": "Préfecture de la Haute-Vienne — site officiel",
-        "url": "https://www.haute-vienne.gouv.fr/"
+        "label": "Ma vigilance — mesure officielle signalée en Haute-Vienne, mise à jour du 23 octobre 2026",
+        "url": "https://www.mavigilance.fr/departement/87-haute-vienne"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-24",
       "time": "",
       "city": "France entière",
-      "title": "Mobilisations du 24 octobre : situation nationale",
-      "details": "Des rassemblements sont signalés dans plusieurs villes. Les autorisations et interdictions varient selon les arrêtés locaux ; consulter la fiche de chaque ville et les communications officielles. Ne pas interpréter cette fiche nationale comme une autorisation générale de manifester.",
+      "title": "Mobilisations du 24 octobre : mesures locales variables",
+      "details": "Le ministère de l’Intérieur a demandé aux préfets d’évaluer les parcours, les risques de troubles et les flux. Les autorisations et interdictions restent locales : consulter l’arrêté applicable à chaque commune. Une carte de presse nationale recense plus d’une centaine de communes concernées, mais peut ne pas inclure les arrêtés publiés tardivement.",
       "status": "announced",
       "source": {
-        "label": "Sud Radio / AFP — point national du 23 octobre 2026",
-        "url": "https://www.sudradio.fr/societe/mobilisation-du-24-octobre-ce-qui-est-prevu"
+        "label": "Ministère de l’Intérieur — journée de mobilisation du samedi 24 octobre 2026",
+        "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/journee-de-mobilisation-du-samedi-24-octobre-2026"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "date": "2026-10-31",
@@ -200,32 +200,32 @@
   "curfews": [
     {
       "city": "Paris",
-      "status": "verify",
-      "hours": "À confirmer",
-      "who": "À confirmer",
-      "area": "Place de la République et secteur des Halles — périmètre à confirmer",
-      "until": "À confirmer par arrêté préfectoral",
-      "note": "Ne pas afficher la mesure comme active sans retrouver l’arrêté officiel qui confirme les horaires, les personnes concernées et les dérogations.",
+      "status": "active",
+      "hours": "21 h – 6 h",
+      "who": "Mineurs non accompagnés d’au moins un de leurs représentants légaux",
+      "area": "Deux secteurs localisés autour de République et des Halles ; consulter l’arrêté pour les limites exactes",
+      "until": "Lundi 26 octobre 2026 au matin",
+      "note": "La presse rapporte un couvre-feu de 21 h à 6 h pour les mineurs non accompagnés, du vendredi 23 au lundi 26 octobre. Le périmètre exact doit être repris de l’arrêté de la Préfecture de police.",
       "source": {
-        "label": "Préfecture de police de Paris — site officiel",
-        "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
+        "label": "Le Monde — direct du 24 octobre 2026, mesures de couvre-feu à Paris",
+        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-la-menace-reste-elevee-estime-sebastien-lecornu-en-ciblant-l-ultragauche-et-la-delinquance_6795855_3224.html"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Grenoble",
       "status": "active",
       "hours": "18 h – 6 h",
-      "who": "Personnes dans les secteurs définis par l’arrêté, sous réserve des dérogations prévues",
-      "area": "Centre-ville de Grenoble et zones commerciales Grand’Place, Comboire et Neyrpic — vérifier le périmètre exact sur l’arrêté",
+      "who": "Personnes circulant dans les périmètres définis, sous réserve des dérogations de l’arrêté",
+      "area": "Quatre périmètres : centre-ville de Grenoble et zones commerciales Neyrpic, Comboire et Grand’Place",
       "until": "Dimanche 25 octobre 2026 à 6 h",
       "endsAt": "2026-10-25T06:00:00+01:00",
-      "note": "La mesure est relayée pour la nuit du 24 au 25 octobre. Conserver un lien direct vers l’arrêté officiel dès qu’il est disponible.",
+      "note": "La préfecture confirme un couvre-feu du samedi 24 octobre à 18 h au dimanche 25 octobre à 6 h. Les cartes annexées à l’arrêté définissent les limites exactes.",
       "source": {
-        "label": "Préfecture de l’Isère — site officiel",
-        "url": "https://www.isere.gouv.fr/"
+        "label": "Préfecture de l’Isère — Sécurité publique : manifestations du samedi 24 octobre 2026",
+        "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Toulouse",
@@ -235,27 +235,27 @@
       "area": "Hypercentre délimité notamment par la rue de Rémusat, place du Capitole, rue Saint-Rome, rue des Changes, place Esquirol et rue d’Alsace-Lorraine",
       "until": "Dimanche 25 octobre 2026 à 5 h",
       "endsAt": "2026-10-25T05:00:00+01:00",
-      "note": "La page officielle indique une mesure chaque nuit du 22 au 25 octobre, de 23 h 59 à 5 h.",
+      "note": "La page officielle de Toulouse Métropole indique un couvre-feu dans l’hypercentre chaque nuit du 22 au 25 octobre, de 23 h 59 à 5 h. Périmètre et dérogations précisés sur la page source.",
       "source": {
-        "label": "Toulouse Métropole — couvre-feu dans l’hypercentre",
+        "label": "Toulouse Métropole — couvre-feu dans l’hypercentre après minuit",
         "url": "https://metropole.toulouse.fr/actualites/couvre-feu-dans-lhypercentre-apres-minuit"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Bordeaux",
       "status": "active",
       "hours": "22 h – 7 h",
-      "who": "Mineurs non accompagnés d’un représentant légal ; les majeurs ne sont pas concernés",
-      "area": "Secteurs précis du centre de Bordeaux indiqués par la préfecture",
+      "who": "Mineurs non accompagnés d’un représentant légal",
+      "area": "Secteurs précis du centre de Bordeaux : rue Sainte-Catherine, rue de la Porte-Dijeaux, cours de l’Intendance, promenade Sainte-Catherine, place Saint-Projet et place du Général-Sarrail",
       "until": "Lundi 26 octobre 2026 au matin",
       "endsAt": "2026-10-26T07:00:00+01:00",
-      "note": "Conserver la portée exacte : mesure concernant les mineurs non accompagnés, pas un couvre-feu général.",
+      "note": "La préfecture confirme une mesure du 20 au 26 octobre au matin. Elle concerne uniquement les mineurs non accompagnés d’un représentant légal, dans les secteurs listés.",
       "source": {
-        "label": "Préfecture de la Gironde — communiqué officiel",
+        "label": "Préfecture de la Gironde — couvre-feu pour les mineurs non accompagnés",
         "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/Bordeaux-instauration-d-un-couvre-feu-pour-les-mineurs-non-accompagnes-de-22h-a-7h"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Nice",
@@ -273,17 +273,17 @@
     },
     {
       "city": "Marseille",
-      "status": "verify",
-      "hours": "22 h – 5 h — à confirmer",
-      "who": "Mineurs — à confirmer",
-      "area": "Secteurs du centre, dont la Canebière et la place de Rome — à confirmer",
-      "until": "Échéance annoncée le 24 octobre ; prolongation non confirmée",
-      "note": "Ne pas afficher comme active après son échéance sans nouvel arrêté officiel.",
+      "status": "active",
+      "hours": "23 h – 5 h",
+      "who": "Personnes majeures et mineures selon les périmètres et conditions de l’arrêté",
+      "area": "Plusieurs secteurs de Marseille ; le périmètre a été élargi aux bâtiments publics et institutionnels",
+      "until": "Nuits du samedi 24 au dimanche 25 et du dimanche 25 au lundi 26 octobre (échéance à vérifier dans l’arrêté)",
+      "note": "Une source locale rapporte que le couvre-feu est étendu aux majeurs à partir de 23 h et court de 23 h à 5 h pour les nuits du week-end. Le juge des référés aurait maintenu la mesure ; vérifier l’ordonnance et l’arrêté officiel avant d’afficher les détails comme définitivement confirmés.",
       "source": {
-        "label": "Préfecture des Bouches-du-Rhône — site officiel",
-        "url": "https://www.bouches-du-rhone.gouv.fr/"
+        "label": "Maritima — couvre-feu étendu aux majeurs et restrictions du week-end (22 octobre 2026)",
+        "url": "https://maritima.fr/actualites/defense/bouches-du-rhone/16338/bouches-du-rhone-manifestations-interdites-samedi-et-couvre-feu-etendu-aux-majeurs"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Lyon",
@@ -359,16 +359,16 @@
     {
       "city": "Limoges",
       "status": "verify",
-      "hours": "22 h – 5 h — à confirmer",
-      "who": "À confirmer par arrêté",
-      "area": "Centre-ville — périmètre à confirmer",
-      "until": "Durée à confirmer",
-      "note": "Ne pas présenter les horaires comme confirmés sans retrouver l’arrêté officiel.",
+      "hours": "22 h – 5 h — détails à confirmer sur arrêté",
+      "who": "Personnes concernées selon l’arrêté ; conditions et justificatifs à vérifier",
+      "area": "Plusieurs rues du centre-ville — périmètre à reprendre de l’arrêté",
+      "until": "Couvre-feu rapporté du vendredi 23 octobre au lundi 26 octobre au matin",
+      "note": "Une source secondaire rapporte un couvre-feu de 22 h à 5 h dans plusieurs rues, avec justificatif de domicile exigé, ainsi qu’une interdiction de rassemblements de plus de 10 personnes du samedi 7 h au dimanche 5 h. Vérifier les quatre arrêtés préfectoraux avant confirmation définitive.",
       "source": {
-        "label": "Préfecture de la Haute-Vienne — site officiel",
-        "url": "https://www.haute-vienne.gouv.fr/"
+        "label": "Ma vigilance — mesure officielle signalée en Haute-Vienne, mise à jour du 23 octobre 2026",
+        "url": "https://www.mavigilance.fr/departement/87-haute-vienne"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     }
   ],
   "prefectures": [
@@ -486,23 +486,23 @@
       "city": "Paris",
       "status": "active",
       "title": "Fermetures de stations et interruptions de trafic liées aux mesures du 24 octobre",
-      "details": "La RATP a annoncé des fermetures de stations à partir de 9 h. La liste et les horaires pouvant évoluer, consulter la page trafic officielle avant le déplacement.",
+      "details": "Des fermetures de stations ont été signalées à partir de 9 h, puis certaines fermetures supplémentaires à partir de 22 h. La liste peut évoluer ; vérifier les informations trafic RATP en temps réel avant le déplacement.",
       "source": {
         "label": "RATP — informations trafic",
         "url": "https://www.ratp.fr/infos-trafic"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Grenoble",
       "status": "active",
-      "title": "Ligne 24 très perturbée du 24 octobre 4 h 30 au 25 octobre 2 h",
-      "details": "M réso annonce une perturbation de la ligne 24 avec une partie du trajet non desservie et des arrêts supprimés. Consulter la fiche de trafic opérateur pour les arrêts et déviations à jour.",
+      "title": "Ligne 24 perturbée du 24 octobre à 4 h 30 au 25 octobre à 2 h",
+      "details": "M réso signale une perturbation de la ligne 24, avec une partie du trajet non desservie et des arrêts supprimés. Consulter la fiche opérateur pour les arrêts et déviations à jour.",
       "source": {
         "label": "M réso — info trafic ligne 24",
         "url": "https://www.reso-m.fr/info_trafic_evenement/1469088454965563149/55-infotrafic.htm"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Lyon",
@@ -517,25 +517,25 @@
     },
     {
       "city": "Marseille",
-      "status": "info",
-      "title": "Trafic à vérifier auprès de RTM",
-      "details": "Aucune conclusion générale sur l’absence de perturbations n’est affichée. Consulter l’infotrafic officiel RTM avant le déplacement.",
+      "status": "verify",
+      "title": "Transports : situation à vérifier auprès de RTM",
+      "details": "Une source de presse avait annoncé une suspension des transports en commun le 24 octobre de 5 h à dimanche 5 h, mais une publication ultérieure rapporte que les transports circuleront après évolution des mesures. Ne pas afficher une suspension générale comme certaine sans avis RTM actualisé.",
       "source": {
-        "label": "RTM — site officiel",
+        "label": "RTM — site officiel et informations trafic",
         "url": "https://www.rtm.fr/"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     },
     {
       "city": "Montpellier",
       "status": "verify",
-      "title": "Perturbations liées aux mesures de sécurité : à confirmer auprès de TaM",
-      "details": "Ne pas publier d’arrêt complet du réseau sans confirmation sur la page officielle de TaM ou un communiqué préfectoral.",
+      "title": "Transports urbains : suspension annoncée, vérifier auprès de TaM",
+      "details": "Une source locale rapporte la suspension des cinq lignes de tramway et des bus intramuros pendant la journée du 24 octobre. Cette information n’a pas été confirmée par une page TaM officielle lors de ce contrôle ; vérifier le trafic opérateur avant de la présenter comme confirmée.",
       "source": {
-        "label": "TaM — site officiel",
+        "label": "TaM — site officiel et informations trafic",
         "url": "https://www.tam-voyages.com/"
       },
-      "checkedAt": "2026-10-24T14:30:00+02:00"
+      "checkedAt": "2026-10-24T19:06:24+02:00"
     }
   ],
   "transportLinks": [
@@ -569,5 +569,6 @@
       "note": "Trains",
       "url": "https://www.sncf-connect.com/"
     }
-  ]
+  ],
+  "verificationNote": "Mise à jour éditoriale du 24 octobre 2026 à 19:06 (Europe/Paris). updatedAt indique la préparation du fichier, pas que chaque donnée a été confirmée à cette minute. checkedAt est actualisé uniquement pour les fiches dont une source récente a été retrouvée lors de cette passe. Les autres conservent leur dernier contrôle connu. Les fiches status=verify restent à confirmer auprès de l'arrêté ou de l'opérateur officiel."
 }
