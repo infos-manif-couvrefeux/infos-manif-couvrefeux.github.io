@@ -1,0 +1,556 @@
+{
+  "updatedAt": "2026-10-24T11:10:00+02:00",
+  "events": [
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Drôme",
+      "title": "Aucun rassemblement ni arrêté trouvé pour aujourd'hui",
+      "details": "Dernière mobilisation lycéenne repérée dans le département : jeudi 1er octobre. Consultez la préfecture de la Drôme pour d'éventuels arrêtés.",
+      "status": "info",
+      "source": {
+        "label": "Préfecture de la Drôme",
+        "url": "https://www.drome.gouv.fr/"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Grenoble",
+      "title": "Toutes les manifestations interdites dans le centre-ville",
+      "details": "Interdiction du jeudi 22 octobre, 6 h, au dimanche 25 octobre, 6 h, dans une large partie du centre (entre l'Isère, le boulevard Gambetta, la rue Masséna et le boulevard Jean-Pain). La préfète n'exclut pas d'interdire toute manifestation, même ailleurs, au dernier moment.",
+      "status": "banned",
+      "source": {
+        "label": "Grenoble Mag, 22 oct.",
+        "url": "https://www.grenoblemag.com/article/3500/grenoble-manifestations-interdites-dans-le-centre-ville-jusqu-a-dimanche-la-prefete-menace-d-instaurer-un-couvre-feu"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "14 h",
+      "city": "Lyon",
+      "title": "Toute manifestation interdite, dont le rassemblement de la place Bellecour",
+      "details": "Un rendez-vous était annoncé à 14 h place Bellecour. D'autres appels circulaient pour le 6e arrondissement et Vénissieux, sans lieux ni horaires confirmés.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "14 h",
+      "city": "Paris",
+      "title": "Manifestation autorisée : Bastille, place Félix-Éboué, Nation",
+      "details": "Parcours proposé par la CGT Paris et approuvé par la préfecture de police. 24 stations de métro doivent fermer dès 9 h, la liste peut évoluer.",
+      "status": "authorized",
+      "source": {
+        "label": "Sortir à Paris, 23 oct.",
+        "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-rally-in-paris-army-route-and-restrictions"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Paris",
+      "title": "Autres rassemblements interdits",
+      "details": "Le trajet Bastille-Opéra demandé par les Gilets jaunes est interdit. Hors du parcours autorisé, toute manifestation est interdite à Paris. Rejoindre un rassemblement non déclaré peut valoir une amende. Trois rassemblements fixes près de l'Élysée sont interdits du 23 au 25 octobre. Un recours est en cours devant le Conseil d'État.",
+      "status": "banned",
+      "source": {
+        "label": "Sortir à Paris, 23 oct.",
+        "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-rally-in-paris-army-route-and-restrictions"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Marseille",
+      "title": "Un seul cortège syndical autorisé, sous conditions",
+      "details": "La préfecture avait d'abord interdit tous les rassemblements dans les Bouches-du-Rhône.",
+      "status": "authorized",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Nice",
+      "title": "Rassemblement place Masséna interdit",
+      "details": "Les regroupements sont aussi interdits dans une grande partie du centre-ville.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Lille",
+      "title": "Rassemblements interdits dans une partie du centre, 7 h – 22 h",
+      "details": "Un cortège syndical peut partir de la place de la République vers le sud.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Rennes",
+      "title": "Toute manifestation interdite dans l'hypercentre",
+      "details": "Périmètre jusqu'au boulevard de la Liberté inclus.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Montpellier",
+      "title": "Manifestation déclarée interdite, regroupements empêchés 8 h – 22 h",
+      "details": "Une grande partie du centre est concernée.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Caen",
+      "title": "Rassemblements interdits dans plusieurs secteurs du centre, 9 h – 22 h",
+      "details": "Les manifestations restent possibles ailleurs si elles sont déclarées en préfecture.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Rouen et Le Havre",
+      "title": "Manifestations interdites 9 h – 20 h dans plusieurs secteurs",
+      "details": "Centres-villes et certaines zones commerciales.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "Limoges",
+      "title": "Rassemblements de plus de dix personnes interdits au centre-ville",
+      "details": "Un couvre-feu est aussi en place de 22 h à 5 h.",
+      "status": "banned",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-24",
+      "time": "",
+      "city": "France entière",
+      "title": "Acte II des Gilets jaunes et appel de la coordination lycéenne",
+      "details": "Environ 70 000 policiers et gendarmes sont déployés, avec le renfort de militaires de Sentinelle sur des sites fixes. Les vacances de la Toussaint peuvent disperser une partie des lycéens.",
+      "status": "announced",
+      "source": {
+        "label": "Le Bonbon, 20 oct.",
+        "url": "https://lebonbon.fr/paris/news/apres-17-octobre-deux-nouvelles-manifestations-24-31-octobre/"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "",
+      "city": "France entière",
+      "title": "Acte III des Gilets jaunes",
+      "details": "Annoncé par la coordination des Gilets jaunes, qui appelle aussi à poursuivre les blocages logistiques. Villes, lieux et horaires non précisés pour l'instant.",
+      "status": "verify",
+      "source": {
+        "label": "Le Bonbon, 20 oct.",
+        "url": "https://lebonbon.fr/paris/news/apres-17-octobre-deux-nouvelles-manifestations-24-31-octobre/"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "",
+      "city": "France entière",
+      "title": "Grève interprofessionnelle",
+      "details": "Journée sur laquelle comptent la CFDT et FO.",
+      "status": "announced",
+      "source": {
+        "label": "Sortir à Paris, 17 oct.",
+        "url": "https://www.sortiraparis.com/en/news/in-paris/articles/353907-strike-on-october-17-2026-yellow-vests-protests-by-students-transport-disruptions-what-s-planned"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    }
+  ],
+  "curfews": [
+    {
+      "city": "Paris",
+      "status": "active",
+      "hours": "23 h – 6 h",
+      "who": "Tout le monde, mineurs et majeurs. Habitants, personnes qui travaillent sur place, commerçants et secours ne sont pas concernés.",
+      "area": "Place de la République et secteur des Halles",
+      "until": "Lundi 26 octobre, 6 h (inclut la nuit de samedi à dimanche)",
+      "endsAt": "2026-10-26T06:00:00+01:00",
+      "note": "Les rassemblements non déclarés sont aussi interdits le soir dans plusieurs secteurs.",
+      "source": {
+        "label": "Sortir à Paris, 23 oct.",
+        "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-rally-in-paris-army-route-and-restrictions"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "city": "Grenoble",
+      "status": "active",
+      "hours": "18 h – 6 h",
+      "who": "Tout le monde dans les zones, sans motif autorisé (contravention de 4e classe). Pas limité aux mineurs.",
+      "area": "Centre-ville de Grenoble, centre commercial Grand'Place (Grenoble et Échirolles), Neyrpic (Saint-Martin-d'Hères), Comboire (Échirolles)",
+      "until": "Dimanche 25 octobre, 6 h",
+      "endsAt": "2026-10-25T06:00:00+01:00",
+      "note": "Arrêté de la préfète de l'Isère. Autorisés : rejoindre ou quitter son domicile ou hôtel, déplacements médicaux, familiaux, garde d'enfants et aide aux personnes fragiles, traversée en voiture sans s'arrêter. Dérogations pour agents du service public, journalistes et élus.",
+      "source": {
+        "label": "Grenoble Mag, 24 oct.",
+        "url": "https://www.grenoblemag.com/article/3516/grenoble-couvre-feu-des-18h-ce-samedi-le-centre-ville-et-trois-centres-commerciaux-concernes"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "city": "Toulouse",
+      "status": "active",
+      "hours": "0 h – 5 h",
+      "who": "Voir l'arrêté de la préfecture",
+      "area": "Secteurs fixés par l'arrêté",
+      "until": "Dimanche 25 octobre (depuis jeudi 22)",
+      "endsAt": "2026-10-25T23:59:00+01:00",
+      "note": "",
+      "source": {
+        "label": "i24news, 21 oct.",
+        "url": "https://www.i24news.tv/fr/actu/france/artc-violences-en-france-paris-lyon-et-marseille-prolongent-les-couvre-feux"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Bordeaux",
+      "status": "active",
+      "hours": "22 h – 7 h",
+      "who": "Mineurs non accompagnés d'un représentant légal. Les majeurs ne sont pas concernés.",
+      "area": "Rues Sainte-Catherine et Porte-Dijeaux, cours de l'Intendance, place Saint-Projet, place du Général-Sarrail",
+      "until": "Lundi 26 octobre au matin",
+      "endsAt": "2026-10-26T07:00:00+01:00",
+      "note": "",
+      "source": {
+        "label": "Brut, 21 oct.",
+        "url": "https://www.brut.media/fr/articles/quels-sont-les-couvre-feu-en-vigueur-ce-mercredi-21-octobre-2026"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Nice",
+      "status": "active",
+      "hours": "21 h – 6 h",
+      "who": "Mineurs",
+      "area": "Centre-ville, Vieux-Nice, gare",
+      "until": "Dimanche 25 octobre, 23 h (communiqué du 20 octobre)",
+      "endsAt": "2026-10-25T23:00:00+01:00",
+      "note": "",
+      "source": {
+        "label": "AFP via Weka, 20 oct.",
+        "url": "https://www.weka.fr/actualite/securite/article/violences-urbaines-couvre-feux-partiels-dans-plusieurs-villes-dont-paris-lyon-lille-bordeaux-et-nice-111160/"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Marseille",
+      "status": "active",
+      "hours": "22 h – 5 h",
+      "who": "Mineurs",
+      "area": "Plusieurs secteurs, dont la Canebière et la place de Rome",
+      "until": "Annoncé jusqu'à ce samedi 24 octobre",
+      "endsAt": "2026-10-25T05:00:00+01:00",
+      "note": "Prolongation possible, rien de confirmé.",
+      "source": {
+        "label": "Brut, 21 oct.",
+        "url": "https://www.brut.media/fr/articles/quels-sont-les-couvre-feu-en-vigueur-ce-mercredi-21-octobre-2026"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Lyon",
+      "status": "verify",
+      "hours": "23 h – 6 h (21 h – 6 h selon les jours)",
+      "who": "Tout le monde dans le périmètre. Bars, restaurants et transports restent accessibles.",
+      "area": "Hypercentre et presqu'île, dont la place Bellecour",
+      "until": "Renouvelé nuit après nuit, dernière info : jusqu'au jeudi 22 octobre, 6 h",
+      "note": "Les manifestations étaient aussi interdites l'après-midi (16 h – 23 h le 21 octobre).",
+      "source": {
+        "label": "Brut, 21 oct.",
+        "url": "https://www.brut.media/fr/articles/quels-sont-les-couvre-feu-en-vigueur-ce-mercredi-21-octobre-2026"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Perpignan",
+      "status": "verify",
+      "hours": "19 h 30 – 6 h",
+      "who": "Mineurs",
+      "area": "Centre-ville",
+      "until": "Une nuit annoncée « samedi 26 octobre » (date incohérente dans la source)",
+      "note": "Manifestations interdites dans le centre de jeudi à dimanche. Vérifiez la date exacte auprès de la préfecture.",
+      "source": {
+        "label": "Brut, 21 oct.",
+        "url": "https://www.brut.media/fr/articles/quels-sont-les-couvre-feu-en-vigueur-ce-mercredi-21-octobre-2026"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Coulaines (Sarthe)",
+      "status": "verify",
+      "hours": "À partir de 23 h",
+      "who": "Mineurs qui sortent seuls",
+      "area": "Commune",
+      "until": "Durée non précisée",
+      "note": "Arrêté du maire, depuis lundi 19 octobre.",
+      "source": {
+        "label": "Belga via DH, 19 oct.",
+        "url": "https://www.dhnet.be/dernieres-depeches/2026/10/19/matignon-annonce-de-premiers-couvre-feux-pour-les-nuits-de-lundi-et-mardi-QGY4JINLTVAVRCQFR235EGSORY/"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Pointe-à-Pitre et Les Abymes (Guadeloupe)",
+      "status": "verify",
+      "hours": "Voir l'arrêté",
+      "who": "Mineurs",
+      "area": "Deux communes",
+      "until": "Durée non précisée",
+      "note": "Instauré par le préfet dimanche 18 octobre.",
+      "source": {
+        "label": "Belga via DH, 19 oct.",
+        "url": "https://www.dhnet.be/dernieres-depeches/2026/10/19/matignon-annonce-de-premiers-couvre-feux-pour-les-nuits-de-lundi-et-mardi-QGY4JINLTVAVRCQFR235EGSORY/"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Lille, Douai, Wattignies, Denain",
+      "status": "ended",
+      "hours": "20 h – 6 h",
+      "who": "Lille : mineurs isolés. Autres villes : voir l'arrêté",
+      "area": "Portions de chaque commune",
+      "until": "Nuits du 19 au 21 octobre",
+      "endsAt": "2026-10-21T06:00:00+02:00",
+      "note": "Aucune prolongation trouvée.",
+      "source": {
+        "label": "AFP via Weka, 20 oct.",
+        "url": "https://www.weka.fr/actualite/securite/article/violences-urbaines-couvre-feux-partiels-dans-plusieurs-villes-dont-paris-lyon-lille-bordeaux-et-nice-111160/"
+      },
+      "checkedAt": "2026-10-24T10:35:00+02:00"
+    },
+    {
+      "city": "Limoges",
+      "status": "verify",
+      "hours": "22 h – 5 h",
+      "who": "Voir l'arrêté",
+      "area": "Centre-ville",
+      "until": "Durée non précisée",
+      "note": "En place selon Sud Radio le 23 octobre.",
+      "source": {
+        "label": "Sud Radio, 23 oct.",
+        "url": "https://www.sudradio.fr/societe/manifestations-du-24-octobre-dans-quelles-villes-les-rassemblements-sont-ils-autorises-ou-interdits"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    }
+  ],
+  "prefectures": [
+    {
+      "name": "Préfecture de la Drôme",
+      "dept": "Drôme (26)",
+      "cities": "Drôme, en général",
+      "url": "https://www.drome.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de l'Isère",
+      "dept": "Isère (38)",
+      "cities": "Grenoble, Échirolles, Saint-Martin-d'Hères",
+      "url": "https://www.isere.gouv.fr/"
+    },
+    {
+      "name": "Préfecture du Rhône",
+      "dept": "Rhône (69)",
+      "cities": "Lyon",
+      "url": "https://www.rhone.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de police de Paris",
+      "dept": "Paris (75)",
+      "cities": "Paris",
+      "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
+    },
+    {
+      "name": "Préfecture des Bouches-du-Rhône",
+      "dept": "Bouches-du-Rhône (13)",
+      "cities": "Marseille",
+      "url": "https://www.bouches-du-rhone.gouv.fr/"
+    },
+    {
+      "name": "Préfecture des Alpes-Maritimes",
+      "dept": "Alpes-Maritimes (06)",
+      "cities": "Nice",
+      "url": "https://www.alpes-maritimes.gouv.fr/"
+    },
+    {
+      "name": "Préfecture du Nord",
+      "dept": "Nord (59)",
+      "cities": "Lille, Douai, Wattignies, Denain",
+      "url": "https://www.nord.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Gironde",
+      "dept": "Gironde (33)",
+      "cities": "Bordeaux",
+      "url": "https://www.gironde.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Haute-Garonne",
+      "dept": "Haute-Garonne (31)",
+      "cities": "Toulouse",
+      "url": "https://www.haute-garonne.gouv.fr/"
+    },
+    {
+      "name": "Préfecture des Pyrénées-Orientales",
+      "dept": "Pyrénées-Orientales (66)",
+      "cities": "Perpignan",
+      "url": "https://www.pyrenees-orientales.gouv.fr/"
+    },
+    {
+      "name": "Préfecture d'Ille-et-Vilaine",
+      "dept": "Ille-et-Vilaine (35)",
+      "cities": "Rennes",
+      "url": "https://www.ille-et-vilaine.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de l'Hérault",
+      "dept": "Hérault (34)",
+      "cities": "Montpellier",
+      "url": "https://www.herault.gouv.fr/"
+    },
+    {
+      "name": "Préfecture du Calvados",
+      "dept": "Calvados (14)",
+      "cities": "Caen",
+      "url": "https://www.calvados.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Seine-Maritime",
+      "dept": "Seine-Maritime (76)",
+      "cities": "Rouen, Le Havre",
+      "url": "https://www.seine-maritime.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Haute-Vienne",
+      "dept": "Haute-Vienne (87)",
+      "cities": "Limoges",
+      "url": "https://www.haute-vienne.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Sarthe",
+      "dept": "Sarthe (72)",
+      "cities": "Coulaines",
+      "url": "https://www.sarthe.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de la Guadeloupe",
+      "dept": "Guadeloupe (971)",
+      "cities": "Pointe-à-Pitre, Les Abymes",
+      "url": "https://www.guadeloupe.gouv.fr/"
+    },
+    {
+      "name": "Ministère de l'Intérieur",
+      "dept": "National",
+      "cities": "Communiqués nationaux",
+      "url": "https://www.interieur.gouv.fr/"
+    }
+  ],
+  "transport": [
+    {
+      "city": "Paris",
+      "status": "active",
+      "title": "24 stations de métro fermées dès 9 h",
+      "details": "De la zone des Champs-Élysées au Quartier latin, dont le secteur de Daumesnil. Les lignes 2, 6 et 12 sont en partie suspendues. Bastille, Reuilly-Diderot et Nation ne figurent pas sur la liste à ce stade, qui peut encore évoluer.",
+      "source": {
+        "label": "Sortir à Paris, 23 oct.",
+        "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355171-october-24-rally-in-paris-army-route-and-restrictions"
+      },
+      "checkedAt": "2026-10-24T10:45:00+02:00"
+    },
+    {
+      "city": "Lyon, Grenoble, Marseille",
+      "status": "info",
+      "title": "Aucune perturbation de tram, bus ou métro trouvée pour aujourd'hui",
+      "details": "Rien de confirmé dans la presse ce matin. Vérifiez auprès du réseau de transport avant de partir, surtout le soir en cas de couvre-feu.",
+      "source": {
+        "label": "Réseaux de transport (liens ci-dessous)",
+        "url": "https://www.tcl.fr/"
+      },
+      "checkedAt": "2026-10-24T10:50:00+02:00"
+    }
+  ],
+  "transportLinks": [
+    {
+      "name": "Île-de-France Mobilités",
+      "note": "Métro, RER, tram, bus d'Île-de-France",
+      "url": "https://www.iledefrance-mobilites.fr/"
+    },
+    {
+      "name": "RATP",
+      "note": "Info trafic Paris",
+      "url": "https://www.ratp.fr/"
+    },
+    {
+      "name": "TCL",
+      "note": "Lyon",
+      "url": "https://www.tcl.fr/"
+    },
+    {
+      "name": "TAG",
+      "note": "Grenoble",
+      "url": "https://www.tag.fr/"
+    },
+    {
+      "name": "RTM",
+      "note": "Marseille",
+      "url": "https://www.rtm.fr/"
+    },
+    {
+      "name": "SNCF Connect",
+      "note": "Trains",
+      "url": "https://www.sncf-connect.com/"
+    }
+  ]
+}

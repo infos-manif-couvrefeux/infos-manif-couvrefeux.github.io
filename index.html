@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Veille Couvre-feux</title>
+<meta name="description" content="Couvre-feux en vigueur, manifestations annoncées et décisions des préfectures en France, mis à jour dans la journée.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Veille couvre-feux">
+<meta property="og:description" content="Couvre-feux en vigueur, manifestations annoncées et préfectures, ville par ville. Site indépendant, non officiel.">
+<meta property="og:image" content="og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: bulletin à colonne unique. Avertissement, recherche, calendrier des rassemblements, fiches de couvre-feu filtrables, liens officiels, sources. */
+:root {
+  color-scheme: light;
+  --bg: #F2F3EF;
+  --surface: #FFFFFF;
+  --fg: #18211F;
+  --muted: #55625F;
+  --line: #D3D8D2;
+  --accent: #0E4D64;
+  --live: #B3261E;
+  --live-bg: #FBE9E7;
+  --warn: #7A4F00;
+  --warn-bg: #FFF3D6;
+  --ok: #1B5E3A;
+  --ok-bg: #E3F2E8;
+  --ended: #55625F;
+  --ended-bg: #E6E9E4;
+  --f-head: "IBM Plex Sans Condensed", "Arial Narrow", Arial, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0F1514; --surface: #172120; --fg: #E6ECE9; --muted: #9AA8A4; --line: #2A3836;
+    --accent: #6CC4E0; --live: #FF9087; --live-bg: #3A1B19; --warn: #F2C063; --warn-bg: #33270C;
+    --ok: #7FD6A0; --ok-bg: #12301F; --ended: #9AA8A4; --ended-bg: #222D2B;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: 16px; line-height: 1.55;
+  padding-block: 24px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 32px; }
+h1, h2, h3 { font-family: var(--f-head); text-wrap: balance; margin: 0; line-height: 1.12; }
+h1 { font-size: clamp(2rem, 7vw, 2.9rem); font-weight: 700; letter-spacing: -0.01em; }
+h2 { font-size: 1.45rem; font-weight: 700; }
+p { margin: 0; }
+a { color: var(--accent); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.eyebrow { font-family: var(--f-mono); font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+header { display: flex; flex-direction: column; gap: 10px; }
+.lede { color: var(--muted); max-width: 60ch; }
+.stamp { font-family: var(--f-mono); font-size: 0.82rem; color: var(--muted); }
+.notice { background: var(--warn-bg); border: 1px solid var(--warn); border-radius: 6px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; }
+.notice strong { font-family: var(--f-head); font-size: 1.05rem; color: var(--warn); }
+.notice.stale { background: var(--live-bg); border-color: var(--live); }
+.notice.stale strong { color: var(--live); }
+section { display: flex; flex-direction: column; gap: 14px; }
+.sub { color: var(--muted); max-width: 62ch; }
+#q { width: 100%; font: inherit; padding: 12px 14px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
+.day { display: flex; flex-direction: column; gap: 0; }
+.day h3 { font-size: 1.1rem; font-weight: 700; padding-bottom: 8px; border-bottom: 2px solid var(--fg); }
+.ev { display: grid; grid-template-columns: 8.5rem 1fr; gap: 6px 16px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.ev .where { font-family: var(--f-head); font-weight: 600; font-size: 1.05rem; display: flex; flex-direction: column; gap: 6px; align-items: flex-start; min-width: 0; overflow-wrap: anywhere; }
+.ev .time { font-family: var(--f-mono); font-size: 0.85rem; color: var(--muted); font-weight: 500; }
+.ev .body { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.ev .title { font-weight: 600; }
+.ev .details { color: var(--muted); font-size: 0.93rem; }
+.src { font-size: 0.82rem; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { font: inherit; font-size: 0.9rem; font-weight: 500; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 14px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 16px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.card h3 { font-size: 1.3rem; overflow-wrap: anywhere; }
+.top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; flex-wrap: wrap; }
+.pill { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase; padding: 4px 9px; border-radius: 4px; white-space: nowrap; border: 1px solid var(--line); }
+.pill.active, .pill.banned { background: var(--live-bg); color: var(--live); border-color: var(--live); }
+.pill.verify, .pill.announced { background: var(--warn-bg); color: var(--warn); border-color: var(--warn); }
+.pill.authorized { background: var(--ok-bg); color: var(--ok); border-color: var(--ok); }
+.pill.ended, .pill.info { background: var(--ended-bg); color: var(--ended); }
+.hours { font-family: var(--f-mono); font-size: 1.15rem; font-weight: 500; font-variant-numeric: tabular-nums; }
+dl { margin: 0; display: grid; grid-template-columns: 5.5rem 1fr; gap: 6px 12px; font-size: 0.92rem; }
+dt { color: var(--muted); }
+dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.empty, .state { color: var(--muted); padding: 8px 0; }
+.links { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 10px; }
+.links a { display: block; padding: 12px 14px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); text-decoration: none; font-weight: 500; }
+.links a small { display: block; color: var(--muted); font-weight: 400; }
+.tips { margin: 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: 6px; }
+footer { font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: 14px; }
+.share { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.share .chip { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.nums { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); gap: 10px; }
+.num { border: 1px solid var(--line); border-radius: 6px; background: var(--surface); padding: 12px 14px; display: flex; flex-direction: column; gap: 2px; }
+.num b { font-family: var(--f-mono); font-size: 1.6rem; font-weight: 500; line-height: 1.1; }
+.num span { color: var(--muted); font-size: 0.9rem; }
+.num a { text-decoration: none; color: inherit; display: flex; flex-direction: column; gap: 2px; }
+details { border-bottom: 1px solid var(--line); padding: 12px 0; }
+details summary { cursor: pointer; font-weight: 600; }
+details p { margin-top: 8px; color: var(--muted); max-width: 62ch; }
+.fine { font-size: 0.85rem; color: var(--muted); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); background: var(--bg); z-index: 10; }
+.nav { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); display: flex; gap: 8px; overflow-x: auto; padding-block: 10px; border-bottom: 1px solid var(--line); scrollbar-width: none; }
+.nav::-webkit-scrollbar { display: none; }
+.nav a { flex: none; font-size: 0.9rem; font-weight: 500; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); text-decoration: none; white-space: nowrap; }
+.nav a[aria-current="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+h2[id] { scroll-margin-top: calc(var(--navh, 60px) + env(safe-area-inset-top, 0px) + 14px); }
+@media (max-width: 520px) { .ev { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">France · couvre-feux et rassemblements</div>
+    <h1>Veille couvre-feux</h1>
+    <p class="lede">Les couvre-feux en vigueur, les manifestations annoncées et les décisions des préfectures, regroupés sur une page. Les infos viennent de la presse et des autorités qu'elle cite.</p>
+    <p class="stamp" id="stamp">Chargement des infos…</p>
+    <div class="share"><button class="chip" id="share" type="button">Partager le lien</button><span class="src" id="shareMsg" role="status"></span></div>
+  </header>
+
+  <nav class="nav" id="nav" aria-label="Aller à une rubrique">
+    <a href="#t-ev">Rassemblements</a>
+    <a href="#t-cf">Couvre-feux</a>
+    <a href="#t-tr">Transports</a>
+    <a href="#t-help">Aide pratique</a>
+    <a href="#t-check">Préfectures</a>
+  </nav>
+
+  <div class="notice" role="note">
+    <strong>Site indépendant, non officiel</strong>
+    <p>Les arrêtés changent d'un jour à l'autre. Avant de sortir, vérifiez sur le site ou le compte de votre préfecture. Chaque fiche indique sa source.</p>
+  </div>
+  <div class="notice stale" id="stale" role="alert" hidden></div>
+
+  <input id="q" type="search" placeholder="Chercher une ville" aria-label="Chercher une ville" autocomplete="off">
+
+  <section aria-labelledby="t-ev">
+    <h2 id="t-ev">Rassemblements et manifestations</h2>
+    <div id="events"><p class="state">Chargement…</p></div>
+  </section>
+
+  <section aria-labelledby="t-cf">
+    <h2 id="t-cf">Couvre-feux par ville</h2>
+    <p class="sub">« En vigueur » veut dire que la fin annoncée n'est pas encore passée. « À confirmer » veut dire que la durée n'est pas précisée ou que la dernière info est ancienne. Une fiche passe seule en « Terminé » quand sa fin est dépassée.</p>
+    <div class="chips" role="group" aria-label="Filtrer par statut">
+      <button class="chip" type="button" data-f="all" aria-pressed="true">Tous</button>
+      <button class="chip" type="button" data-f="active" aria-pressed="false">En vigueur</button>
+      <button class="chip" type="button" data-f="verify" aria-pressed="false">À confirmer</button>
+      <button class="chip" type="button" data-f="ended" aria-pressed="false">Terminé</button>
+    </div>
+    <div class="cards" id="cards"></div>
+    <p class="empty" id="empty" hidden>Aucune fiche ne correspond. Si votre ville n'est pas listée, consultez sa préfecture.</p>
+  </section>
+
+  <section aria-labelledby="t-tr">
+    <h2 id="t-tr">Transports</h2>
+    <div id="transports"><p class="state">Chargement…</p></div>
+    <div class="links" id="tlinks"></div>
+  </section>
+
+  <section aria-labelledby="t-help">
+    <h2 id="t-help">Aide pratique</h2>
+    <div class="nums">
+      <div class="num"><a href="tel:17"><b>17</b><span>Police secours</span></a></div>
+      <div class="num"><a href="tel:15"><b>15</b><span>Samu, urgence médicale</span></a></div>
+      <div class="num"><a href="tel:18"><b>18</b><span>Pompiers</span></a></div>
+      <div class="num"><a href="tel:112"><b>112</b><span>Urgence européenne</span></a></div>
+    </div>
+    <div>
+      <details><summary>Que peut-on faire pendant un couvre-feu ?</summary><p>Chaque arrêté fixe ses propres exceptions, donc lisez celui de votre commune. D'après les arrêtés cités sur cette page : rejoindre ou quitter son domicile, travailler, se déplacer pour raison médicale ou familiale, garder un enfant ou aider une personne fragile. À Grenoble, traverser la zone en voiture sans s'arrêter est permis. À Paris, les habitants, les personnes qui travaillent sur place, les commerçants et les secours ne sont pas concernés.</p></details>
+      <details><summary>Que risque-t-on si on ne le respecte pas ?</summary><p>À Grenoble, l'arrêté prévoit une contravention de 4e classe. À Paris, rejoindre un rassemblement non déclaré peut valoir une amende. Pour les autres villes, la sanction est écrite dans l'arrêté.</p></details>
+      <details><summary>Qui est concerné par un couvre-feu « mineurs » ?</summary><p>Les moins de 18 ans qui ne sont pas accompagnés d'un représentant légal, dans les secteurs et aux heures fixés par l'arrêté. Les majeurs ne sont pas concernés.</p></details>
+      <details><summary>Peut-on manifester ?</summary><p>Une manifestation sur la voie publique doit être déclarée à la préfecture ou à la mairie. Quand un arrêté l'interdit, y participer peut être sanctionné. Les interdictions listées plus haut peuvent encore changer dans la journée.</p></details>
+      <details><summary>Comment savoir si une info est fiable ?</summary><p>Cherchez l'arrêté sur le site de la préfecture ou le compte officiel de la préfecture. Méfiez-vous des captures d'écran sans date ni source. Chaque fiche de cette page donne sa source et l'heure du dernier contrôle.</p></details>
+    </div>
+    <p class="fine">Ces réponses sont des repères généraux et ne remplacent pas un avis juridique.</p>
+  </section>
+
+  <section aria-labelledby="t-check">
+    <h2 id="t-check">Vérifier sur les sites officiels</h2>
+    <p class="sub">Une préfecture par département cité sur cette page.</p>
+    <div class="links" id="prefs"></div>
+    <ul class="tips">
+      <li>Un couvre-feu « mineurs » vise les moins de 18 ans non accompagnés d'un représentant légal.</li>
+      <li>En cas de doute sur un trajet, lisez l'arrêté de votre préfecture, pas un message relayé sur les réseaux.</li>
+    </ul>
+  </section>
+
+  <footer>Cette page ne remplace ni un arrêté ni une consigne des autorités.</footer>
+</div>
+
+<script>
+(function () {
+  var LABEL = {
+    active: "En vigueur", verify: "À confirmer", ended: "Terminé",
+    authorized: "Autorisée", banned: "Interdite", announced: "Annoncée", info: "Info"
+  };
+  var ORDER = { active: 0, verify: 1, ended: 2 };
+  var state = { f: "all", q: "", data: null };
+  var elEvents = document.getElementById("events");
+  var elCards = document.getElementById("cards");
+  var elEmpty = document.getElementById("empty");
+  var elStamp = document.getElementById("stamp");
+  var elStale = document.getElementById("stale");
+
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  function norm(s) { return String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); }
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+  function parisToday() { return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Paris" }).format(new Date()); }
+  function fmtDay(d) { return cap(new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Paris", weekday: "long", day: "numeric", month: "long" }).format(new Date(d + "T12:00:00+01:00"))); }
+  function fmtChecked(iso) {
+    var t = Date.parse(iso);
+    if (isNaN(t)) return "";
+    var dt = new Date(t);
+    var time = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Paris", hour: "2-digit", minute: "2-digit" }).format(dt).replace(":", " h ");
+    var day = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Paris" }).format(dt);
+    if (day === parisToday()) return "Contrôlé à " + time;
+    var dm = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Paris", day: "numeric", month: "short" }).format(dt);
+    return "Contrôlé le " + dm + " à " + time;
+  }
+  function srcLink(s, at) {
+    var parts = [];
+    if (s && s.url && s.url.indexOf("https://") === 0) {
+      parts.push('Source : <a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.label || "lien") + "</a>");
+    }
+    var c = at ? fmtChecked(at) : "";
+    if (c) parts.push(esc(c));
+    return parts.length ? '<span class="src">' + parts.join(" · ") + "</span>" : "";
+  }
+  function effStatus(c) {
+    if (c.endsAt && Date.parse(c.endsAt) < Date.now()) return "ended";
+    return c.status;
+  }
+
+  function renderStamp() {
+    var d = state.data;
+    var t = Date.parse(d.updatedAt);
+    if (isNaN(t)) { elStamp.textContent = ""; return; }
+    var when = new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Paris", weekday: "long", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }).format(new Date(t));
+    var mins = Math.max(0, Math.round((Date.now() - t) / 60000));
+    var ago = mins < 60 ? "il y a " + mins + " min" : "il y a " + Math.round(mins / 60) + " h";
+    elStamp.textContent = "Mis à jour " + when.replace(":", " h ") + " (" + ago + ")";
+    if (mins > 360) {
+      elStale.hidden = false;
+      elStale.innerHTML = "<strong>Infos peut-être périmées</strong><p>La dernière mise à jour date de plus de " + Math.floor(mins / 60) + " h. Vérifiez auprès de votre préfecture.</p>";
+    } else { elStale.hidden = true; }
+  }
+
+  function renderEvents() {
+    var today = parisToday();
+    var q = norm(state.q);
+    var list = (state.data.events || []).filter(function (e) {
+      return e.date >= today && (norm(e.city + " " + e.title).indexOf(q) !== -1);
+    }).sort(function (a, b) { return a.date.localeCompare(b.date); });
+    if (!list.length) { elEvents.innerHTML = '<p class="state">Aucun rassemblement ne correspond.</p>'; return; }
+    var groups = {}, order = [];
+    list.forEach(function (e) { if (!groups[e.date]) { groups[e.date] = []; order.push(e.date); } groups[e.date].push(e); });
+    elEvents.innerHTML = order.map(function (d) {
+      return '<div class="day"><h3>' + esc(fmtDay(d)) + (d === today ? " · aujourd'hui" : "") + "</h3>" +
+        groups[d].map(function (e) {
+          return '<div class="ev"><div class="where">' + esc(e.city) + (e.time ? '<span class="time">' + esc(e.time) + "</span>" : "") + "</div>" +
+            '<div class="body"><span class="pill ' + esc(e.status) + '" style="align-self:flex-start">' + esc(LABEL[e.status] || e.status) + "</span>" +
+            '<span class="title">' + esc(e.title) + "</span>" +
+            (e.details ? '<span class="details">' + esc(e.details) + "</span>" : "") + srcLink(e.source, e.checkedAt) + "</div></div>";
+        }).join("") + "</div>";
+    }).join("");
+  }
+
+  function renderCurfews() {
+    var q = norm(state.q);
+    var rows = (state.data.curfews || []).map(function (c) { var o = Object.assign({}, c); o.eff = effStatus(c); return o; })
+      .filter(function (c) { return (state.f === "all" || c.eff === state.f) && norm(c.city).indexOf(q) !== -1; })
+      .sort(function (a, b) { return ORDER[a.eff] - ORDER[b.eff]; });
+    elCards.innerHTML = rows.map(function (c) {
+      return '<article class="card"><div class="top"><h3>' + esc(c.city) + '</h3><span class="pill ' + c.eff + '">' + esc(LABEL[c.eff]) + "</span></div>" +
+        '<div class="hours">' + esc(c.hours) + "</div>" +
+        "<dl><dt>Qui</dt><dd>" + esc(c.who) + "</dd><dt>Où</dt><dd>" + esc(c.area) + "</dd><dt>Jusqu'à</dt><dd>" + esc(c.until) + "</dd>" +
+        (c.note ? "<dt>Note</dt><dd>" + esc(c.note) + "</dd>" : "") + "</dl>" + srcLink(c.source, c.checkedAt) + "</article>";
+    }).join("");
+    elEmpty.hidden = rows.length > 0;
+  }
+
+  function renderPrefs() {
+    var el = document.getElementById("prefs");
+    el.innerHTML = (state.data.prefectures || []).filter(function (p) { return p.url && p.url.indexOf("https://") === 0; }).map(function (p) {
+      return '<a href="' + esc(p.url) + '" target="_blank" rel="noopener">' + esc(p.name) + "<small>" + esc(p.dept) + " · " + esc(p.cities) + "</small></a>";
+    }).join("");
+  }
+
+  function renderTransport() {
+    var q = norm(state.q);
+    var list = (state.data.transport || []).filter(function (t) { return norm(t.city + " " + t.title).indexOf(q) !== -1; });
+    document.getElementById("transports").innerHTML = list.length ? list.map(function (t) {
+      return '<div class="ev"><div class="where">' + esc(t.city) + '</div><div class="body"><span class="pill ' + esc(t.status) + '" style="align-self:flex-start">' + esc(LABEL[t.status] || t.status) + "</span>" +
+        '<span class="title">' + esc(t.title) + "</span>" + (t.details ? '<span class="details">' + esc(t.details) + "</span>" : "") + srcLink(t.source, t.checkedAt) + "</div></div>";
+    }).join("") : '<p class="state">Aucune info de transport ne correspond.</p>';
+    document.getElementById("tlinks").innerHTML = (state.data.transportLinks || []).filter(function (p) { return p.url && p.url.indexOf("https://") === 0; }).map(function (p) {
+      return '<a href="' + esc(p.url) + '" target="_blank" rel="noopener">' + esc(p.name) + "<small>" + esc(p.note) + "</small></a>";
+    }).join("");
+  }
+
+  function render() { if (!state.data) return; renderStamp(); renderEvents(); renderCurfews(); renderTransport(); renderPrefs(); }
+
+  function load() {
+    fetch("data.json?t=" + Date.now(), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
+      .then(function (d) { state.data = d; render(); })
+      .catch(function () {
+        if (!state.data) {
+          elStamp.textContent = "";
+          elEvents.innerHTML = '<p class="state">Impossible de charger les infos. Rechargez la page, ou consultez directement votre préfecture.</p>';
+        }
+      });
+  }
+
+  document.querySelectorAll(".chip").forEach(function (b) {
+    b.addEventListener("click", function () {
+      state.f = b.getAttribute("data-f");
+      document.querySelectorAll(".chip").forEach(function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+      render();
+    });
+  });
+  document.getElementById("q").addEventListener("input", function (e) { state.q = e.target.value; render(); });
+  document.getElementById("share").addEventListener("click", function () {
+    var url = location.href.split("#")[0];
+    var msg = document.getElementById("shareMsg");
+    if (navigator.share) { navigator.share({ title: document.title, url: url }).catch(function () {}); return; }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function () { msg.textContent = "Lien copié"; }, function () { msg.textContent = url; });
+    } else { msg.textContent = url; }
+  });
+  var nav = document.getElementById("nav");
+  var navLinks = Array.prototype.slice.call(nav.querySelectorAll("a"));
+  var heads = navLinks.map(function (a) { return document.getElementById(a.getAttribute("href").slice(1)); });
+  var curIdx = -2, ticking = false;
+  function setNavH() { document.documentElement.style.setProperty("--navh", nav.offsetHeight + "px"); }
+  function setActive(i) {
+    navLinks.forEach(function (a, k) { a.setAttribute("aria-current", k === i ? "true" : "false"); });
+    var a = navLinks[i];
+    if (a) { nav.scrollTo({ left: Math.max(0, a.offsetLeft - (nav.clientWidth - a.offsetWidth) / 2), behavior: "smooth" }); }
+  }
+  function onScroll() {
+    ticking = false;
+    var limit = nav.getBoundingClientRect().bottom + 24, idx = -1;
+    heads.forEach(function (h, k) { if (h && h.getBoundingClientRect().top <= limit) idx = k; });
+    if (window.innerHeight + window.pageYOffset >= document.documentElement.scrollHeight - 4) idx = heads.length - 1;
+    if (idx !== curIdx) { curIdx = idx; setActive(idx); }
+  }
+  window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, { passive: true });
+  window.addEventListener("resize", function () { setNavH(); onScroll(); });
+  window.addEventListener("load", setNavH);
+  navLinks.forEach(function (a, k) {
+    a.addEventListener("click", function (e) {
+      e.preventDefault();
+      var t = heads[k];
+      if (!t) return;
+      var calm = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      t.scrollIntoView({ behavior: calm ? "auto" : "smooth", block: "start" });
+    });
+  });
+  setNavH();
+  onScroll();
+  load();
+  setInterval(load, 300000);
+  setInterval(function () { if (state.data) renderStamp(); }, 60000);
+})();
+</script>
+</body>
+</html>
