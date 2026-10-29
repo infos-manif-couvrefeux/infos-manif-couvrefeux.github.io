@@ -286,6 +286,656 @@
         "url": "https://radarmanif.fr/cette-semaine"
       },
       "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "18 h 00",
+      "city": "Haguenau (Bas-Rhin)",
+      "title": "Rassemblement de solidarité après l’attentat raciste de Trappes — à confirmer",
+      "details": "Annonce publiée dans la presse locale : rassemblement jeudi 29 octobre à 18 h, place de la République, devant l’ancien tribunal. Maintien et conditions locales à vérifier avant déplacement.",
+      "status": "verify",
+      "source": {
+        "label": "DNA — Haguenau : rassemblement prévu jeudi place de la République",
+        "url": "https://www.dna.fr/faits-divers-justice/2026/10/27/rassemblement-29-octobre"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "18 h 30",
+      "city": "Châtellerault (Vienne)",
+      "title": "Rassemblement contre le racisme / Mouvement de la Paix — à confirmer",
+      "details": "Agenda militant local signale un rassemblement à 18 h 30 devant la mairie. Vérifier l’annonce d’origine et le maintien auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Démosphère Poitiers — agenda des mobilisations",
+        "url": "https://poitiers.demosphere.net/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "heure à confirmer",
+      "city": "Douarnenez (Finistère)",
+      "title": "Rassemblement sur les salaires et le pouvoir d’achat — à confirmer",
+      "details": "Un agenda de mobilisations signale un rassemblement le jeudi 29 octobre. Horaire précis, lieu et maintien à confirmer auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Maniflux — agenda des manifestations",
+        "url": "https://maniflux.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "heure à confirmer",
+      "city": "Périgueux (Dordogne)",
+      "title": "Rassemblement devant le palais de justice — à confirmer",
+      "details": "Une source de presse locale signale un rassemblement le jeudi 29 octobre. Horaire, motif exact et maintien à confirmer en ouvrant l’article d’origine.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "heure à confirmer",
+      "city": "Angers (Maine-et-Loire)",
+      "title": "Rassemblement syndical devant la Bourse du travail — à confirmer",
+      "details": "Signalement de presse locale d’une action de FO. Horaire exact, lieu et maintien à confirmer auprès de l’organisation.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "18 h 00",
+      "city": "Brest (Finistère)",
+      "title": "Rassemblement antifasciste — à confirmer",
+      "details": "Signalement de presse locale pour jeudi 29 octobre à 18 h. Lieu exact, organisateur et maintien à confirmer auprès de la source locale.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "7 h 30",
+      "city": "Boussens (Haute-Garonne)",
+      "title": "Rassemblement contre la fabrication de drones militaires — à confirmer",
+      "details": "Annonce répertoriée pour vendredi 30 octobre à 7 h 30 au rond-point et à l’aire de covoiturage de Boussens, D817. Vérifier le maintien auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 30 octobre",
+        "url": "https://radarmanif.fr/journee/30-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "18 h 00",
+      "city": "Échirolles (Isère)",
+      "title": "Rassemblement contre le racisme et en solidarité avec Trappes et La Verrière — à confirmer",
+      "details": "La presse locale annonce un rassemblement vendredi 30 octobre à 18 h. Lieu et maintien à confirmer auprès de la Ville ou de l’article d’origine.",
+      "status": "verify",
+      "source": {
+        "label": "Le Dauphiné Libéré — rassemblement à Échirolles le 30 octobre",
+        "url": "https://www.ledauphine.com/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "toute la journée",
+      "city": "Ports français (plusieurs villes)",
+      "title": "Grève de 24 h des dockers — à confirmer",
+      "details": "Appel à une grève de 24 heures des dockers signalé pour vendredi 30 octobre dans plusieurs ports. La participation effective et les effets locaux sont à vérifier auprès des syndicats et autorités portuaires.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — grève des dockers du 30 octobre",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "18 h 00",
+      "city": "Bourges (Cher)",
+      "title": "Rassemblement contre le racisme en hommage aux victimes de Trappes — à confirmer",
+      "details": "Signalement de presse locale pour vendredi 30 octobre à 18 h. Lieu exact et maintien à confirmer auprès de la source locale.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "heure à confirmer",
+      "city": "Toulouse (Haute-Garonne)",
+      "title": "Rassemblement contre le racisme — à confirmer",
+      "details": "Signalement d’un rassemblement vendredi 30 octobre. Horaire et lieu exact à confirmer dans l’article de presse locale et auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "18 h 00",
+      "city": "Elbeuf (Seine-Maritime)",
+      "title": "Rassemblement en solidarité avec Trappes et La Verrière — à confirmer",
+      "details": "Signalement de presse locale pour vendredi 30 octobre à 18 h. Lieu et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "heure à confirmer",
+      "city": "Dieppe (Seine-Maritime)",
+      "title": "Rassemblement contre les discours de haine — à confirmer",
+      "details": "Signalement de presse locale pour vendredi 30 octobre. Horaire et lieu exact à confirmer avant publication comme rendez-vous confirmé.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "18 h 00",
+      "city": "Boulazac Isle Manoire (Dordogne)",
+      "title": "Rassemblement devant la mairie — à confirmer",
+      "details": "Un média local signale un rassemblement vendredi 30 octobre à 18 h. Motif exact, adresse et maintien à vérifier.",
+      "status": "verify",
+      "source": {
+        "label": "Manifs en direct — signalement presse locale",
+        "url": "https://www.manifsendirect.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Dijon (Côte-d’Or)",
+      "title": "Manifestation contre la vie chère — à confirmer",
+      "details": "Agenda des mobilisations annonce un rendez-vous samedi 31 octobre à 14 h, place de la République. Vérifier l’appel d’origine et les éventuelles consignes locales.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "15 h 00",
+      "city": "Dijon (Côte-d’Or)",
+      "title": "Rassemblement pour une paix juste et durable en Palestine — à confirmer",
+      "details": "Agenda des mobilisations signale un rassemblement à 15 h le samedi 31 octobre. Lieu exact et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "11 h 00",
+      "city": "Nîmes (Gard)",
+      "title": "Rassemblement de solidarité avec le peuple palestinien — à confirmer",
+      "details": "Agenda des mobilisations signale un rendez-vous à 11 h. Le lieu et le maintien doivent être vérifiés auprès de l’AFPS locale.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 30",
+      "city": "Nîmes (Gard)",
+      "title": "Manifestation pour les exigences démocratiques et sociales — à confirmer",
+      "details": "Annonce de manifestation samedi 31 octobre à 14 h 30, départ signalé aux jardins de la Fontaine et arrivée annoncée à la préfecture. Vérifier le parcours et le maintien.",
+      "status": "verify",
+      "source": {
+        "label": "Démosphère Gard — agenda des mobilisations",
+        "url": "https://gard.demosphere.net/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 30",
+      "city": "Le Vigan (Gard)",
+      "title": "Manifestation « La peur doit changer de camp ! » — à confirmer",
+      "details": "Agenda des mobilisations signale une manifestation à 14 h 30, au départ de la mairie. Maintien et parcours à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "15 h 00",
+      "city": "Rennes (Ille-et-Vilaine)",
+      "title": "Rassemblement de soutien au peuple palestinien — à confirmer",
+      "details": "Agenda des mobilisations signale un rendez-vous à 15 h, place de la République. Vérifier le maintien auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 30",
+      "city": "Lille (Nord)",
+      "title": "Manifestation unitaire — à confirmer",
+      "details": "Annonce d’une manifestation samedi 31 octobre à 14 h 30, place de la République. Motif exact et parcours à confirmer auprès de la source d’origine.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "15 h 00",
+      "city": "Boulogne-sur-Mer (Pas-de-Calais)",
+      "title": "Manifestation « Acte III pour nos libertés » — à confirmer",
+      "details": "Agenda des mobilisations annonce une manifestation à 15 h. Lieu précis et maintien à confirmer auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Rosheim (Bas-Rhin)",
+      "title": "Marche solidaire contre le cancer — à confirmer",
+      "details": "Annonce d’une marche à 14 h, place de la République. Il s’agit d’un événement public, pas nécessairement d’une manifestation revendicative ; maintien à confirmer auprès de la ville ou du CCAS.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 30",
+      "city": "Carcassonne (Aude)",
+      "title": "Manifestation « Acte III » — à confirmer",
+      "details": "Annonce d’une manifestation samedi 31 octobre à 14 h 30, square André-Chénier. Motif et parcours exact à confirmer auprès de la presse locale et des organisateurs.",
+      "status": "verify",
+      "source": {
+        "label": "L’Indépendant — annonce de mobilisation à Carcassonne",
+        "url": "https://www.lindependant.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 30",
+      "city": "Estancarbon / Saint-Gaudens (Haute-Garonne)",
+      "title": "Rassemblement contre la vie chère et en soutien à la jeunesse — à confirmer",
+      "details": "Annonce d’un rassemblement à 14 h, secteur du rond-point de l’autoroute à Estancarbon. Vérifier le lieu précis et le maintien auprès des organisateurs.",
+      "status": "verify",
+      "source": {
+        "label": "RadarManif — agenda du 31 octobre",
+        "url": "https://radarmanif.fr/journee/31-octobre-2026"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Avignon (Vaucluse)",
+      "title": "Mobilisation sociale annoncée — à confirmer",
+      "details": "La presse locale signale un appel à mobilisation pour samedi 31 octobre. Horaire, lieu précis et organisateur à confirmer avant publication.",
+      "status": "verify",
+      "source": {
+        "label": "La Marseillaise — appel à mobilisation à Avignon",
+        "url": "https://www.lamarseillaise.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Angoulême (Charente)",
+      "title": "Manifestation au départ de la gare — à confirmer",
+      "details": "La presse locale rapporte un appel de la CGT et de Force ouvrière pour samedi 31 octobre au départ de la gare. Horaire et parcours précis à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Charente Libre — mobilisation du 31 octobre à Angoulême",
+        "url": "https://www.charentelibre.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "heure à confirmer",
+      "city": "Roanne (Loire)",
+      "title": "Rassemblement du « Carrefour des colères » — à confirmer",
+      "details": "Signalement de presse locale pour samedi 31 octobre. Heure et lieu précis à confirmer auprès des organisateurs.",
+      "status": "verify",
+      "source": {
+        "label": "TL7 — annonce d’un rassemblement à Roanne",
+        "url": "https://www.tl7.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "heure à confirmer",
+      "city": "Lannion (Côtes-d’Armor)",
+      "title": "Village résistant et manifestation — à confirmer",
+      "details": "La presse locale signale un village militant et une manifestation pour samedi 31 octobre. Horaires et lieu exact à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Le Télégramme — mobilisation à Lannion",
+        "url": "https://www.letelegramme.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "16 h 00",
+      "city": "Marseille (Bouches-du-Rhône)",
+      "title": "Bikers pour la Palestine — à confirmer",
+      "details": "Agenda associatif annonce une action à 16 h place de la Joliette. Vérifier le maintien et le format de l’événement auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Mille Babords — agenda militant marseillais",
+        "url": "https://www.millebabords.org/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "18 h 00",
+      "city": "Marseille (Bouches-du-Rhône)",
+      "title": "Rassemblement de soutien à Gaza — à confirmer",
+      "details": "Agenda associatif annonce un rassemblement statique à la porte d’Aix à 18 h. Maintien et éventuelles consignes locales à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Mille Babords — agenda militant marseillais",
+        "url": "https://www.millebabords.org/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "14 h 00",
+      "city": "Marseille (Bouches-du-Rhône)",
+      "title": "Marche pour la justice et un logement digne — à confirmer",
+      "details": "Appel de collectifs et organisations en lien avec le procès en appel des effondrements de la rue d’Aubagne. Départ annoncé au métro Notre-Dame-du-Mont à 14 h. Vérifier l’appel et les éventuelles consignes locales avant déplacement.",
+      "status": "verify",
+      "source": {
+        "label": "Solidaires 13 — Marche pour la justice et un logement digne le 1er novembre",
+        "url": "https://www.solidaires13.org/2026/10/26/marche-pour-la-justice-et-un-logement-digne-le-1er-novembre-2026/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Besançon (Doubs)",
+      "title": "Manifestation intersyndicale — à confirmer",
+      "details": "La presse locale signale une manifestation déclarée pour le samedi 31 octobre. Horaire, lieu et parcours exact à vérifier auprès des syndicats et de la préfecture.",
+      "status": "verify",
+      "source": {
+        "label": "L’Est Républicain — mobilisation sociale à Besançon",
+        "url": "https://www.estrepublicain.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Caen (Calvados)",
+      "title": "Manifestation contre la vie chère — à confirmer",
+      "details": "La presse locale rapporte une manifestation déclarée par les syndicats pour samedi 31 octobre. Horaire, lieu et parcours à confirmer dans l’article d’origine.",
+      "status": "verify",
+      "source": {
+        "label": "Actu.fr — manifestation contre la vie chère à Caen",
+        "url": "https://actu.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Toulouse (Haute-Garonne)",
+      "title": "Rassemblement / blocage contre la vie chère — à confirmer",
+      "details": "Un agenda de mobilisations signale une action samedi 31 octobre. Lieu, horaire et nature exacte de l’action à confirmer auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Maniflux — agenda des manifestations",
+        "url": "https://maniflux.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Gap (Hautes-Alpes)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous place Desmichels (la Pyramide) samedi 31 octobre à 14 h. Motif et maintien à confirmer auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Vitré (Ille-et-Vilaine)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous place du Général-de-Gaulle samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Jeuxey (Vosges)",
+      "title": "Rassemblement annoncé — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous au carrefour de la rue du Saut-le-Cerf samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Bayonne (Pyrénées-Atlantiques)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous place Paul-Bert samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Besançon (Doubs)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 14 h. Le lieu exact, le motif et le maintien doivent être confirmés auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "La Meyze (Haute-Vienne)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 14 h. Le lieu exact, le motif et le maintien doivent être confirmés.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h 00",
+      "city": "Le Havre (Seine-Maritime)",
+      "title": "Rassemblement annoncé — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous place de la Mairie samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "20 h 00",
+      "city": "Angers (Maine-et-Loire)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous à la mairie samedi 31 octobre à 20 h. Motif, lieu précis et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "20 h 00",
+      "city": "Laval (Mayenne)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous place de la Gare samedi 31 octobre à 20 h. Motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "18 h 00",
+      "city": "Agen (Lot-et-Garonne)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 18 h. Le lieu précis, le motif et le maintien doivent être confirmés.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "19 h 00",
+      "city": "Chambéry (Savoie)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous à la fontaine des Éléphants samedi 31 octobre à 19 h. Motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "20 h 00",
+      "city": "Mulhouse (Haut-Rhin)",
+      "title": "Manifestation annoncée — à confirmer",
+      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 20 h. Motif, lieu précis et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Cortège — agenda des mobilisations",
+        "url": "https://cortege.neru.tv/agenda"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "heure à confirmer",
+      "city": "Montauban (Tarn-et-Garonne)",
+      "title": "Nouvelle mobilisation annoncée — à confirmer",
+      "details": "La presse locale signale un nouveau rendez-vous pour le samedi 31 octobre. Heure, lieu, motif et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "La Dépêche — nouveau rendez-vous à Montauban le 31 octobre",
+        "url": "https://www.ladepeche.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "heure à confirmer",
+      "city": "Tours (Indre-et-Loire)",
+      "title": "Appel à manifester place Jean-Jaurès — à confirmer",
+      "details": "Signalement de presse locale d’un appel à manifester samedi 31 octobre place Jean-Jaurès. Horaire et maintien à confirmer.",
+      "status": "verify",
+      "source": {
+        "label": "Actu.fr — appel à manifester à Tours",
+        "url": "https://actu.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "heure à confirmer",
+      "city": "Vannes (Morbihan)",
+      "title": "Mobilisation annoncée — à confirmer",
+      "details": "La presse locale signale une mobilisation pour samedi 31 octobre. Heure, lieu et maintien à confirmer auprès de l’organisateur.",
+      "status": "verify",
+      "source": {
+        "label": "Actu.fr — mobilisation annoncée dans le Morbihan",
+        "url": "https://actu.fr/"
+      },
+      "checkedAt": "2026-10-29T01:08:00+01:00"
     }
   ],
   "curfews": [
@@ -672,5 +1322,5 @@
       "url": "https://www.sncf-connect.com/"
     }
   ],
-  "verificationNote": "Actualisation éditoriale effectuée le 29 octobre 2026 à 01 h 08 (Europe/Paris). Les dates checkedAt indiquent l’heure de revue de cette version, pas une confirmation individuelle de chaque arrêté. Les événements passés sont conservés comme historiques/terminés ; les événements futurs provenant d’agrégateurs et les mesures locales non recoupées sont marqués « à confirmer ». Pour les restrictions de circulation et couvre-feux, vérifier l’arrêté officiel local avant déplacement. Les données de transport évoluent en temps réel."
+  "verificationNote": "Actualisation éditoriale effectuée le 29 octobre 2026 à 01 h 08 (Europe/Paris). Les champs checkedAt indiquent la revue de cette version et ne signifient pas que chaque annonce ou arrêté a été confirmé individuellement à cette heure. Les événements passés sont conservés comme historiques/terminés ; les annonces provenant d’agendas agrégés, les horaires ou lieux incomplets et les mesures locales non recoupées restent « à confirmer ». Pour les restrictions et les transports, vérifier les sources officielles locales avant déplacement."
 }
