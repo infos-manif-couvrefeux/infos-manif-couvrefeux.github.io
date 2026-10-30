@@ -1,1167 +1,250 @@
 {
-  "updatedAt": "2026-10-29T01:28:00+01:00",
+  "updatedAt": "2026-10-30T19:00:00+01:00",
   "events": [
     {
-      "date": "2026-10-24",
-      "time": "9 h – 22 h",
-      "city": "Caen",
-      "title": "Terminé — mesures du 24 octobre, périmètre à consulter",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : La préfecture du Calvados a publié une page dédiée au renforcement des mesures de sécurité à Caen. Les horaires et périmètres précis doivent être repris des arrêtés associés ; ne pas présenter les détails comme confirmés sans lecture de l’arrêté.",
-      "status": "ended",
+      "date": "2026-10-31",
+      "time": "6 h – 8 h (1er novembre)",
+      "city": "Valence, Romans-sur-Isère et Montélimar",
+      "title": "Interdiction des rassemblements dans les centres-villes",
+      "details": "La préfète de la Drôme interdit les rassemblements dans les centres de Valence, Romans-sur-Isère et Montélimar du samedi 31 octobre à 6 h au dimanche 1er novembre à 8 h. Cette interdiction concerne les périmètres définis par les arrêtés : consulter les documents préfectoraux pour les rues exactes. À distinguer du couvre-feu des mineurs, qui commence à 19 h.",
+      "status": "announced",
       "source": {
-        "label": "Préfecture du Calvados — arrêtés préfectoraux, renforcement des mesures de sécurité à Caen",
-        "url": "https://www.calvados.gouv.fr/Actualites/Securite-Risques-Securite-Routiere-Justice/Arretes-prefectoraux-Renforcement-des-mesures-de-securite-a-Caen"
+        "label": "Le Dauphiné Libéré — mesures de sécurité Drôme, 29 octobre 2026",
+        "url": "https://www.ledauphine.com/social/2026/10/29/acte-iii-et-halloween-rassemblements-interdits-et-couvre-feu-pour-les-mineurs-a-valence-romans-et-montelimar"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "date": "2026-10-24",
-      "time": "",
-      "city": "Drôme",
-      "title": "Événement du 24 octobre terminé — aucune nouvelle annonce confirmée",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Aucune annonce confirmée n’a été établie lors du contrôle. Cela ne prouve pas qu’aucun rassemblement n’existe : consulter les derniers communiqués et arrêtés de la préfecture.",
-      "status": "ended",
+      "date": "2026-10-31",
+      "time": "8 h – 20 h",
+      "city": "Privas, Annonay et Aubenas",
+      "title": "Interdiction des manifestations dans les centres-villes",
+      "details": "Pour le samedi 31 octobre, les manifestations sont interdites dans les centres-villes de Privas, Annonay et Aubenas de 8 h à 20 h. Les périmètres exacts sont ceux des arrêtés préfectoraux ; consulter la préfecture avant tout déplacement.",
+      "status": "announced",
       "source": {
-        "label": "Préfecture de la Drôme — site officiel",
-        "url": "https://www.drome.gouv.fr/"
+        "label": "Rhône-Alpes Matin — mesures annoncées à partir des arrêtés et informations officielles, 30 octobre 2026",
+        "url": "https://rhonealpesmatin.fr/ardeche/bourg-saint-andeol/ardeche-securite-renforcee-pour-la-mobilisation-et-halloween"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "date": "2026-10-24",
-      "time": "",
-      "city": "France entière",
-      "title": "Terminé — mobilisations nationales du 24 octobre",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Le ministère de l’Intérieur a demandé aux préfets d’évaluer les parcours, les risques de troubles et les flux. Les autorisations et interdictions restent locales : consulter l’arrêté applicable à chaque commune. Une carte de presse nationale recense plus d’une centaine de communes concernées, mais peut ne pas inclure les arrêtés publiés tardivement.",
-      "status": "ended",
+      "date": "2026-10-31",
+      "time": "20 h – 6 h (1er novembre)",
+      "city": "Privas, Annonay, Aubenas, Bourg-Saint-Andéol, Le Teil, La Voulte-sur-Rhône et Tournon-sur-Rhône",
+      "title": "Interdiction des rassemblements revendicatifs",
+      "details": "Les rassemblements à caractère revendicatif sont interdits dans les sept communes citées du samedi 31 octobre à 20 h au dimanche 1er novembre à 6 h. Vérifier les périmètres exacts dans les arrêtés préfectoraux.",
+      "status": "announced",
       "source": {
-        "label": "Ministère de l’Intérieur — journée de mobilisation du samedi 24 octobre 2026",
-        "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/journee-de-mobilisation-du-samedi-24-octobre-2026"
+        "label": "Rhône-Alpes Matin — mesures de sécurité en Ardèche, 30 octobre 2026",
+        "url": "https://rhonealpesmatin.fr/ardeche/bourg-saint-andeol/ardeche-securite-renforcee-pour-la-mobilisation-et-halloween"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "date": "2026-10-24",
-      "time": "",
+      "date": "2026-10-31",
+      "time": "14 h",
       "city": "Grenoble",
-      "title": "Terminé — interdiction de rassemblements dans plusieurs secteurs",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : La préfecture de l’Isère indique que le tribunal administratif a rejeté le recours contre l’arrêté d’interdiction. La mesure reste en vigueur jusqu’au dimanche 25 octobre à 6 h dans les secteurs définis par arrêté. Consulter le communiqué préfectoral pour le périmètre exact.",
-      "status": "ended",
-      "source": {
-        "label": "Préfecture de l’Isère — Sécurité publique : manifestations du samedi 24 octobre 2026",
-        "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "7 h – 22 h",
-      "city": "Lille",
-      "title": "Terminé — interdiction de manifestations dans un périmètre central",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Une actualité mise à jour le 24 octobre rapporte une interdiction des manifestations et rassemblements de 7 h à 22 h dans un périmètre central défini par arrêté préfectoral. Le périmètre ne concerne pas toute la métropole. L’arrêté officiel reste à privilégier pour la carte et les rues exactes.",
-      "status": "ended",
-      "source": {
-        "label": "Lille.eVous — point actualisé sur les manifestations et restrictions du 24 octobre 2026",
-        "url": "https://lille.evous.fr/citoyen/manifestations-greves-et-rassemblements/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "",
-      "city": "Limoges",
-      "title": "Terminé — rassemblements de plus de 10 personnes interdits dans le centre-ville",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Une source secondaire reprenant les arrêtés préfectoraux indique que les rassemblements de plus de 10 personnes sont interdits dans un vaste périmètre du centre-ville du samedi 24 octobre à 7 h au dimanche 25 octobre à 5 h. Elle rapporte aussi un couvre-feu de 22 h à 5 h dans plusieurs rues et des restrictions sur certains objets. Les détails doivent être confirmés par les arrêtés de la préfecture.",
-      "status": "ended",
-      "source": {
-        "label": "Ma vigilance — mesure officielle signalée en Haute-Vienne, mise à jour du 23 octobre 2026",
-        "url": "https://www.mavigilance.fr/departement/87-haute-vienne"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "10 h – 23 h",
-      "city": "Lyon",
-      "title": "Terminé — manifestations et rassemblements revendicatifs interdits dans un périmètre du centre",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : La Ville de Lyon confirme l’interdiction des manifestations, cortèges et rassemblements revendicatifs sur la voie publique le 24 octobre, de 10 h à 23 h, dans un périmètre défini comprenant la Presqu’île, une partie du Vieux-Lyon, les Brotteaux, la Part-Dieu et la Guillotière jusqu’au cours Gambetta. Ce n’est pas une interdiction générale sur toute la métropole.",
-      "status": "ended",
-      "source": {
-        "label": "Ville de Lyon — mesures de sécurisation du 24 octobre (23 octobre 2026)",
-        "url": "https://www.lyon.fr/actualite/action-municipale/24-octobre-la-ville-prend-des-mesures-de-securisation"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "",
-      "city": "Marseille",
-      "title": "Terminé — manifestation à autorisation dérogatoire",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Les informations publiées le 24 octobre indiquent qu’une manifestation a été autorisée à titre dérogatoire à Marseille, malgré une interdiction générale annoncée dans le département. Le parcours et les éventuelles décisions de justice complémentaires doivent être vérifiés auprès de la préfecture avant publication de détails plus précis.",
-      "status": "ended",
-      "source": {
-        "label": "Le Parisien — Marseille aura le droit de manifester de façon très limitée (24 octobre 2026)",
-        "url": "https://www.leparisien.fr/faits-divers/mobilisations-du-24-octobre-marseille-aura-le-droit-de-manifester-de-facon-tres-limitee-23-10-2026-5EOGZLHKPBBYFJKQ7AHNMGWIDU.php"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "8 h – 22 h",
-      "city": "Montpellier",
-      "title": "Terminé — manifestation déclarée interdite, autres restrictions à vérifier",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : La préfecture a annoncé l’interdiction de la manifestation déclarée pour le 24 octobre et des restrictions de rassemblements dans une partie du centre-ville. Une source secondaire rapporte que des recours ont été examinés ; la décision finale et les périmètres exacts doivent être vérifiés dans les documents préfectoraux et judiciaires. Ne pas confondre ces mesures avec les transports.",
-      "status": "ended",
-      "source": {
-        "label": "Préfecture de l’Hérault — site officiel, actualités et communiqués",
-        "url": "https://www.herault.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "",
-      "city": "Nice",
-      "title": "Terminé — manifestations revendicatives interdites dans plusieurs secteurs",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Une source locale rapporte un arrêté préfectoral interdisant les regroupements, cortèges et manifestations revendicatives de 8 h à minuit le 24 octobre dans plusieurs secteurs de Nice. Le périmètre exact doit être repris de l’arrêté officiel ; cette fiche ne vaut pas interdiction générale dans toute la ville.",
-      "status": "ended",
-      "source": {
-        "label": "Nice-Premium — manifestation du 24 octobre à Nice, rassemblements interdits",
-        "url": "https://www.nicepremium.fr/actualites/manifestation-du-24-octobre-a-nice-450-policiers-mobilises-et-rassemblements-interdits/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "13 h – 19 h",
-      "city": "Paris",
-      "title": "Terminé — manifestation autorisée : porte d’Italie → porte de Vincennes",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : Le parcours Bastille–Nation initialement discuté n’est pas celui validé. Le parcours autorisé annoncé est porte d’Italie → porte de Vincennes, de 13 h à 19 h. Vérifier les consignes de la Préfecture de police et les conditions de circulation avant tout déplacement.",
-      "status": "ended",
-      "source": {
-        "label": "Le Monde — direct du 24 octobre 2026, parcours confirmé après recours",
-        "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "",
-      "city": "Rennes",
-      "title": "Terminé — manifestations interdites dans le centre-ville",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : La préfecture a interdit les manifestations dans une large partie du centre-ville. Selon les informations publiées le 24 octobre, le tribunal administratif a rejeté le recours contre l’interdiction. Le périmètre exact doit être consulté dans l’arrêté préfectoral.",
-      "status": "ended",
-      "source": {
-        "label": "Préfecture d’Ille-et-Vilaine — risques de troubles à l’ordre public le 24 octobre 2026",
-        "url": "https://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/2026/SECURITE-Risques-de-troubles-a-l-ordre-public-le-samedi-24-octobre-2026"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-24",
-      "time": "9 h – 20 h",
-      "city": "Rouen et Le Havre",
-      "title": "Terminé — mesures signalées à Rouen et au Havre",
-      "details": "Fiche historique pour le samedi 24 octobre 2026. La période annoncée est passée ; ne pas interpréter cette fiche comme une interdiction ou autorisation en vigueur le 25 octobre. Pour toute nouvelle mesure, consulter l’arrêté le plus récent de la préfecture concernée. Détails initiaux : La Ville de Rouen confirme des interdictions de manifestations et rassemblements le 24 octobre de 9 h à 20 h dans plusieurs secteurs (Pasteur, Saint-Sever et hypercentre), avec périmètres étendus. Les informations pour Le Havre n’ont pas été vérifiées séparément dans ce contrôle ; ne pas appliquer automatiquement les mêmes horaires aux deux villes.",
-      "status": "ended",
-      "source": {
-        "label": "Ville de Rouen — manifestations interdites en centre-ville le 24 octobre 2026",
-        "url": "https://www.rouen.fr/index.php/fr/breve/20261022/manifestations-interdites-en-centre-ville-samedi-24-octobre-2026"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-25",
-      "time": "",
-      "city": "Paris",
-      "title": "Terminé — Rassemblements du dimanche 25 octobre : à confirmer",
-      "details": "Les informations contrôlées ne permettent pas de confirmer ici un rassemblement précis pour ce dimanche. Cela ne signifie pas qu’il n’y en a aucun. Vérifier les dernières annonces et arrêtés de la Préfecture de police avant tout déplacement. Période passée : cette fiche est conservée à titre historique et ne confirme aucune mesure en vigueur aujourd’hui.",
-      "status": "ended",
-      "source": {
-        "label": "Préfecture de police de Paris — actualités et arrêtés",
-        "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "heure à confirmer",
-      "city": "Angers (Maine-et-Loire)",
-      "title": "Rassemblement syndical devant la Bourse du travail",
-      "details": "Signalement de presse locale d’une action de FO. Horaire exact, lieu et maintien à confirmer auprès de l’organisation.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "18 h 00",
-      "city": "Brest (Finistère)",
-      "title": "Rassemblement antifasciste",
-      "details": "Signalement de presse locale pour jeudi 29 octobre à 18 h. Lieu exact, organisateur et maintien à confirmer auprès de la source locale.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "18 h 30",
-      "city": "Châtellerault (Vienne)",
-      "title": "Rassemblement contre le racisme / Mouvement de la Paix",
-      "details": "Communiqué du comité châtelleraudais du Mouvement de la Paix : rassemblement devant la mairie à 18 h 30 contre le racisme et l’islamophobie.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce du Mouvement de la Paix relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/mouvement-de-la-paix-rassemblement-6k6ykvks62"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "heure à confirmer",
-      "city": "Douarnenez (Finistère)",
-      "title": "Rassemblement sur les salaires et le pouvoir d’achat",
-      "details": "Un agenda de mobilisations signale un rassemblement le jeudi 29 octobre. Horaire précis, lieu et maintien à confirmer auprès de l’organisateur.",
-      "status": "verify",
-      "source": {
-        "label": "Maniflux — agenda des manifestations",
-        "url": "https://maniflux.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "18 h 00",
-      "city": "Haguenau (Bas-Rhin)",
-      "title": "Rassemblement de solidarité après l’attentat raciste de Trappes",
-      "details": "Annonce publiée dans la presse locale : rassemblement jeudi 29 octobre à 18 h, place de la République, devant l’ancien tribunal. Maintien et conditions locales à vérifier avant déplacement.",
-      "status": "verify",
-      "source": {
-        "label": "Dernières Nouvelles d’Alsace — article sur le rassemblement du 29 octobre",
-        "url": "https://www.dna.fr/faits-divers-justice/2026/10/27/rassemblement-29-octobre"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "13 h 00",
-      "city": "Montpellier",
-      "title": "Rassemblement de soutien à Sabrina",
-      "details": "Rendez-vous annoncé par ALÉ! devant le conseil des prud’hommes, 9 rue Tarragone. Appel publié par l’organisateur ; maintien à recontrôler le jour même.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce d’ALÉ! relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/rassemblement-de-soutien-a-sabrina-6wu8qgzis4"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "18 h 30",
-      "city": "Poitiers",
-      "title": "Rassemblement contre le racisme",
-      "details": "Rendez-vous annoncé place du Maréchal-Leclerc (place d’Armes), de 18 h 30 à 19 h 30. Appel publié sur Démosphère Poitiers ; maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Poitiers relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/rassemblement-contre-le-racisme-hopautqve5"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "heure à confirmer",
-      "city": "Périgueux (Dordogne)",
-      "title": "Rassemblement devant le palais de justice",
-      "details": "Une source de presse locale signale un rassemblement le jeudi 29 octobre. Horaire, motif exact et maintien à confirmer en ouvrant l’article d’origine.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h 00",
-      "city": "Boulazac Isle Manoire (Dordogne)",
-      "title": "Rassemblement devant la mairie",
-      "details": "Un média local signale un rassemblement vendredi 30 octobre à 18 h. Motif exact, adresse et maintien à vérifier.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h 00",
-      "city": "Bourges (Cher)",
-      "title": "Rassemblement contre le racisme en hommage aux victimes de Trappes",
-      "details": "Signalement de presse locale pour vendredi 30 octobre à 18 h. Lieu exact et maintien à confirmer auprès de la source locale.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "7 h 30",
-      "city": "Boussens (Haute-Garonne)",
-      "title": "Rassemblement contre la fabrication de drones militaires",
-      "details": "Appel publié pour un rassemblement à 7 h 30 à l’aire de covoiturage/rond-point de Boussens contre la fabrication de drones. Maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Pyrénées relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/rassemblement-et-action-contre-la-fabrication-de-drones-tueurs-a-bouss-5typxm3mqh"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "heure à confirmer",
-      "city": "Dieppe (Seine-Maritime)",
-      "title": "Rassemblement contre les discours de haine",
-      "details": "Signalement de presse locale pour vendredi 30 octobre. Horaire et lieu exact à confirmer avant publication comme rendez-vous confirmé.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h 00",
-      "city": "Elbeuf (Seine-Maritime)",
-      "title": "Rassemblement en solidarité avec Trappes et La Verrière",
-      "details": "Signalement de presse locale pour vendredi 30 octobre à 18 h. Lieu et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h 00",
-      "city": "Nîmes",
-      "title": "Rassemblement de soutien aux victimes d’un attentat raciste",
-      "details": "Appel public de Vincent Bouget à se rassembler devant l’hôtel de ville à 18 h. Annonce publiée ; maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Gard relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/attentat-raciste-dans-les-yvelines-rassemblements-de-soutien-aux-victi-ak0oe5t5vp"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h – 21 h",
-      "city": "Paris",
-      "title": "Casserolade devant l’Assemblée nationale",
-      "details": "Appel de la Coordination des Gilets jaunes : prises de parole dès 18 h, casserolade à 20 h, clôture annoncée à 21 h. Annonce publiée par l’organisateur ; maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Coordination des Gilets jaunes — communiqué",
-        "url": "https://17octobregiletjaune.net/actualites/vendredi-30-octobre-casserolade-devant-l-assemblee-nationale"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "toute la journée",
-      "city": "Ports français (plusieurs villes)",
-      "title": "Grève de 24 h des dockers",
-      "details": "Appel à une grève de 24 heures des dockers signalé pour vendredi 30 octobre dans plusieurs ports. La participation effective et les effets locaux sont à vérifier auprès des syndicats et autorités portuaires.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — grève des dockers du 30 octobre",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h 00",
-      "city": "Strasbourg",
-      "title": "Cercle de silence / rassemblement",
-      "details": "Cercle de silence annoncé place Kléber de 18 h à 19 h. Appel publié sur Démosphère Strasbourg ; maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Strasbourg relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/cercles-de-silence-protestation-silencieuse-contre-les-politiques-migr-kshemgexor"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "heure à confirmer",
-      "city": "Toulouse (Haute-Garonne)",
-      "title": "Rassemblement contre le racisme",
-      "details": "Signalement d’un rassemblement vendredi 30 octobre. Horaire et lieu exact à confirmer dans l’article de presse locale et auprès de l’organisateur.",
-      "status": "verify",
-      "source": {
-        "label": "Manifs en direct — signalement presse locale",
-        "url": "https://www.manifsendirect.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "18 h 00",
-      "city": "Échirolles (Isère)",
-      "title": "Rassemblement contre le racisme et en solidarité avec Trappes et La Verrière",
-      "details": "La Ville d’Échirolles annonce le rassemblement à 18 h sur le parvis de l’hôtel de ville, 1 place des Cinq Fontaines.",
-      "status": "announced",
-      "source": {
-        "label": "Le Dauphiné Libéré — annonce de la Ville",
-        "url": "https://www.ledauphine.com/societe/2026/10/28/la-ville-organise-un-rassemblement-contre-le-racisme-ce-vendredi-30-octobre-a-18-heures"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "18 h 00",
-      "city": "Agen (Lot-et-Garonne)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 18 h. Le lieu précis, le motif et le maintien doivent être confirmés.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "20 h 00",
-      "city": "Angers (Maine-et-Loire)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous à la mairie samedi 31 octobre à 20 h. Motif, lieu précis et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "10 h 30",
-      "city": "Angoulême (Charente)",
-      "title": "Manifestation CGT et Force ouvrière au départ de la gare",
-      "details": "Charente Libre rapporte que la CGT et Force ouvrière annoncent une manifestation samedi 31 octobre à 10 h 30 au départ de la gare d’Angoulême. Annonce syndicale relayée par la presse ; parcours et maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Charente Libre — article du 29 octobre",
-        "url": "https://www.charentelibre.fr/societe/le-cgt-et-force-ouvriere-annoncent-une-manifestation-ce-31-octobre-au-depart-de-la-gare-a-angouleme-31278867.php"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Avignon (Vaucluse)",
-      "title": "Mobilisation sociale annoncée",
-      "details": "La presse locale signale un appel à mobilisation pour samedi 31 octobre. Horaire, lieu précis et organisateur à confirmer avant publication.",
-      "status": "verify",
-      "source": {
-        "label": "La Marseillaise — appel à mobilisation à Avignon",
-        "url": "https://www.lamarseillaise.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Bayonne (Pyrénées-Atlantiques)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous place Paul-Bert samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h",
-      "city": "Besançon (Doubs)",
-      "title": "Manifestation intersyndicale déclarée en préfecture",
-      "details": "L’Est Républicain rapporte que FO, Solidaires, CGT et FSU, soutenus par l’Union syndicale lycéenne et la LDH, ont déposé une déclaration pour 14 h, place de la Révolution, vers la Gare d’eau via la rue de Dole. Au moment de l’article, la préfecture n’avait pas encore pris de décision : déclaration ne signifie pas autorisation.",
-      "status": "announced",
-      "source": {
-        "label": "L’Est Républicain — article du 28 octobre",
-        "url": "https://www.estrepublicain.fr/social/2026/10/28/crise-sociale-l-intersyndicale-a-declare-une-manifestation-pour-ce-31-octobre"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h",
-      "city": "Besançon (Doubs)",
-      "title": "Manifestation intersyndicale déclarée en préfecture",
-      "details": "L’Est Républicain rapporte que FO, Solidaires, CGT et FSU, soutenus par l’Union syndicale lycéenne et la LDH, ont déposé une déclaration pour 14 h, place de la Révolution, vers la Gare d’eau via la rue de Dole. Au moment de l’article, la préfecture n’avait pas encore pris de décision : déclaration ne signifie pas autorisation.",
-      "status": "announced",
-      "source": {
-        "label": "L’Est Républicain — article du 28 octobre",
-        "url": "https://www.estrepublicain.fr/social/2026/10/28/crise-sociale-l-intersyndicale-a-declare-une-manifestation-pour-ce-31-octobre"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "15 h 00",
-      "city": "Boulogne-sur-Mer (Pas-de-Calais)",
-      "title": "Manifestation « Acte III pour nos libertés »",
-      "details": "Rassemblement annoncé place d’Argentine à 15 h, dans le cadre de l’Acte III pour les libertés.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce 17octobre relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/acte-iii-pour-nos-libertes-manifestons-635ozciuq9"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Caen (Calvados)",
-      "title": "Manifestation contre la vie chère",
-      "details": "La presse locale rapporte une manifestation déclarée par les syndicats pour samedi 31 octobre. Horaire, lieu et parcours à confirmer dans l’article d’origine.",
-      "status": "verify",
-      "source": {
-        "label": "Actu.fr — manifestation contre la vie chère à Caen",
-        "url": "https://actu.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 30",
-      "city": "Carcassonne (Aude)",
-      "title": "Manifestation « Acte III »",
-      "details": "Appel publié pour une manifestation place André-Chénier de 14 h 30 à 15 h 30, pour la jeunesse, contre la vie chère et pour la justice climatique.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Carcassonne relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/manifestation-pour-la-jeunesse-contre-la-vie-chere-square-andre-chenie-iechdoplbe"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "19 h 00",
-      "city": "Chambéry (Savoie)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous à la fontaine des Éléphants samedi 31 octobre à 19 h. Motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Clermont-Ferrand",
-      "title": "Appel à la grève féministe / mobilisation",
-      "details": "Ateliers annoncés au Centre Jean Richepin, de 14 h à 17 h, pour préparer la grève féministe de 2027. Il s’agit d’un atelier, pas d’une manifestation de rue.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce du collectif « 8 mars toute l’année » relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/preparons-la-greve-feministe-iw1tfyqw83"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Dijon (Côte-d’Or)",
-      "title": "Manifestation contre la vie chère",
-      "details": "Appel public à manifester contre la vie chère, place de la République, à 14 h.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce publiée sur Dijoncter.info, relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/manifestation-contre-la-vie-chere-wxfindlgdp"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "15 h 00",
-      "city": "Dijon (Côte-d’Or)",
-      "title": "Rassemblement pour une paix juste et durable en Palestine",
-      "details": "Rassemblement annoncé place Darcy à 15 h pour une paix juste et durable en Palestine.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce publiée sur Dijoncter.info, relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/rassemblement-pour-une-paix-juste-et-durable-en-palestine-mkwffetcia"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "",
-      "city": "France entière",
-      "title": "Appel à rassemblement du 31 octobre ",
-      "details": "Les lieux, horaires et organisateurs n’ont pas été confirmés par une source officielle ou un média national de référence dans ce contrôle. Ne pas présenter cet appel comme établi tant qu’une annonce fiable n’est pas disponible.",
-      "status": "verify",
-      "source": {
-        "label": "Ministère de l’Intérieur — communiqués officiels",
-        "url": "https://www.interieur.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Gap (Hautes-Alpes)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous place Desmichels (la Pyramide) samedi 31 octobre à 14 h. Motif et maintien à confirmer auprès de l’organisateur.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Jeuxey (Vosges)",
-      "title": "Rassemblement annoncé",
-      "details": "Un agenda de cortèges signale un rendez-vous au carrefour de la rue du Saut-le-Cerf samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "La Meyze (Haute-Vienne)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 14 h. Le lieu exact, le motif et le maintien doivent être confirmés.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "heure à confirmer",
-      "city": "Lannion (Côtes-d’Armor)",
-      "title": "Village résistant et manifestation",
-      "details": "La presse locale signale un village militant et une manifestation pour samedi 31 octobre. Horaires et lieu exact à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Le Télégramme — mobilisation à Lannion",
-        "url": "https://www.letelegramme.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "20 h 00",
-      "city": "Laval (Mayenne)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous place de la Gare samedi 31 octobre à 20 h. Motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Le Havre (Seine-Maritime)",
-      "title": "Rassemblement annoncé",
-      "details": "Un agenda de cortèges signale un rendez-vous place de la Mairie samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 30",
-      "city": "Le Vigan (Gard)",
-      "title": "Manifestation « La peur doit changer de camp ! »",
-      "details": "Appel publié pour un rendez-vous à 14 h 30 devant la mairie du Vigan.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Gard relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/manifestation-la-peur-doit-changer-de-camp-wbeblbz5io"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 30",
-      "city": "Lille (Nord)",
-      "title": "Manifestation unitaire",
-      "details": "Manifestation annoncée place de la République à Lille, de 14 h 30 à 15 h 30, en solidarité avec les lycéens et pour la justice sociale.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Lille relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/manifestation-unitaire-bdp0ovb1wl"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h",
-      "city": "Lyon",
-      "title": "Manifestation syndicale contre la vie chère et pour les libertés",
-      "details": "Appel de Solidaires Rhône, CNT-SO Rhône-Alpes et UNEF Lyon. Départ à 14 h de la Manufacture des Tabacs, arrivée à Jean-Macé via Garibaldi et Berthelot ; la préfecture a confirmé l’accord sur le parcours.",
+      "title": "Manifestation autorisée — convergence pour une vie digne",
+      "details": "Manifestation déclarée par le syndicat Solidaires et autorisée par la préfecture de l’Isère. Le lieu de départ et le parcours précis doivent être consultés dans le communiqué ou auprès de l’organisateur ; ne pas extrapoler un itinéraire non publié dans la source consultée.",
       "status": "authorized",
       "source": {
-        "label": "Impact FM / Radio SCOOP — parcours confirmé avec la préfecture",
-        "url": "https://www.impactfm.fr/infos/lyon-une-manifestation-annoncee-ce-samedi-31-octobre_366587"
+        "label": "Radio ISA — liste des manifestations autorisées par la préfecture de l’Isère, 30 octobre 2026",
+        "url": "https://www.radioisa.com/news/acte-iii-de-la-mobilisation-quelles-sont-les-manifestations-en-isere-ce-31-octobre-4232"
       },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "16 h 00",
-      "city": "Marseille (Bouches-du-Rhône)",
-      "title": "Bikers pour la Palestine",
-      "details": "Agenda associatif annonce une action à 16 h place de la Joliette. Vérifier le maintien et le format de l’événement auprès de l’organisateur.",
-      "status": "verify",
-      "source": {
-        "label": "Mille Babords — agenda militant marseillais",
-        "url": "https://www.millebabords.org/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "18 h 00",
-      "city": "Marseille (Bouches-du-Rhône)",
-      "title": "Rassemblement de soutien à Gaza",
-      "details": "Agenda associatif annonce un rassemblement statique à la porte d’Aix à 18 h. Maintien et éventuelles consignes locales à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Mille Babords — agenda militant marseillais",
-        "url": "https://www.millebabords.org/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "heure à confirmer",
-      "city": "Montauban (Tarn-et-Garonne)",
-      "title": "Nouvelle mobilisation annoncée",
-      "details": "La presse locale signale un nouveau rendez-vous pour le samedi 31 octobre. Heure, lieu, motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "La Dépêche — nouveau rendez-vous à Montauban le 31 octobre",
-        "url": "https://www.ladepeche.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "20 h 00",
-      "city": "Mulhouse (Haut-Rhin)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous samedi 31 octobre à 20 h. Motif, lieu précis et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "11 h 00",
-      "city": "Nîmes (Gard)",
-      "title": "Rassemblement de solidarité avec le peuple palestinien",
-      "details": "Annonce publiée pour un rassemblement de solidarité avec le peuple palestinien avenue Feuchères. La fiche affiche 11 h–12 h, tandis que le texte de l’appel indique 11 h–13 h : horaire de fin à vérifier auprès de l’organisateur.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Gard / AFPS relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/afps-avec-le-peuple-palestinien-pour-saluer-le-mouvement-de-greve-des-jxleb0fvcf"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 30",
-      "city": "Nîmes (Gard)",
-      "title": "Manifestation pour les exigences démocratiques et sociales",
-      "details": "Appel intersyndical publié : départ à 14 h 30 des Jardins de la Fontaine, arrivée annoncée à la préfecture.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce intersyndicale sur Démosphère Gard relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/manifestation-les-exigences-democratiques-et-sociales-doivent-etre-ent-1id7v5m4ie"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "15 h 00",
-      "city": "Rennes (Ille-et-Vilaine)",
-      "title": "Rassemblement de soutien au peuple palestinien",
-      "details": "Rassemblement hebdomadaire annoncé par l’AFPS place de la République, de 15 h à 16 h.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce Démosphère Rennes / AFPS relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/rassemblement-soutien-au-peuple-palestinien-daflbo8ktj"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "15 h",
-      "city": "Roanne",
-      "title": "Rassemblement des Gilets jaunes au rond-point de la Demi-Lieue",
-      "details": "Le Progrès rapporte un appel à rassemblement à 15 h sur le rond-point du McDonald’s à Mably (rond-point de la Demi-Lieue). Appel rapporté par la presse ; maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Le Progrès — article du 28 octobre",
-        "url": "https://www.leprogres.fr/social/2026/10/28/gilets-jaunes-ou-intersyndicale-plusieurs-appels-a-manifestations-pour-samedi-31-octobre"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "20 h",
-      "city": "Roanne",
-      "title": "Rassemblement familial et déambulation d’Halloween",
-      "details": "Le Progrès rapporte un rendez-vous à 20 h place des Promenades à Roanne, avant une déambulation en centre-ville. Appel rapporté par la presse ; maintien à recontrôler.",
-      "status": "announced",
-      "source": {
-        "label": "Le Progrès — article du 28 octobre",
-        "url": "https://www.leprogres.fr/social/2026/10/28/gilets-jaunes-ou-intersyndicale-plusieurs-appels-a-manifestations-pour-samedi-31-octobre"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "heure à confirmer",
-      "city": "Roanne (Loire)",
-      "title": "Rassemblement du « Carrefour des colères »",
-      "details": "Signalement de presse locale pour samedi 31 octobre. Heure et lieu précis à confirmer auprès des organisateurs.",
-      "status": "verify",
-      "source": {
-        "label": "TL7 — annonce d’un rassemblement à Roanne",
-        "url": "https://www.tl7.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Rosheim (Bas-Rhin)",
-      "title": "Marche solidaire contre le cancer",
-      "details": "Marche annoncée par la Ville et le CCAS : rendez-vous place de la République à 14 h, parcours de 2,5 km ou 5 km.",
-      "status": "announced",
-      "source": {
-        "label": "Annonce de la Ville et du CCAS de Rosheim relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/marche-solidaire-contre-le-cancer-prt13tggov"
-      },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
       "date": "2026-10-31",
       "time": "14 h",
-      "city": "Saint-Gaudens / Estancarbon (Haute-Garonne)",
-      "title": "Rassemblement contre la vie chère et en soutien à la jeunesse",
-      "details": "Appel publié sur Démosphère Pyrénées : rendez-vous à 14 h à Saint-Gaudens, autour du rond-point de l’autoroute à Estancarbon. La fiche indique le lieu et l’horaire ; maintien à recontrôler.",
+      "city": "Bourgoin-Jallieu",
+      "title": "Manifestation autorisée — moyens pour les lycées et universités, contre la vie chère",
+      "details": "Manifestation à l’initiative de Solidaires et de la Ligue des droits de l’Homme, figurant parmi les quatre mobilisations autorisées par la préfecture de l’Isère. Horaire indiqué dans l’agenda de mobilisation ; lieu de départ exact à vérifier auprès des organisateurs.",
+      "status": "authorized",
+      "source": {
+        "label": "Radio ISA — manifestations autorisées en Isère, 30 octobre 2026",
+        "url": "https://www.radioisa.com/news/acte-iii-de-la-mobilisation-quelles-sont-les-manifestations-en-isere-ce-31-octobre-4232"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h",
+      "city": "Vienne (Isère)",
+      "title": "Manifestation autorisée contre la vie chère",
+      "details": "Manifestation déposée par LFI et Attac, mentionnée parmi les quatre mobilisations autorisées par la préfecture de l’Isère. Le lieu de départ exact n’est pas précisé dans la source consultée ; vérifier auprès des organisateurs.",
+      "status": "authorized",
+      "source": {
+        "label": "Radio ISA — manifestations autorisées en Isère, 30 octobre 2026",
+        "url": "https://www.radioisa.com/news/acte-iii-de-la-mobilisation-quelles-sont-les-manifestations-en-isere-ce-31-octobre-4232"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "Horaire à vérifier",
+      "city": "Châbons",
+      "title": "Rassemblement statique autorisé",
+      "details": "Un rassemblement statique à Châbons figure dans la liste des quatre mobilisations autorisées par la préfecture de l’Isère. La source consultée ne précise pas l’horaire ni le lieu exact : se renseigner auprès des organisateurs avant déplacement.",
+      "status": "authorized",
+      "source": {
+        "label": "Radio ISA — manifestations autorisées en Isère, 30 octobre 2026",
+        "url": "https://www.radioisa.com/news/acte-iii-de-la-mobilisation-quelles-sont-les-manifestations-en-isere-ce-31-octobre-4232"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14 h",
+      "city": "Lyon",
+      "title": "Manifestation syndicale autorisée — de la Manufacture des Tabacs à Jean-Macé",
+      "details": "La Ville de Lyon confirme que la préfecture a autorisé la manifestation déposée par Solidaires, CNT et UNEF. Départ à 14 h de la Manufacture des Tabacs, puis cours Gambetta, rue Garibaldi et avenue Berthelot, arrivée place Jean-Macé. Les autres manifestations et rassemblements revendicatifs sont interdits le 31 octobre de 10 h à 23 h dans un large périmètre du centre-ville défini par arrêté.",
+      "status": "authorized",
+      "source": {
+        "label": "Ville de Lyon — 31 octobre : nouvelles mesures de sécurisation, 30 octobre 2026",
+        "url": "https://www.lyon.fr/actualite/action-municipale/31-octobre-nouvelles-mesures-de-securisation"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "Mesures spécifiques non établies dans les sources consultées",
+      "city": "Bourg-de-Péage",
+      "title": "Point de situation local — aucune interdiction spécifique confirmée",
+      "details": "Bourg-de-Péage est ajoutée au suivi local de la Drôme (à proximité immédiate de Romans-sur-Isère). Les informations préfectorales consultées pour le 31 octobre citent explicitement Valence, Romans-sur-Isère et Montélimar pour les interdictions de rassemblements et le couvre-feu des mineurs. Je n'ai pas trouvé de confirmation que ces mesures s'étendent à cette commune : ne pas leur appliquer automatiquement les arrêtés des villes voisines. Vérifier les communications de la préfecture et de la mairie.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de la Drôme — informations et arrêtés",
+        "url": "https://www.drome.gouv.fr/"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "Mesures spécifiques non établies dans les sources consultées",
+      "city": "Bourg-lès-Valence",
+      "title": "Point de situation local — aucune interdiction spécifique confirmée",
+      "details": "Bourg-lès-Valence est ajoutée au suivi local de la Drôme (dans l'agglomération valentinoise). Les informations préfectorales consultées pour le 31 octobre citent explicitement Valence, Romans-sur-Isère et Montélimar pour les interdictions de rassemblements et le couvre-feu des mineurs. Je n'ai pas trouvé de confirmation que ces mesures s'étendent à cette commune : ne pas leur appliquer automatiquement les arrêtés des villes voisines. Vérifier les communications de la préfecture et de la mairie.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de la Drôme — informations et arrêtés",
+        "url": "https://www.drome.gouv.fr/"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-31",
+      "time": "Mesures spécifiques non établies dans les sources consultées",
+      "city": "Chabeuil",
+      "title": "Point de situation local — aucune interdiction spécifique confirmée",
+      "details": "Chabeuil est ajoutée au suivi local de la Drôme (à l'est de Valence). Les informations préfectorales consultées pour le 31 octobre citent explicitement Valence, Romans-sur-Isère et Montélimar pour les interdictions de rassemblements et le couvre-feu des mineurs. Je n'ai pas trouvé de confirmation que ces mesures s'étendent à cette commune : ne pas leur appliquer automatiquement les arrêtés des villes voisines. Vérifier les communications de la préfecture et de la mairie.",
+      "status": "verify",
+      "source": {
+        "label": "Préfecture de la Drôme — informations et arrêtés",
+        "url": "https://www.drome.gouv.fr/"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "Du vendredi 30 octobre au lundi 2 novembre, 8 h",
+      "city": "Tout le département de la Drôme (26)",
+      "title": "Interdictions départementales : armes, produits dangereux, artifices et équipements de dissimulation",
+      "details": "Dans tout le département de la Drôme, du vendredi 30 octobre 2026 au lundi 2 novembre 2026 à 8 h, sont interdits : le port et le transport d’armes et d’objets pouvant constituer une arme ; le port et le transport de produits dangereux, notamment acides et produits inflammables, chimiques ou explosifs ; l’achat, la vente, la détention, le transport et l’utilisation d’artifices de divertissement et d’articles pyrotechniques ; ainsi que le port d’équipements de protection et de dissimulation du visage. Mesures départementales distinctes des interdictions de rassemblements et du couvre-feu des mineurs limités à Valence, Romans-sur-Isère et Montélimar. Consulter l’arrêté pour les exceptions et formulations exactes.",
       "status": "announced",
       "source": {
-        "label": "Démosphère Pyrénées — annonce relayée par RadarManif",
-        "url": "https://radarmanif.fr/evenement/rassemblement-contre-la-vie-chere-en-soutien-de-la-jeunesse-yhlsenfbgb"
+        "label": "Préfecture de la Drôme — communiqué officiel du 29 octobre 2026 (PDF)",
+        "url": "https://www.drome.gouv.fr/contenu/telechargement/39263/259047/file/29102026_Communiqu%C3%A9%20de%20presse_Mobilisations%2031%20oct_Dispositif_ERRATUM.pdf"
       },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
+      "checkedAt": "2026-10-30T19:00:00+01:00"
     },
     {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Toulouse (Haute-Garonne)",
-      "title": "Rassemblement / blocage contre la vie chère",
-      "details": "Un agenda de mobilisations signale une action samedi 31 octobre. Lieu, horaire et nature exacte de l’action à confirmer auprès de l’organisateur.",
-      "status": "verify",
-      "source": {
-        "label": "Maniflux — agenda des manifestations",
-        "url": "https://maniflux.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "heure à confirmer",
-      "city": "Tours (Indre-et-Loire)",
-      "title": "Appel à manifester place Jean-Jaurès",
-      "details": "Signalement de presse locale d’un appel à manifester samedi 31 octobre place Jean-Jaurès. Horaire et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Actu.fr — appel à manifester à Tours",
-        "url": "https://actu.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "heure à confirmer",
-      "city": "Vannes (Morbihan)",
-      "title": "Mobilisation annoncée",
-      "details": "La presse locale signale une mobilisation pour samedi 31 octobre. Heure, lieu et maintien à confirmer auprès de l’organisateur.",
-      "status": "verify",
-      "source": {
-        "label": "Actu.fr — mobilisation annoncée dans le Morbihan",
-        "url": "https://actu.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-10-31",
-      "time": "14 h 00",
-      "city": "Vitré (Ille-et-Vilaine)",
-      "title": "Manifestation annoncée",
-      "details": "Un agenda de cortèges signale un rendez-vous place du Général-de-Gaulle samedi 31 octobre à 14 h. Motif et maintien à confirmer.",
-      "status": "verify",
-      "source": {
-        "label": "Cortège — agenda des mobilisations",
-        "url": "https://cortege.neru.tv/agenda"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "date": "2026-11-01",
-      "time": "14 h 00",
-      "city": "Marseille (Bouches-du-Rhône)",
-      "title": "Marche pour la justice et un logement digne",
-      "details": "Appel publié par une quarantaine d’organisations : départ dimanche 1er novembre à 14 h du métro Notre-Dame-du-Mont.",
+      "date": "2026-10-30",
+      "time": "Du vendredi 30 octobre à 18 h au lundi 2 novembre à 8 h",
+      "city": "Tout le département de l’Isère (38)",
+      "title": "Interdictions départementales : artifices, combustibles, armes, dissimulation du visage et alcool sur la voie publique",
+      "details": "Dans le département de l’Isère, du vendredi 30 octobre 2026 à 18 h au lundi 2 novembre 2026 à 8 h, sont notamment interdits la consommation de boissons alcoolisées sur la voie publique, l’achat, la vente, la cession, le transport, le port et l’utilisation d’engins pyrotechniques, le transport de combustibles corrosifs, de carburants à emporter et de gaz inflammables, le port et le transport d’armes de toutes catégories et d’objets pouvant constituer une arme par destination, ainsi que le port ou le transport sans motif légitime d’objets destinés à dissimuler le visage. Des exceptions et conditions peuvent figurer dans les arrêtés : consulter le texte préfectoral. À distinguer des interdictions de rassemblement et du couvre-feu qui ne concernent que des secteurs précis de l’agglomération grenobloise.",
       "status": "announced",
       "source": {
-        "label": "Solidaires 13 — appel de collectifs et syndicats",
-        "url": "https://www.solidaires13.org/2026/10/26/marche-pour-la-justice-et-un-logement-digne-le-1er-novembre-2026/"
+        "label": "Le Dauphiné Libéré — mesures préfectorales en Isère, 30 octobre 2026",
+        "url": "https://www.ledauphine.com/social/2026/10/30/couvre-feu-samedi-et-interdiction-de-rassemblement-des-vendredi-soir-dans-le-centre-de-grenoble-et-les-centres-commerciaux-les-mesures-de-la-prefecture"
       },
-      "checkedAt": "2026-10-29T01:28:00+01:00"
+      "checkedAt": "2026-10-30T19:00:00+01:00"
     },
     {
-      "date": "2026-11-05",
-      "time": "",
-      "city": "France entière",
-      "title": "Grève interprofessionnelle du 5 novembre ",
-      "details": "La date et les organisations participantes doivent être confirmées par les organisations syndicales concernées ou une source nationale fiable. Ne pas présenter la grève comme confirmée sans cet appui.",
-      "status": "verify",
+      "date": "2026-10-30",
+      "time": "Du vendredi 30 octobre à 18 h au lundi 2 novembre à 12 h",
+      "city": "Tout le département de l’Ardèche (07)",
+      "title": "Interdictions départementales : carburants et produits dangereux, armes, équipements de protection et alcool sur la voie publique",
+      "details": "Dans tout le département de l’Ardèche, du vendredi 30 octobre 2026 à 18 h au lundi 2 novembre 2026 à 12 h, sont interdits la détention ou le transport de carburant ou d’acide, de produits inflammables, chimiques ou explosifs ; le port d’équipements de protection (notamment masques et casques), d’armes ou d’objets pouvant constituer une arme ; ainsi que la détention et la consommation de boissons alcoolisées sur la voie publique et les espaces publics. La source consultée ne mentionne pas explicitement une interdiction départementale des artifices : ne pas l’ajouter sans confirmation de l’arrêté. Consulter le texte préfectoral pour les exceptions et détails.",
+      "status": "announced",
       "source": {
-        "label": "CFDT — site officiel",
-        "url": "https://www.cfdt.fr/"
+        "label": "Le Dauphiné Libéré — interdictions annoncées par le préfet de l’Ardèche, 29 octobre 2026",
+        "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/29/acte-iii-et-halloween-le-prefet-decide-d-une-serie-d-interdictions"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:00:00+01:00"
     }
   ],
   "curfews": [
     {
-      "city": "Paris",
+      "city": "Valence, Romans-sur-Isère et Montélimar",
+      "status": "active",
+      "hours": "19 h – 8 h",
+      "who": "Mineurs non accompagnés d’un représentant légal",
+      "area": "Communes de Valence, Romans-sur-Isère et Montélimar ; périmètres et exceptions à lire dans les arrêtés",
+      "until": "Dimanche 1er novembre 2026 à 8 h",
+      "note": "La préfète de la Drôme étend à Romans-sur-Isère et Montélimar le couvre-feu déjà appliqué à Valence. Il concerne les mineurs non accompagnés d’un représentant légal, du samedi 31 octobre à 19 h au dimanche 1er novembre à 8 h. Consulter l’arrêté pour les exceptions et les détails d’application.",
+      "source": {
+        "label": "Le Dauphiné Libéré — mesures de sécurité Drôme, 29 octobre 2026",
+        "url": "https://www.ledauphine.com/social/2026/10/29/acte-iii-et-halloween-rassemblements-interdits-et-couvre-feu-pour-les-mineurs-a-valence-romans-et-montelimar"
+      },
+      "checkedAt": "2026-10-30T19:35:00+01:00"
+    },
+    {
+      "city": "Privas, Annonay, Aubenas, Bourg-Saint-Andéol, Le Teil, La Voulte-sur-Rhône et Tournon-sur-Rhône",
       "status": "active",
       "hours": "21 h – 6 h",
-      "who": "Mineurs non accompagnés d’au moins un de leurs représentants légaux",
-      "area": "Plusieurs secteurs définis par arrêté de la Préfecture de police ; carte et exceptions à consulter dans la source officielle",
-      "until": "Jeudi 29 octobre 2026 à 6 h — échéance annoncée, vérifier tout nouvel arrêté",
-      "note": "Une publication mise à jour le 26 octobre rapporte une restriction nocturne des mineurs non accompagnés jusqu’au jeudi 29 octobre à 6 h, dans des secteurs déterminés. À 1 h 08 le 29 octobre, cette échéance n’est pas encore passée. Vérifier l’arrêté officiel pour le périmètre, les exceptions et toute prolongation. Ne pas extrapoler cette mesure au-delà de 6 h.",
+      "who": "Mineurs non accompagnés de leur représentant légal",
+      "area": "Les sept communes citées ; périmètre exact et exceptions à vérifier dans les arrêtés",
+      "until": "Dimanche 1er novembre 2026 à 6 h",
+      "note": "Un couvre-feu pour les mineurs non accompagnés de leur représentant légal est annoncé dans ces sept communes du samedi 31 octobre à 21 h au dimanche 1er novembre à 6 h. La source locale indique que les mesures reposent sur les arrêtés pris par les autorités ; consulter les arrêtés pour les conditions précises.",
       "source": {
-        "label": "Le Parisien — couvre-feu et restrictions à Paris, 26 octobre 2026",
-        "url": "https://www.leparisien.fr/paris-75/paris-la-prefecture-de-police-reconduit-le-couvre-feu-mais-sur-une-zone-plus-restreinte-26-10-2026-64SCUR2LONHJRLVLFYCSBWIHGU.php"
+        "label": "Rhône-Alpes Matin — mesures de sécurité en Ardèche, 30 octobre 2026",
+        "url": "https://rhonealpesmatin.fr/ardeche/bourg-saint-andeol/ardeche-securite-renforcee-pour-la-mobilisation-et-halloween"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "city": "Grenoble",
-      "status": "verify",
-      "hours": "18 h – 6 h",
-      "who": "Personnes circulant dans les périmètres définis, sous réserve des dérogations de l’arrêté",
-      "area": "Quatre périmètres : centre-ville de Grenoble et zones commerciales Neyrpic, Comboire et Grand’Place",
-      "until": "Dimanche 25 octobre 2026 à 6 h — échéance passée",
-      "endsAt": "2026-10-25T06:00:00+01:00",
-      "note": "La mesure enregistrée visait la nuit précédente et a expiré à 6 h le 25 octobre. Aucune prolongation n’est confirmée dans cette fiche ; vérifier la préfecture avant de conclure à l’absence de nouvelles mesures. La période précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie avant toute publication comme mesure active.",
+      "city": "Grenoble — centre-ville et zones commerciales Comboire, Grand’Place et Neyrpic",
+      "status": "active",
+      "hours": "À partir de 23 h le samedi 31 octobre ; fin annoncée dimanche 1er novembre à 6 h",
+      "who": "Personnes présentes dans les périmètres visés, selon les conditions et dérogations des arrêtés",
+      "area": "Centre-ville de Grenoble, centre commercial Comboire à Échirolles, Grand’Place à Grenoble et Neyrpic à Saint-Martin-d’Hères",
+      "until": "Dimanche 1er novembre 2026 à 6 h",
+      "note": "La préfecture de l’Isère a instauré un couvre-feu dans les zones citées pour la nuit d’Halloween. Des interdictions de rassemblement s’appliquent également dans ces secteurs. Les périmètres exacts et les éventuelles dérogations sont fixés par arrêtés.",
       "source": {
-        "label": "Préfecture de l’Isère — Sécurité publique : manifestations du samedi 24 octobre 2026",
-        "url": "https://www.isere.gouv.fr/Actualites/Espace-presse/Communiques-de-presse/Securite-publique-Manifestations-du-samedi-24-octobre-2026"
+        "label": "Radio ISA — mesures annoncées par la préfecture de l’Isère, 30 octobre 2026",
+        "url": "https://www.radioisa.com/news/acte-iii-de-la-mobilisation-quelles-sont-les-manifestations-en-isere-ce-31-octobre-4232"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Toulouse",
-      "status": "verify",
-      "hours": "23 h 59 – 5 h",
-      "who": "Personnes circulant dans le périmètre, sauf dérogations mentionnées dans la décision",
-      "area": "Hypercentre délimité notamment par la rue de Rémusat, place du Capitole, rue Saint-Rome, rue des Changes, place Esquirol et rue d’Alsace-Lorraine",
-      "until": "Dimanche 25 octobre 2026 à 5 h — échéance passée",
-      "endsAt": "2026-10-25T05:00:00+01:00",
-      "note": "La mesure enregistrée a expiré à 5 h le 25 octobre. Aucune prolongation n’est confirmée dans cette fiche ; vérifier la préfecture. La période précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie avant toute publication comme mesure active.",
-      "source": {
-        "label": "Toulouse Métropole — couvre-feu dans l’hypercentre après minuit",
-        "url": "https://metropole.toulouse.fr/actualites/couvre-feu-dans-lhypercentre-apres-minuit"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Bordeaux",
-      "status": "verify",
-      "hours": "22 h – 7 h",
-      "who": "Mineurs non accompagnés d’un représentant légal",
-      "area": "Secteurs précis du centre de Bordeaux : rue Sainte-Catherine, rue de la Porte-Dijeaux, cours de l’Intendance, promenade Sainte-Catherine, place Saint-Projet et place du Général-Sarrail",
-      "until": "Lundi 26 octobre 2026 au matin",
-      "endsAt": "2026-10-26T07:00:00+01:00",
-      "note": "La fiche précédente signalait une mesure jusqu’au lundi 26 octobre au matin, mais la prolongation et le périmètre exact n’ont pas été recoupés avec un arrêté officiel récent lors de cette actualisation. À confirmer. La période précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie avant toute publication comme mesure active.",
-      "source": {
-        "label": "Préfecture de la Gironde — couvre-feu pour les mineurs non accompagnés",
-        "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Octobre-2026/Bordeaux-instauration-d-un-couvre-feu-pour-les-mineurs-non-accompagnes-de-22h-a-7h"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Nice",
-      "status": "verify",
-      "hours": "21 h – 6 h — à confirmer",
-      "who": "Mineurs — à confirmer",
-      "area": "Centre-ville, Vieux-Nice et gare — périmètre à confirmer",
-      "until": "À confirmer par arrêté officiel",
-      "note": "Une source secondaire rapporte une mesure jusqu’au 25 octobre, mais l’arrêté municipal ou préfectoral exact n’a pas été confirmé dans ce contrôle. Prolongation et périmètre non confirmés dans une source officielle récente lors de l’actualisation du 25 octobre ; statut à confirmer.",
-      "source": {
-        "label": "Préfecture des Alpes-Maritimes — site officiel",
-        "url": "https://www.alpes-maritimes.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Marseille",
-      "status": "verify",
-      "hours": "23 h – 5 h",
-      "who": "Personnes majeures et mineures selon les périmètres et conditions de l’arrêté",
-      "area": "Plusieurs secteurs de Marseille ; le périmètre a été élargi aux bâtiments publics et institutionnels",
-      "until": "Nuits du samedi 24 au dimanche 25 et du dimanche 25 au lundi 26 octobre (échéance à vérifier dans l’arrêté)",
-      "note": "Des mesures de sécurité exceptionnelles ont été rapportées pour le week-end, dont un couvre-feu étendu aux majeurs. L’horaire, le périmètre et la durée exacte pour la nuit du 25 au 26 octobre doivent être confirmés par l’arrêté préfectoral. L’échéance précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie.",
-      "source": {
-        "label": "Maritima — mesures de sécurité dans les Bouches-du-Rhône, 22 octobre 2026",
-        "url": "https://maritima.fr/actualites/defense/bouches-du-rhone/16338/bouches-du-rhone-manifestations-interdites-samedi-et-couvre-feu-etendu-aux-majeurs"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Lyon",
-      "status": "verify",
-      "hours": "À confirmer",
-      "who": "À confirmer",
-      "area": "Hypercentre et Presqu’île — périmètre à confirmer",
-      "until": "La dernière échéance enregistrée (22 octobre) est passée ; aucune prolongation confirmée ici",
-      "note": "Ne pas confondre le couvre-feu nocturne avec l’interdiction de manifestations de 10 h à 23 h le 24 octobre. Prolongation et périmètre non confirmés dans une source officielle récente lors de l’actualisation du 25 octobre ; statut à confirmer. L’échéance précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie.",
-      "source": {
-        "label": "Préfecture du Rhône — site officiel",
-        "url": "https://www.rhone.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Perpignan",
-      "status": "verify",
-      "hours": "19 h 30 – 6 h — à confirmer",
-      "who": "Mineurs — à confirmer",
-      "area": "Centre-ville — périmètre à confirmer",
-      "until": "Date exacte à confirmer par arrêté",
-      "note": "La fiche précédente contenait une date incohérente. Ne pas afficher une nuit précise comme confirmée sans retrouver l’arrêté. Prolongation et périmètre non confirmés dans une source officielle récente lors de l’actualisation du 25 octobre ; statut à confirmer.",
-      "source": {
-        "label": "Préfecture des Pyrénées-Orientales — site officiel",
-        "url": "https://www.pyrenees-orientales.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Coulaines (Sarthe)",
-      "status": "verify",
-      "hours": "À partir de 23 h — à confirmer",
-      "who": "Mineurs sortant seuls — à confirmer",
-      "area": "Commune — à confirmer",
-      "until": "Durée à confirmer",
-      "note": "La durée et le maintien de l’arrêté municipal n’ont pas été confirmés. Prolongation et périmètre non confirmés dans une source officielle récente lors de l’actualisation du 25 octobre ; statut à confirmer.",
-      "source": {
-        "label": "Ville de Coulaines — site officiel",
-        "url": "https://www.coulaines.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Pointe-à-Pitre et Les Abymes (Guadeloupe)",
-      "status": "verify",
-      "hours": "À confirmer",
-      "who": "Mineurs — à confirmer",
-      "area": "Deux communes — périmètre à confirmer",
-      "until": "Prolongation non confirmée",
-      "note": "Ne pas présenter la mesure du 18 octobre comme toujours en vigueur sans nouvel arrêté. Prolongation et périmètre non confirmés dans une source officielle récente lors de l’actualisation du 25 octobre ; statut à confirmer.",
-      "source": {
-        "label": "Préfecture de Guadeloupe — site officiel",
-        "url": "https://www.guadeloupe.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Lille, Douai, Wattignies, Denain",
-      "status": "verify",
-      "hours": "20 h – 6 h",
-      "who": "Selon l’arrêté de chaque commune",
-      "area": "Périmètres prévus dans les arrêtés",
-      "until": "La fiche précédente indiquait une fin le 21 octobre 2026 à 6 h",
-      "endsAt": "2026-10-21T06:00:00+02:00",
-      "note": "Aucune prolongation officielle n’a été confirmée dans ce contrôle. Statut terminé sauf nouvel arrêté. Prolongation et périmètre non confirmés dans une source officielle récente lors de l’actualisation du 25 octobre ; statut à confirmer. La période précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie avant toute publication comme mesure active.",
-      "source": {
-        "label": "Préfecture du Nord — site officiel",
-        "url": "https://www.nord.gouv.fr/"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Limoges",
-      "status": "verify",
-      "hours": "22 h – 5 h — détails à confirmer sur arrêté",
-      "who": "Personnes concernées selon l’arrêté ; conditions et justificatifs à vérifier",
-      "area": "Plusieurs rues du centre-ville — périmètre à reprendre de l’arrêté",
-      "until": "Couvre-feu rapporté du vendredi 23 octobre au lundi 26 octobre au matin",
-      "note": "Un couvre-feu de 22 h à 5 h jusqu’au lundi 26 octobre au matin est rapporté par une source secondaire. Les horaires, personnes concernées et périmètre doivent être confirmés sur l’arrêté officiel. L’échéance précédemment enregistrée est passée ; aucune prolongation n’a été confirmée dans cette actualisation. À confirmer auprès de la préfecture ou de la mairie.",
-      "source": {
-        "label": "Ma vigilance — mesure officielle signalée en Haute-Vienne, mise à jour du 23 octobre 2026",
-        "url": "https://www.mavigilance.fr/departement/87-haute-vienne"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     }
   ],
   "prefectures": [
     {
       "name": "Préfecture de la Drôme",
       "dept": "Drôme (26)",
-      "cities": "Drôme, en général",
+      "cities": "Valence, Romans-sur-Isère, Bourg-de-Péage, Bourg-lès-Valence, Chabeuil, Montélimar et communes de la Drôme",
       "url": "https://www.drome.gouv.fr/"
+    },
+    {
+      "name": "Préfecture de l'Ardèche",
+      "dept": "Ardèche (07)",
+      "cities": "Privas, Annonay, Aubenas, Bourg-Saint-Andéol, Le Teil, La Voulte-sur-Rhône, Tournon-sur-Rhône et communes de l’Ardèche",
+      "url": "https://www.ardeche.gouv.fr/"
     },
     {
       "name": "Préfecture de l'Isère",
       "dept": "Isère (38)",
-      "cities": "Grenoble, Échirolles, Saint-Martin-d'Hères",
+      "cities": "Grenoble, Bourgoin-Jallieu, Vienne, Châbons, Échirolles et Saint-Martin-d’Hères",
       "url": "https://www.isere.gouv.fr/"
     },
     {
@@ -1169,197 +252,96 @@
       "dept": "Rhône (69)",
       "cities": "Lyon",
       "url": "https://www.rhone.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de police de Paris",
-      "dept": "Paris (75)",
-      "cities": "Paris",
-      "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
-    },
-    {
-      "name": "Préfecture des Bouches-du-Rhône",
-      "dept": "Bouches-du-Rhône (13)",
-      "cities": "Marseille",
-      "url": "https://www.bouches-du-rhone.gouv.fr/"
-    },
-    {
-      "name": "Préfecture des Alpes-Maritimes",
-      "dept": "Alpes-Maritimes (06)",
-      "cities": "Nice",
-      "url": "https://www.alpes-maritimes.gouv.fr/"
-    },
-    {
-      "name": "Préfecture du Nord",
-      "dept": "Nord (59)",
-      "cities": "Lille, Douai, Wattignies, Denain",
-      "url": "https://www.nord.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de la Gironde",
-      "dept": "Gironde (33)",
-      "cities": "Bordeaux",
-      "url": "https://www.gironde.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de la Haute-Garonne",
-      "dept": "Haute-Garonne (31)",
-      "cities": "Toulouse",
-      "url": "https://www.haute-garonne.gouv.fr/"
-    },
-    {
-      "name": "Préfecture des Pyrénées-Orientales",
-      "dept": "Pyrénées-Orientales (66)",
-      "cities": "Perpignan",
-      "url": "https://www.pyrenees-orientales.gouv.fr/"
-    },
-    {
-      "name": "Préfecture d'Ille-et-Vilaine",
-      "dept": "Ille-et-Vilaine (35)",
-      "cities": "Rennes",
-      "url": "https://www.ille-et-vilaine.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de l'Hérault",
-      "dept": "Hérault (34)",
-      "cities": "Montpellier",
-      "url": "https://www.herault.gouv.fr/"
-    },
-    {
-      "name": "Préfecture du Calvados",
-      "dept": "Calvados (14)",
-      "cities": "Caen",
-      "url": "https://www.calvados.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de la Seine-Maritime",
-      "dept": "Seine-Maritime (76)",
-      "cities": "Rouen, Le Havre",
-      "url": "https://www.seine-maritime.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de la Haute-Vienne",
-      "dept": "Haute-Vienne (87)",
-      "cities": "Limoges",
-      "url": "https://www.haute-vienne.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de la Sarthe",
-      "dept": "Sarthe (72)",
-      "cities": "Coulaines",
-      "url": "https://www.sarthe.gouv.fr/"
-    },
-    {
-      "name": "Préfecture de la Guadeloupe",
-      "dept": "Guadeloupe (971)",
-      "cities": "Pointe-à-Pitre, Les Abymes",
-      "url": "https://www.guadeloupe.gouv.fr/"
-    },
-    {
-      "name": "Ministère de l'Intérieur",
-      "dept": "National",
-      "cities": "Communiqués nationaux",
-      "url": "https://www.interieur.gouv.fr/"
     }
   ],
   "transport": [
     {
-      "city": "Paris",
-      "status": "verify",
-      "title": "Mouvement social local sur les bus — jeudi 29 octobre",
-      "details": "La RATP signale un mouvement social local ce jeudi 29 octobre : perturbations sur les lignes 26, 38, 40, 48, 60, 202, 245 et PC ; interruptions annoncées sur plusieurs lignes dont 46, 57, 76, 77, 96, 102, 109, 115, 122, 129, 318 et Noctilien N51, N52 et N53. Liste susceptible d’évoluer : consulter l’info trafic officielle avant le départ.",
+      "city": "Valence et Romans-sur-Isère",
+      "status": "announced",
+      "title": "Réseaux de bus fortement perturbés samedi 31 octobre",
+      "details": "Valence Romans Mobilités annonce que le réseau de Valence circulera en demi-lignes à partir de 9 h 30 et que le réseau de Romans ne circulera pas à partir de 13 h en raison des manifestations prévues. Consulter l’info trafic opérateur avant le départ : les horaires et conditions peuvent évoluer.",
       "source": {
-        "label": "Bonjour RATP — mouvement social local du jeudi 29 octobre 2026, mise à jour du 28 octobre à 17 h 45",
-        "url": "https://www.bonjour-ratp.fr/actualites/articles/mouvement-social-bus-octobre-2026/"
+        "label": "Valence Romans Mobilités — info trafic, alerte samedi 31 octobre 2026",
+        "url": "https://start.valenceromansmobilites.fr/fr/infos-trafic"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
-    },
-    {
-      "city": "Grenoble",
-      "status": "ended",
-      "title": "Perturbation ponctuelle de la ligne 24 — période terminée",
-      "details": "La fiche précédente signalait une perturbation liée à une manifestation du 24 octobre à 4 h 30 au 25 octobre à 2 h. Cette période est passée ; vérifier M réso pour toute perturbation actuelle.",
-      "source": {
-        "label": "M réso — info trafic ligne 24",
-        "url": "https://www.reso-m.fr/info_trafic_evenement/1469088454965563149/55-infotrafic.htm"
-      },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
       "city": "Lyon",
       "status": "verify",
-      "title": "Trafic à vérifier auprès de TCL",
-      "details": "Aucune conclusion générale sur l’absence de perturbations n’est affichée. Consulter l’infotrafic officiel TCL pour les lignes et horaires concernés. Situation actuelle non confirmée lors de cette actualisation : consulter l’opérateur officiel avant tout déplacement. Situation du jour non confirmée par une alerte officielle locale dans cette vérification : à confirmer.",
+      "title": "Trafic TCL — vérifier les lignes avant déplacement",
+      "details": "La Ville de Lyon confirme une manifestation autorisée entre la Manufacture des Tabacs et Jean-Macé ainsi que des périmètres de rassemblements interdits. Aucune suspension générale du réseau TCL n’est établie dans les sources consultées. Vérifier les éventuelles déviations et interruptions directement sur l’info trafic TCL.",
       "source": {
-        "label": "TCL — site officiel",
+        "label": "TCL — site officiel et informations trafic",
         "url": "https://www.tcl.fr/"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "city": "Marseille",
+      "city": "Grenoble, Échirolles et Saint-Martin-d’Hères",
       "status": "verify",
-      "title": "Transports : situation à vérifier auprès de RTM",
-      "details": "Une source de presse avait annoncé une suspension des transports en commun le 24 octobre de 5 h à dimanche 5 h, mais une publication ultérieure rapporte que les transports circuleront après évolution des mesures. Ne pas afficher une suspension générale comme certaine sans avis RTM actualisé. Situation actuelle non confirmée lors de cette actualisation : consulter l’opérateur officiel avant tout déplacement. Situation du jour non confirmée par une alerte officielle locale dans cette vérification : à confirmer.",
+      "title": "Réseau M réso — vérifier les lignes dans les secteurs réglementés",
+      "details": "Des manifestations autorisées et des restrictions de rassemblement/circulation sont annoncées dans l’agglomération grenobloise le 31 octobre. Aucune liste complète de déviations ou suspension M réso n’a été confirmée dans les sources consultées. Vérifier l’info trafic de l’opérateur avant déplacement.",
       "source": {
-        "label": "RTM — site officiel et informations trafic",
-        "url": "https://www.rtm.fr/"
+        "label": "M réso — réseau et info trafic",
+        "url": "https://www.reso-m.fr/"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "city": "Montpellier",
+      "city": "Drôme et Ardèche",
       "status": "verify",
-      "title": "Transports urbains : suspension annoncée, vérifier auprès de TaM",
-      "details": "Une source locale rapporte la suspension des cinq lignes de tramway et des bus intramuros pendant la journée du 24 octobre. Cette information n’a pas été confirmée par une page TaM officielle lors de ce contrôle ; vérifier le trafic opérateur avant de la présenter comme confirmée. Situation actuelle non confirmée lors de cette actualisation : consulter l’opérateur officiel avant tout déplacement. Situation du jour non confirmée par une alerte officielle locale dans cette vérification : à confirmer.",
+      "title": "Cars Région et liaisons interurbaines — état du trafic à consulter",
+      "details": "Aucune interruption générale des cars interurbains en Drôme et Ardèche n’a été confirmée dans les sources consultées. Les restrictions de circulation et rassemblements du 31 octobre peuvent toutefois entraîner des adaptations locales. Vérifier chaque ligne auprès de Cars Région et des opérateurs concernés.",
       "source": {
-        "label": "TaM — site officiel et informations trafic",
-        "url": "https://www.tam-voyages.com/"
+        "label": "Cars Région Auvergne-Rhône-Alpes — horaires et perturbations",
+        "url": "https://www.laregionvoustransporte.fr/"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     },
     {
-      "city": "France entière",
+      "city": "Bourg-de-Péage, Bourg-lès-Valence et Chabeuil",
       "status": "verify",
-      "title": "Perturbations SNCF signalées le 29 octobre — vérifier son trajet",
-      "details": "Le flux d’alertes SNCF/TER signale plusieurs incidents ponctuels et suppressions pour le 29 octobre, notamment des perturbations locales en Nouvelle-Aquitaine, Centre-Val de Loire, Hauts-de-France, Grand Est et Normandie. Cette liste est évolutive et ne constitue pas un état exhaustif du réseau : vérifier la ligne et le train exacts sur SNCF Connect ou le site TER régional.",
+      "title": "Réseau local — vérifier les lignes et horaires",
+      "details": "Ces trois communes sont ajoutées au périmètre de suivi autour de Valence et Romans. L'alerte opérateur consultée confirme des perturbations à Valence et Romans le 31 octobre, mais ne détaille pas les conséquences ligne par ligne pour Bourg-de-Péage, Bourg-lès-Valence et Chabeuil. Vérifier l'info trafic Valence Romans Mobilités avant le trajet.",
       "source": {
-        "label": "Transport.data.gouv.fr — alertes GTFS-RT SNCF, flux actualisé",
-        "url": "https://transport.data.gouv.fr/resources/83196"
+        "label": "Valence Romans Mobilités — informations trafic",
+        "url": "https://start.valenceromansmobilites.fr/fr/traffic-infos"
       },
-      "checkedAt": "2026-10-29T01:08:00+01:00"
+      "checkedAt": "2026-10-30T19:35:00+01:00"
     }
   ],
   "transportLinks": [
     {
-      "name": "Île-de-France Mobilités",
-      "note": "Métro, RER, tram, bus d'Île-de-France",
-      "url": "https://www.iledefrance-mobilites.fr/"
+      "name": "Valence Romans Mobilités",
+      "note": "Bus et info trafic — Valence, Romans et communes voisines",
+      "url": "https://www.valenceromansmobilites.fr/"
     },
     {
-      "name": "RATP",
-      "note": "Info trafic Paris",
-      "url": "https://www.ratp.fr/"
+      "name": "Cars Région",
+      "note": "Cars interurbains Drôme et Ardèche",
+      "url": "https://www.laregionvoustransporte.fr/"
+    },
+    {
+      "name": "M réso",
+      "note": "Tram et bus de l’agglomération grenobloise",
+      "url": "https://www.reso-m.fr/"
     },
     {
       "name": "TCL",
-      "note": "Lyon",
+      "note": "Métro, tram, bus et info trafic — Lyon",
       "url": "https://www.tcl.fr/"
     },
     {
-      "name": "TAG",
-      "note": "Grenoble",
-      "url": "https://www.tag.fr/"
-    },
-    {
-      "name": "RTM",
-      "note": "Marseille",
-      "url": "https://www.rtm.fr/"
+      "name": "TER Auvergne-Rhône-Alpes",
+      "note": "Trains régionaux — Drôme, Ardèche, Isère et Lyon",
+      "url": "https://www.ter.sncf.com/auvergne-rhone-alpes"
     },
     {
       "name": "SNCF Connect",
-      "note": "Trains",
+      "note": "Horaires et état des trains",
       "url": "https://www.sncf-connect.com/"
     }
   ],
-  "verificationNote": "Révision des annonces effectuée le 29 octobre 2026 à 01 h 28 (Europe/Paris). Le statut « Annoncée » signifie qu’un appel ou une fiche d’événement datée a été retrouvé auprès d’un organisateur ou sur un agenda public qui reproduit l’annonce ; il ne garantit pas le maintien, l’autorisation administrative ni le déroulement effectif. « Autorisée » est utilisé ici uniquement pour le parcours lyonnais rapporté comme validé par la préfecture. Les fiches restées « À confirmer » n’ont pas pu être recoupées assez précisément. Les restrictions et transports doivent être vérifiés auprès des autorités et opérateurs officiels."
+  "verificationNote": "Mise à jour du 30 octobre 2026 à 19 h (heure de Paris). Trois arrêtés/communiqués départementaux ont été ajoutés : Drôme (jusqu’au 2 novembre à 8 h), Isère (du 30 octobre 18 h au 2 novembre 8 h) et Ardèche (du 30 octobre 18 h au 2 novembre 12 h). Attention aux différences entre départements : la Drôme annonce explicitement les interdictions relatives aux armes, produits dangereux, artifices/pyrotechnie et équipements de protection ou de dissimulation ; l’Isère annonce les engins pyrotechniques, combustibles corrosifs/carburants/gaz inflammables, armes/objets assimilés, dissimulation du visage et alcool sur la voie publique ; l’Ardèche annonce carburants/acides/produits inflammables, chimiques ou explosifs, équipements de protection, armes/objets assimilés et alcool sur la voie publique. La source consultée pour l’Ardèche ne mentionne pas explicitement les artifices : aucune interdiction correspondante n’est affirmée ici. Ces mesures départementales ne signifient pas que les couvre-feux ou interdictions de rassemblement s’appliquent partout : les couvre-feux et périmètres de rassemblement restent limités aux villes/secteurs indiqués dans les entrées dédiées. Les exceptions, définitions et périmètres exacts doivent être vérifiés dans les arrêtés préfectoraux liés. Les entrées de transport restent à vérifier auprès des opérateurs."
 }
